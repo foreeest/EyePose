@@ -24,15 +24,26 @@ def ellipse_to_limbus(x, y, w, h, angle, limbus_switch=True):
     :param w: width of pupil, maj_axis of ellipse
     :param h: height of pupil, min_axis of ellipse
     :param angle: rotate of ellipse
-    :return: an image with a circle around the pupil
+    :return: 3 pos and 3 angle, will return false if input invalid
     """
 
     global counter
 
-    # 检验无效数据
-    if w <= 0 or h <= 0 or w < h:
+    if np.isnan(x) or np.isnan(y) or np.isnan(w) or np.isnan(h):
+        output_file = "bug_log.txt"
+        with open(output_file, "a+") as file:
+            file.write(f"get some NaN in Geometry module\n")
+            file.write(f"{x} {y} {w} {h}\n")
         return [], False
 
+    # 检验无效数据
+    if w <= 0 or h <= 0 or w < h:
+        output_file = "bug_log.txt"
+        with open(output_file, "a+") as file:
+            file.write(f"invalid w or h in Geometry module\n")
+            file.write(f"{w} {h}\n")
+        return [], False
+    
     # 转换到毫米空间  
     iris_z_mm = (LIMBUS_R_MM * 2 * FOCAL_LEN_Z_PX) / w  
     iris_x_mm = -iris_z_mm * (x - PRIN_POINT[0]) / FOCAL_LEN_X_PX  

@@ -1,0 +1,6856 @@
+invalid w or h in ellipse module
+28.043324861946836 31.79037479654831
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.20449985824138 31.9879265245795
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+97.54385641625834 99.2044256302451
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+38.82737185043086 40.75080716427995
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+99.50414258139651 101.28787328702388
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+102.95148803665991 109.13903014301228
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+16.179060872999894 26.197342101536012
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+63.23136496371089 118.48809686003841
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+16.79280728044382 24.21691838207773
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+16.0817891254681 23.03247913667008
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+15.500011706281649 23.554030163793577
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+46.151662452354195 57.081670105435926
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+46.79075440384604 77.55342118847028
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+852.4249388850184 190.26608080738472 397.5999527642072 nan 0.24801185380278803
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+3278.339737328625 1022.0319710808947 1746.9413776763324 nan 0.2925224943879893
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.572430867694447 19.63498311300488
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.808977169743603 39.19713235896685
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+20.700845180174298 37.53722679062306
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+185.82587080074293 168.98410848776874 nan 374.94965900890656 0.7119617177485895
+invalid w or h in Geometry module
+0 0
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+60.13627225275017 21.498676253845186 87.20686097634197 nan 0.394692762024207
+invalid w or h in Geometry module
+0 0
+invalid w or h in Geometry module
+0 0
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+20.377872577390683 33.18581590292248
+invalid w or h in Geometry module
+0 0
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+7540.597079932975 3376.2413918432367 6145.084215493677 nan 0.38762332462552745
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+940.7966209018426 443.7662431104208 nan nan 0.48957329944548017
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+16.606570381228597 25.285464955686813
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+61.121070215137806 764.2281351287057 nan 915.0780809910691 0.6360256411821894
+invalid w or h in Geometry module
+0 0
+invalid w or h in Geometry module
+0 0
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+628.8451171658248 716.6245826505208 nan 795.969616875743 0.5778179524954079
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+665.127226693432 204.52227085907987 174.54569736977578 nan 0.7203319420393419
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+1101.265646003552 229.63411059431763 1283.609576571971 nan 0.24413430024697433
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.526312283356585 26.92257226203331
+invalid w or h in Geometry module
+0 0
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+76.48773011701182 146.9144623026206
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+343.13214930862665 583.0386499818068
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+1182.3468109172395 223.87181685595954 nan nan 0.11087139216070613
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+385.7209700372623 254.32704540293187 nan 420.3429624366452 0.5055973269995601
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+909.305288171021 178.43084081438192 406.2671982738588 nan -0.1456715348667985
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+16.481623102687966 23.591414830709596
+invalid w or h in Geometry module
+0 0
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.215067091920144 25.40842425814767
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+-270.4241885738521 29.625144642713728 426.0686171102343 nan 0.5641800747320986
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+-2796.8962226085137 -78.61028518013181 3435.894030678389 nan 0.06999735091852093
+invalid w or h in Geometry module
+0 0
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.825492406474883 24.38885002762926
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+16.83356427927732 25.315940812074654
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.692845092235395 21.764891126994435
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+201.74156837369236 228.80981742232828
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+-84.92679249879568 -3751.001933505212 nan 3875.43359017775 -0.23931300027391986
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+38.21182309954596 97.33893481456342
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+48.166021177019694 84.99267437615725
+invalid w or h in Geometry module
+0 0
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+-97.31014779138266 -30.54938966592752 nan 150.84256940214672 0.30490111666499425
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+123.34741592340025 122.52452846711078 nan 76.50595087007807 0.5407719153825244
+invalid w or h in Geometry module
+0 0
+invalid w or h in Geometry module
+0 0
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+58.817676779134345 103.07560199390609 419.06085339242327 nan 0.27657349853901464
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+501.28246878808545 224.2232354845429 465.75008168227714 nan -0.13716167783493574
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+305.67418634425974 364.3608597024423 nan 344.4907664622955 0.64447433132645
+invalid w or h in Geometry module
+0 0
+invalid w or h in Geometry module
+0 0
+invalid w or h in Geometry module
+0 0
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+110.46500952362587 51.978393867412386 632.972499806562 nan 0.3006088323802141
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+368.49476119707697 180.51494537522868 589.4236165085902 nan 0.015942183387322364
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+469.57201549308115 149.22302386226926 nan 142.82038296752515 0.17185168384981267
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+1217.3559473714738 305.0582673649216 376.18085339871743 nan -0.18828440452074388
+invalid w or h in Geometry module
+0 0
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+2035.545689473111 983.6893939784914 1050.887304442951 nan 0.6572490130175738
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+774.942181303105 239.05810743600426 12.000296072392468 nan -0.09687703671042519
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+907.3135693647338 196.87790890957461 628.4417044335473 nan 0.2470029552471472
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+806.3880191722592 49.10324513474387 882.7929949090417 nan -0.19221612335266292
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+-214.967039544674 28.217323140701314 nan 92.52584463804052 0.26132626967779987
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+784.4571414129737 227.4441876446883 10.02319131623251 nan -0.6857189999173688
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+-623.4921791908658 178.95302582509987 2085.154717890637 nan -0.1417934169737006
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+968.3009908577906 298.83628659228566 372.4354387578687 nan -0.626118832503122
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+1076.916154678031 389.65061474806913 nan nan -0.19537540662832475
+invalid w or h in Geometry module
+0 0
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+-456.85864104241716 -66.59985426621823 1000.6812868582418 nan 0.2188198720422022
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+-477.95621220881924 312.1185176736024 nan 191.2422655358352 0.39130330036233624
+invalid w or h in Geometry module
+0 0
+invalid w or h in Geometry module
+0 0
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+-5441.308239917907 -2725.258318008396 6938.743721383179 nan 0.43117852855817335
+invalid w or h in Geometry module
+0 0
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+520.097323165888 132.42202985161745 nan 98.97632955732212 0.3420058540017519
+invalid w or h in Geometry module
+0 0
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+279.1178916308166 56.27718079093798 833.544801804347 nan 0.17207149608535915
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+-1530.3665706349193 -195.71665912495908 1534.0248488982152 nan 0.26718209785065433
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+524.3970123444233 129.60721526866516 413.1344304504108 nan 0.19127218804182888
+invalid w or h in Geometry module
+0 0
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+941.7921932443882 454.8314817129447 114.28057424707427 nan -0.7657375268950598
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+799.1272750094561 -71.34114060904865 368.5202837906101 nan -0.2095865090016013
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+999.4374889445226 411.5431746610585 nan 30.874738994679653 0.22149719050507322
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+797.0814312742075 154.07292670758463 nan nan 0.1070128409495436
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+64.9443921983368 116.63376776780662 568.3687589375419 nan 0.21847331943635978
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+15.457119590874925 27.202491638434367
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.369719602205546 32.957108031820056
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.67968276498611 40.9216687076072
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.915428516901176 49.62710361200677
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.826987995453994 53.309337840080005
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+16.5223755714956 21.25173729347755
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.29149159840608 32.21124490398151
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.466832327588627 60.91823111723111
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+21.855072027480585 29.00542793245719
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+15.75228252431595 22.540440720883826
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+31.473431022812917 47.27526097412751
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.2116655962827 45.460806860851655
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+20.400838700002105 34.90857954024856
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.075521803423065 23.39530316507175
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.276540444253065 50.30072792050392
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+13.58239056787366 25.54920823403083
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.05820468337529 23.5563560403127
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+13.406263374895461 27.91157518271317
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+16.84781939466632 22.637094893725777
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+13.978363087664707 27.278742140296465
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+15.137924050001477 28.560823754963586
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+14.070480977440235 28.83869321291031
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.188936585732666 48.93692643106635
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+13.876180776778721 28.31548149760952
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.14270399206773 22.232186973160704
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+16.679870597142664 22.971376754252155
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.136401885263208 23.881584413453744
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+-384.3465299485211 457.1816458778515 nan 515.2019352796635 0.21712256756531415
+invalid w or h in Geometry module
+0 0
+invalid w or h in Geometry module
+0 0
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.999802214851233 21.508544916564137
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.002757430910204 22.165393687881352
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+14.580255429814283 23.614136522246834
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+21.63240232431743 37.09570411112935
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.917618332602007 38.61842223206029
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+16.240878522323648 36.06270927245522
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.40982549439236 35.74434411581419
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.196320535561636 55.937458525603326
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+14.809535223752793 35.72317734250539
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.433633464992816 36.12849627741662
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.768940345714906 40.45772156584438
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+39.48273545824517 68.17780263809482
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.988011565821136 39.66230850557546
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+21.837971945414697 40.73081588188287
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+14.684674968080897 42.09784861060004
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.54744868934055 20.81558154692487
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+20.93818506192201 74.81161909298737
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+776.8805105264557 38.24280844175582 nan 111.35572084375013 0.38963192544308284
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.45170963674174 37.84452310857871
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.957493464427852 27.363446570596643
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.225926434422636 32.52337604437892
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+21.798632324700876 35.2419302860607
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.41476982502068 33.02933259480765
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.191826239206428 31.611566240198798
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+91.8441628409269 108.2773514467381
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.08286795196149 22.264464751682358
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.197287310157087 22.178082153133875
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+16.32734166678267 24.847918573944593
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+20.11968286429045 23.25411711716027
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.23227430631184 22.133784199854304
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.362407208960683 22.686699896967358
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.195963871327894 22.606746069853756
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.09492535012631 22.532723936089912
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.127017560873817 22.464546692094007
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.10794721882801 22.575814264297435
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.043536239494713 22.58960664821875
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+15.591408348129665 23.65880688149655
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.003197584795757 22.330940454624677
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+16.214512115140487 23.443932583092742
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.47136479242476 22.40820140473665
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.143317810237967 21.623588146259678
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+15.652606260993677 22.873901702833006
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.05333656107233 22.369533692801312
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.109527419631767 22.467915998017883
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+15.16182418368713 22.766665365824387
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.189249303970623 22.53053859157109
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.003091946936692 22.637117188469574
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+15.021139787702195 22.66391487140049
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+21.98697860225513 22.509354623564132
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.16244212913459 22.40886666727532
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.738591249025134 22.7195107532778
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+16.162875786841717 24.812136283365177
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+16.48143448855155 23.75355077805453
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+21.982138500189727 22.682426435767752
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+15.52485956655107 22.589782862598636
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.988895484475993 22.319795719888184
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+14.554605045193743 23.50123228511661
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.366620794070933 22.74916273195597
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.326698515646996 22.642460320022685
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.54386762332127 22.901925037558136
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+21.962819853749274 23.96412675455915
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.17021279314377 23.940006756994176
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.429462151683502 24.736832613281756
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.8203363552772 25.48732340498912
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.491405540061123 26.040461464003535
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.958238959260097 26.452107926241034
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.00985993935159 26.65017451495782
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.535690113157315 26.981142541545044
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+21.36098462655873 25.878215115804647
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.830514261254315 27.026174745755007
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.044902232522695 27.009789409181113
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.129644282086105 27.224392617913935
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.987142400792553 27.062327484626426
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.917702104940414 26.807975068593638
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.052828860982046 26.8895870829813
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.003751647756786 27.115125776178754
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.969607754520855 26.691655093270867
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.87018344705717 26.99969083962489
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.672676980997963 26.86260641991406
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.350274468320688 26.729526235341776
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.909196312968128 26.406435883519837
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.781027983291263 26.2365362845339
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+21.959184159556404 24.43002403565924
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.845730412899126 25.051355017927932
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.606787098742497 25.128122529927065
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.840763471969815 19.49463874129957
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.95532357636478 19.529584571135114
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.663277355129903 19.250097463659596
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.534400228122617 18.904944970049144
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.96415367271632 19.17886642208549
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.143984943187924 19.335811339555814
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.037055432417933 19.48707557807965
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.393911409575697 19.51636809738703
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+20.029830253527383 20.29954774772667
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+20.0013176397678 20.33589048934448
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+20.19631215828216 20.461704203891873
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+20.116882610507137 20.47402414906384
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+20.295769035089968 20.463946203390236
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.87962591013413 20.23442277565401
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.852390384838912 20.21414852700545
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.50837662379584 20.10635702759939
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.070291370844153 19.992322458967408
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.396316512964752 19.948069881549497
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+16.188531341285646 20.951469505738
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+16.30150901652079 21.46321178060628
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+16.48190819632232 21.347697315808762
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+16.942669505005124 21.193434638109782
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+16.47498201877629 21.92673734145119
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+16.62626329678704 21.460805923206824
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.59618742172497 21.583410764886576
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.59258489734427 21.210748310252736
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.938979008568 21.439236134808564
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.010405784881264 21.56243503882446
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.882866544428552 21.965235098229208
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.515656347117734 21.904098487944587
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.5854879596872 21.606638898503608
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.72593649210563 21.82223165570577
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.13982517623771 21.469153551178746
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.617946323237216 21.56726382902026
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.415936646203672 21.745991426086526
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.987736328270678 21.657680079017414
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.95448224040162 21.655914744429733
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+16.164813601197952 21.01730885555964
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+16.537177347589473 20.92645384341631
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.5732981569906 21.106362277878805
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.683208189834033 21.277324470065306
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.661423419197092 21.224023767754392
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.90543459550358 20.823487826439102
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.921402425859924 21.360475950477174
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.222226879519788 20.202539066460762
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.875012258831 21.153022757236865
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.267517678824078 22.098658965627497
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+16.717645335832223 21.189201591552084
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.508428924066436 21.86868629867028
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.946706966321496 24.406652920039132
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.59304286807581 26.148626616215502
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.000988548923623 26.24342685876871
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.248546186984683 26.97104153391689
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.40182542464776 26.98658594209695
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.411623266207986 27.084084572924034
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.369219263178373 27.05733673558903
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.34355038439274 27.175819309604613
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.370879057792752 27.016837483334125
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.459058298866196 27.019288721085136
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.442695839471316 27.192534104404498
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.43933872643477 27.212922625232064
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.51679324821435 27.102486985956965
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.607238430490344 52.55635743261109
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.4278925601634 27.26699463701757
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.539283038750135 27.374896224388085
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.57075435266333 27.5050386482249
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.79561617262207 27.68160295954629
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.639074459225927 28.275163636092753
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.12455849971667 28.766567384628548
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.330795127948683 29.51363575618517
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.639258872751192 30.884640622630098
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.54662113342191 31.86437718868375
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+31.73893073023509 32.98394728548739
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+34.64443975891492 36.31915164488667
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+36.913336726131085 38.269304500632664
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+37.785770870018574 39.77706888789384
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+38.10494564452341 40.59013079253217
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+38.56238416155661 41.47420291053588
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+36.71035198211192 42.012999939041414
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+41.27072120586616 42.45258725290418
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+42.59955507998326 43.329329242098666
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+42.85369231763828 43.73146642083983
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+42.5258398691978 44.003919509090615
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+42.895318712767924 44.78312849750705
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+44.17672563936397 45.150598889981524
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+44.56129545506634 46.16879500612855
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+45.478989719128144 47.63181288507108
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+46.834762681865385 52.0476681697049
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+53.29976311008468 55.221939052664254
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+55.62576845657051 58.89668515158853
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+53.21591905434417 62.5761463972682
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+62.11815740201347 66.17175351653536
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+65.88128518579774 66.99113161898906
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+65.67694000111337 66.59064219710575
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+65.08690104121493 66.29553761309951
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+64.891166554093 66.7247421682658
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+63.16973119945666 65.13122714535896
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+20.202225314278948 27.773671614802417
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.603574296468633 27.12677595509092
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+30.343398638551974 30.85199201750227
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.555557743935637 26.708566146914514
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.365126500548936 29.524508038530684
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.38297037425319 25.858213582533654
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+16.610171100314627 29.723710770828212
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+16.463493957417143 24.23437926767313
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.747955186919857 27.608331965906995
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.31189483049701 28.933551508728055
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+16.010357850488294 25.159518941441412
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+16.002944735631036 24.39049048266042
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.8416630279227 28.209141858649303
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.2959719213503 30.236225346193326
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.15846781641685 29.053481441241686
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.32344077687947 29.379147135706823
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.764077467880345 29.268823481887125
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.965905638462857 29.491911184693052
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.092999572162316 29.590970587347606
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.652687090665612 29.43049496274953
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.543091510646637 29.323918425502637
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.51388615798671 29.502239847655268
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.865938223825253 28.150767209531622
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+16.117913637339253 24.889145398589264
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.811661989141403 29.412820498034893
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.4444932212166 29.652163188046913
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.802415440206605 29.666005239828593
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.7296344908953 29.72365636434981
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.702385611272863 29.7744490883318
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.71369075807456 29.69113416527594
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.825012631017252 29.716328755267288
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+16.187251516645503 24.627233838432574
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.84813201470988 29.58263823414148
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.94643661595367 29.63742536407806
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.922460895658123 29.68915425445274
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.856261231366204 29.691982727111554
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.979997537187227 29.681504709692895
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.997522348764928 29.609597697050177
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.997616619752783 29.575642889657555
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.032955347502234 29.588308526145017
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.962758245399105 29.757091857171044
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.539243517467632 29.896881610162666
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.14799308563587 29.862744309140314
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.03348538475742 29.60313547928607
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.243830741107672 29.77726947803794
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.240848490936894 29.732532243546117
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.92046272422567 29.7250621238437
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.556864572714673 29.697639840194725
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.27943696011846 29.223251172668007
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.634822345687557 29.3790620490125
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.04224683953548 28.974877698589847
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.09155246330568 29.15933621728862
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.314539209846384 28.89404496597517
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.059267860399082 29.67149866727596
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.18292639966393 28.17345730037928
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.215917958041402 28.530965700864783
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.21493964739144 30.19180255284803
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.260927045381788 30.227297144925814
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.57635217890961 30.105641053518422
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.356851789575483 29.156776714505085
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.08410615757677 28.799209771532812
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.89074438021693 28.32482924057075
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.527688800856517 28.079023080257187
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.591194532771453 27.285284497935166
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.284356483999645 26.848234698517324
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.09949728965381 26.79482030835995
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.677369505977506 26.20743120051234
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.208370641596552 26.04305381781821
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.612428190367616 25.818417681088864
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.047314107918996 25.645554112067227
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.02884718374545 25.3592772284207
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.898421614093607 25.10963657820319
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.574951744819334 24.932720282040712
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.564170301693597 24.807875907131056
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.5696718462933 24.605723657747976
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.3448548993653 24.4952136135216
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.391436618872163 24.473135759249892
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.426371163506165 24.267276397528537
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.4281061231123 24.19195949697456
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.985346999319272 89.71292990611077
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.35666615433227 22.704236654999736
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+44.889395336479474 45.42758724470516
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+45.37849003646979 46.29200217316998
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+45.68868459787528 47.75603592375999
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+46.43694683397744 49.4503147660596
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+48.164872548913216 52.42455740263838
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.028921921917707 18.16219438890303
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.36088915959387 18.91658184588798
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.160049732641532 19.419000288925364
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.55550606984245 19.619687503391763
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.000711499074765 19.693744589973228
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.665065021053337 20.14565069497989
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.705193464838292 20.288959089550875
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.490570212572578 20.324770937928925
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.817719387207557 20.505297176789004
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.96578252962197 20.413110700931384
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.63402060166118 20.634464914469447
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.0353985128645 20.518884288318784
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.108228470416478 19.72373525357229
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.2637037462359 20.244691689581884
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.38708367375108 20.688420728621285
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.971831113938315 20.325081878576515
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.31310531191372 66.63529980535024
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.768355203789895 20.240851173871622
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.48215532252334 20.30830317982417
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.839748577981773 20.23716274716583
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.009442862571312 20.09287839291434
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.180964726061553 20.107784690990762
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.20424356454695 20.228667757646697
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.258468130420578 20.337123959636997
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.80322438815902 20.281537359630352
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.59264673294896 20.110846349793462
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.335296019197912 19.362006085636327
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.837166536452813 19.03045595678255
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.88931463191805 19.5984027265387
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.38610149540215 19.371609783399705
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.85441190294204 19.28769376746115
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.881102036657808 19.269795309405534
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.869430295110497 19.26664843463298
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.95657702365468 19.09896313975273
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.619872057036606 19.124052308295788
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.677507055960543 19.24406190025768
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.822632578665743 19.32714419789412
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.13367937656249 28.77327725188047
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.514999450175075 19.22156479019577
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.475368302168384 19.253401721641588
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.474648045178647 19.019518985032512
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.39740577980372 19.387491241977663
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.52036785286209 19.419915567178094
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.409162590121895 19.199109744928744
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.2453773101919 18.410880437551093
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.269068783354147 19.20220009046764
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.37701225766084 19.899366663395135
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.9705644413538 20.46788135048524
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+36.123009234842925 36.77073242006175
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+35.49435785554301 36.440593018607046
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+34.39828477526809 36.14225833255419
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+34.230661015786296 36.185773304772674
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+34.47618259977146 36.3675222583702
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+34.14329383814365 36.344429345682975
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+33.972003957974515 36.211787421518096
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+33.830603276745514 35.973001340696506
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+35.377893748794655 51.486143027294005
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+33.43988177779029 35.95767663615326
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+36.53974485118472 47.88046472661825
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+33.4108675419134 35.51195493632529
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+37.12406803512674 45.60013982677117
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+33.74882824218724 35.45520587512644
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+31.973436655499878 46.557491618237286
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+33.73754226292198 35.11624571386879
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+33.51403595327215 34.76635492403235
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+33.86100546971933 34.730928245051224
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+34.27710518331667 34.70683783913525
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+33.96136932425044 35.093299967299295
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+33.877525358570544 42.577353753573455
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.371098299613475 24.7692178163425
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.34767457390438 23.855907903362148
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+20.112742620777055 21.18629205832834
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.709201451174795 20.795321377790692
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.606605280913563 18.838043606588744
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.817755668117638 21.16783713149723
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+21.228338374397172 21.615312135874916
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.88035998896328 22.449163724233816
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.96501127085317 24.673822379500244
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.279883331704283 25.394880315339613
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.634916880907166 25.68220750092377
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.46414865817448 25.613935225664257
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.127508561004912 25.234994859558732
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.21840518505512 25.31648157385868
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.184362073299706 25.29799316257361
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.043175555655935 25.261270614855263
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.02123329307402 25.05033691811199
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.883161782642894 24.926496090769177
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.02544550689807 25.109824388601055
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.88157252690942 25.174405258735103
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.613314869223778 25.37933531238451
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.35231945889244 25.932569040396583
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.254321131730055 26.43445779102296
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.590570651419746 26.79440844063837
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.816385023234417 26.921062719098543
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.505685296077697 27.058436693511474
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.772034112020528 27.388657582804363
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.12042003354522 27.422020091253092
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.8917432033667 27.493066477445073
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.89327523800221 27.86215669183184
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.93259885026811 28.45118017404182
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.497312537020772 29.29728511920182
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.491944467765325 29.22569288596587
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.36222809608477 28.270776862501048
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.72686893152625 26.827533686990346
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.834189274095305 25.380027097336434
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.247154896261662 24.092842114949864
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.639115371632794 23.01418041139386
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+21.861390665397938 22.551564886169906
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+21.404221315229705 22.3476425044521
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+21.063797914732874 22.304521289101295
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.455168615985723 22.873563932205183
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.720346645523026 23.32406542861978
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.944285869608347 23.233444040096035
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.992826256474583 23.477776313626876
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.03065009994615 23.488210477626712
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.0701756585161 23.52002883217341
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.369990867200645 25.47264479985275
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.365692826459906 25.58592387112774
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.404149711007957 25.59749976617977
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.277501059855208 25.66343603973062
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.281289655108687 25.60340928775876
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.356911016128848 25.640737632334393
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.287536053139803 25.70937234647769
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.06068172475838 25.615296584979546
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.926243592103273 25.539689676766862
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.740792723323306 25.56906931483644
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.53733641781987 25.42502327741477
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.204958804102223 25.303514713116837
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.597274190635552 25.200884454128722
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+21.710162495200088 25.056900185571486
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+20.807420049002996 24.958296628581575
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.823818351875765 24.81959079708701
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.26383654777263 24.85490467836985
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.80334375763968 24.981159831947632
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+20.6922253357811 25.09140464977065
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+21.30970046327411 25.116160580761598
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+21.96560106207211 25.29924765818694
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.568015773979916 25.284460408264735
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.071853289891838 25.26448813685616
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.6630989383919 25.465518457000538
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.18218354211505 25.79280667588252
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.346823711688494 25.68930263526659
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.319411800871038 25.703137144377095
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+16.68413988014406 49.4564050851459
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+31.30872124302381 60.435058245518135
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.370811422166735 23.72969420662187
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.70532088617401 25.723523543081445
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.449666857538258 27.19517760204282
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.739895017487928 27.57614722433388
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.87756020438715 28.262349004554203
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.62657768314485 29.163219442081147
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.12956351427123 30.1669924488054
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.853648762833178 30.49308805345629
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.732033646595596 30.381356118019617
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.55281702127251 30.341931696143195
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.55615606049109 30.22075346003561
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.304523091971188 30.024305308452178
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.317890303333584 29.881944394800012
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.910334015045297 29.799162247837273
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.04154758928291 29.745485673172386
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.95626513097966 29.618703008343466
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.76471439415034 29.218389724044076
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.49031176035962 28.23568495822421
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.370729204593534 28.092751667772802
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.324954747065796 28.340093259483695
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.85284757395003 28.486672519101713
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.027229018911285 28.593419964805022
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.377443225769245 29.053384857387886
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.686918282973586 29.39590039119662
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.29715850226569 29.731598621900016
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.25557225291916 29.89005019436334
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.030163034453302 29.485674891391277
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.771228986469865 29.06117261641426
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.051412766590282 28.599400729997043
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.54027978731045 28.023169491597056
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.712137530157943 27.53298657751563
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.13406599821297 26.589670739655688
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.25613861690629 24.50611756495763
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+20.205441579435007 22.59631220737729
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.815537086749455 23.281528395655666
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.894056199507595 23.544198947546622
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.98316402915265 23.413263934602877
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.964598076752207 23.382189019273895
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.970220924398543 23.339164011429272
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.902058900100865 23.488933481782745
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.92768448595042 23.34035893004952
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.876432820910104 23.489412746074926
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.716806548049902 23.278006067418282
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.249494635785968 23.254045082218852
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.397367282535413 23.720706119776015
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.35773615888296 23.6966713311011
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.295644244804873 23.706046962558723
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.319235765550054 23.773158269813994
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.50675250089524 23.777258040075907
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.66834915927437 23.837426494260033
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.593190836502654 23.77111325271543
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.342264763526426 23.586929416796107
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.183126318484273 23.516341088115556
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.491061023076046 23.12883888585322
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.30019135823431 22.635241932660886
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+16.882086147511824 22.528744734116785
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.031090829531113 22.62996349118567
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+20.35877543489063 20.825144863365775
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.736717365480967 20.144895670688566
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.72599395032675 19.640370543963517
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.754848937344292 19.26072832273363
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.395709078543554 18.855879742900868
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.81326877936422 18.4147674951649
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.990379134016607 19.510235097325065
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.65269937452734 20.43738354488615
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+20.686225018226725 21.132954626764942
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.369637446958603 22.908811893376917
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.326480143604808 23.57473737019648
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.47459958284136 23.733049256993063
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.65780181779323 23.973134737269028
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.922205363058342 24.36537032143773
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.54819074772276 24.75406033788059
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.713268644046043 25.056179666011975
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.611451052246316 25.823735665488783
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.640306140024695 26.83273577863086
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+38.91789735785779 40.20871676616589
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+38.58176395995562 40.639169853781475
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+41.08500096194526 41.9770459584601
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+49.40070181136662 49.96376752222918
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+52.208739663293144 54.077901057486436
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+53.780465186020876 55.633750781067995
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+55.602441985497656 57.51282364544307
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+57.55153736415394 59.051174509738644
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+59.100818205209755 60.91469058660969
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+62.44783080835094 66.10480961434416
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+66.5656745095167 70.76133013450317
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+80.13757244998637 85.25541704101362
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+87.96825520159445 94.11844244170614
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+90.61841764199794 98.16619779787975
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+92.40737710815345 101.41743493282308
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+93.96307760245253 105.28656553346381
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+98.66297291838566 113.8863385155581
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+99.18902881769367 108.55980977581578
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+104.05278502629768 111.89542554767273
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+107.35479059074686 116.27487068199925
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+109.18290426993087 117.5957785738201
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+111.00735204748348 120.51784548346275
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+112.7207746161147 121.10700783382737
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+111.77392579737479 121.75739369544267
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+116.25819597617348 124.53933386867014
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+115.33234811148851 124.26931546347822
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+116.93423019246185 124.10599468909756
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+118.53213923775975 128.67877019176433
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+124.14546058550827 131.82032250402537
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+126.87338962972115 135.57246799942132
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+128.540294381904 136.43597752259237
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+130.0975238947888 136.94554672248867
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+130.87181699267524 138.22787133278553
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+136.47418025273694 143.19142196858758
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+132.71662078405333 137.6282968475581
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+57.08358401553202 97.5286545852847
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.606764188775514 67.52225025113968
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.27789745770811 33.97511596257229
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+16.529670170273754 28.624750251102267
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+35.92841227463794 48.21828121179343
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+16.317237921837467 27.798176677033556
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.766199364159313 28.68699891915708
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.651801914186127 28.76365720016169
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.55344966060161 27.294921307806856
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.53132496361954 27.478434223180763
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+20.08969717275268 25.951439379587345
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.713599351290352 26.867423698808164
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.61305659031426 26.513878135353142
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.588015166223972 24.870825836650056
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+15.093508990186209 22.902363774619523
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.75525871006956 24.94855393651929
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.159776860046584 31.742601407852074
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+16.703537855480064 23.501678932959983
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+14.923230290630165 23.09350042059599
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.88545996752893 27.80076699349789
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.288086459882777 27.27930812037304
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.665599323915416 27.79952582940844
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.830357001688363 27.639358344350864
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.71055108978965 27.81846591166127
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.287325648271224 26.447340627877608
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+35.280004685929406 60.14541449170148
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.971326336110334 62.495671227182285
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.869252001881915 28.388575944238134
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.927624085147997 74.99268135188436
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.6455100506293 28.98989196306364
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.936056529632705 28.868171206653106
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.67473240840956 28.533548224281855
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.808381669790432 28.74440841074947
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.401644489117874 28.849439486856088
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.613880089469095 28.885505688329744
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.54551449735971 28.842185229538714
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.696149215629873 28.880426390660528
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.71398277896846 28.98213339450943
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.731049031873567 28.85304679773436
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.562307881644777 29.021445804591927
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.655096538697315 28.926217794064247
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.754877387390156 28.933267825692063
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.515101839201883 28.978056012184492
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.92639106465992 29.103901012579236
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.93569748728068 29.11589367111371
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.60566249114494 29.078355889979477
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+16.924893798500374 20.309644256152122
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.10663725573594 28.767801351811606
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.238669085844123 28.97067045756345
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.590666833856133 29.528391889730404
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.112497184704154 29.88772183959511
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.832676331714826 29.120053507720705
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.221343319434283 28.798903433238866
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.07026657398782 28.234663079774435
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.577318672035844 27.896757901126843
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.29863199052465 25.681140983258782
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+11.701425040802889 33.92572398311947
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.044134657952615 23.344197862069045
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.0366311652968 23.206315735803962
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.842660228972374 23.00005447339905
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.675620403043105 22.809063236687173
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.468623740034573 22.586671262587913
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.00925894765826 22.184436655142175
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+21.669377320754258 22.073264505850727
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+21.5257917938942 21.82884440352672
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+21.433810798165492 21.7351905751364
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+21.662937941647577 21.889363880219417
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+21.850416267287915 21.948095243377082
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.06605691989027 22.363854288413222
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.4733564234769 22.619937754734504
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.614844238085464 22.890717349303912
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.90792796143246 23.110807117100006
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.170307482261144 23.669895237448817
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.87067621232681 24.150444199747767
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.910830128918935 24.543923947105895
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.230079719143845 24.795802834415305
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.558528337993614 25.03982483400421
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.76920865042244 25.048822370768086
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.278042766167363 25.52530306758006
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.196735100803526 25.606803267538485
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.970941225621416 25.731131842708518
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.502293820857385 25.183471955538813
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.2225450015841 32.373947411701494
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.89088609436134 24.39018360503848
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.113652873934353 24.05631454706048
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.84320468473181 25.138317012346306
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.623609696890533 24.73304555481445
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.186589078273382 25.38710179110708
+invalid w or h in Geometry module
+0 0
+get some NaN in ellipse module
+79.31507396697357 1029.9829148270205 nan 58.352077681766936 0.06740099278695898
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.164938786727895 24.324775192242907
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.771939659776837 19.96301349637335
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+20.02004331581985 20.626623805121657
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+20.03143399843373 20.82350969458143
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+20.129609869354642 20.98809421867566
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+21.13742761816639 21.69972218477522
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.00454490065984 23.181876129221358
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.948235393276544 20.7834498173515
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+15.060581780643842 27.34228880551485
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.662591911754088 43.94220082130401
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+45.311072235006904 48.953651435720275
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+45.35672556363599 47.614302048879665
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+46.78513108294457 48.65790530843165
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.7506093734047 20.532554781441267
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.986214769355705 23.696111041240496
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.45540242133101 23.005267432609752
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+34.49341133449445 44.931364204209984
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+42.965673643325786 44.500592016248
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+43.1866065577207 44.43255530681192
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+42.919518920766194 44.661636340661545
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+42.488269231265576 44.92148002004764
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+42.02409078977513 44.69422062879362
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+41.83613190847365 44.942000521731885
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+41.565180823287065 45.12206310260804
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.080434050930734 20.52899137270745
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+41.3242350841733 45.194304959880846
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+40.871514299305495 44.080387440086184
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+40.07807570144043 44.82366314983776
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+39.275957863087754 45.24608999406074
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+39.945405412008625 45.01745720092108
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+41.1470170659298 45.01722276996215
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+41.554758524817736 45.17363267876647
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+41.70617870280133 45.01321588660308
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+41.25531184551624 45.34653184668765
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+41.1305436504819 45.07778280827374
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+40.77623976078559 44.54284535701541
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+41.1573166349084 44.52913332949524
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+42.37406121721499 44.9866611762122
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+42.69666406864399 45.46964903773075
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+43.48481582426291 45.48734654518382
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+41.5698716890498 44.81546962629471
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+40.204193330408216 44.68410827453167
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+39.108803087009754 44.72162640663241
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+38.50594822950428 44.63637258976741
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+37.90387746801221 44.60640335811603
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+37.54733921105208 44.57279248411735
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+38.138043059899594 44.69993350372532
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+40.1742907289323 44.490668859342684
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+41.837790428530205 44.42138472146269
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+15.053886310138598 25.94394879857934
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.20274924411168 28.380668630075302
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.283010585925275 27.964284214860214
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.313226739412162 27.914304339313716
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+77.0174697197091 78.8324976914041
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+79.49815846474574 81.20134729705495
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+81.71097196069886 83.02796214055975
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+83.53611158355241 84.50158598330371
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+85.68837629065588 86.38176923577375
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+88.20191743994528 88.91529794312062
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+91.09662828170902 92.37440549889678
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+89.71860894714122 90.33890121502094
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+80.36141895846976 85.33961724129028
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+70.63708089259617 72.7388897782874
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+61.569787668953886 65.58865357483147
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.29889892361615 28.256434124708317
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+53.368049994929116 56.40766028198939
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+14.41745354403758 26.042216801084507
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+34.18996967334396 41.500450523703975
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.160566823923073 34.17262604918551
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.662382113468553 22.635744657027573
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+21.060753602881867 26.475446482600624
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+32.814984405724346 38.91708454811839
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+15.592016528083132 40.39057844191942
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+15.50132458240097 24.263346941966958
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+20.080620947087937 23.06105659560937
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+34.67343186294116 39.24198117546086
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.3183902454882 46.6797727175616
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.23670902763962 54.993866007438776
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+41.05004527908925 68.85833622030947
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+40.32975556391525 43.312006686706255
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+37.54462119757604 57.69537508058167
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.205980550505696 55.83135713282014
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+44.72295461771283 52.97422927943871
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+46.31722511483995 55.51197813290343
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+30.586534031115907 39.171114478426155
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+30.366265939749628 37.3831578246495
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+30.507137344117083 38.04190823172256
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+30.239215699567918 37.65289936404895
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+30.33655767024902 39.140262041673274
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.51436098794977 35.309860036376364
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.473142450299537 37.45214080440649
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.58557697503212 38.580409303040476
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.418252237061637 36.73812986606132
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+38.270446715462214 39.54604122474248
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+30.159353348708862 41.614702526017346
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+37.30808564434962 39.141085377155825
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.64213523147459 37.17708702924874
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+36.63092579157953 37.206038584597636
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.488949768526755 37.77801146047406
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+37.08382403986989 37.727542628627305
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+32.26899334483164 33.343512600699675
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.810975998265068 34.86468109651685
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.777584550127894 37.562329264899695
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+21.731095518447372 28.93348892000914
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+15.378655565702978 27.50963284432343
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+21.216854342197404 27.572216535484245
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.96177282798324 20.514630120878273
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.893490071474154 21.732435036037554
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+15.001495911065335 25.023278315115547
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.87271848232773 26.95067876058936
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.37056997977663 27.323369969390903
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.382063481490686 27.410156218586568
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+16.122115776739914 26.61174336394644
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+33.80897799810401 36.01840782956274
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+32.39175526572205 35.57175293514022
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.09516221226305 26.101115960112235
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.23068436499727 32.3002527083539
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+31.463484476668516 36.305461373390834
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+31.338666870364875 35.280830623523656
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.379785878585466 31.01366082513779
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+16.342935117066403 26.797795453928167
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.96607498426592 35.919336475142536
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.030379579785233 34.818938924397955
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+16.200753574378293 26.00958967867597
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+30.72217066275954 35.80895355825328
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+15.972556782317643 27.53063769337056
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+15.734505237733766 25.800442637384513
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+16.830098751631013 26.457265383046405
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+14.925990949133388 24.88352327441025
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.046600030552785 29.18683834230247
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.12169215531903 39.88912447065859
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+43.18660098578809 48.1715721740671
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+37.1905725944641 47.872766815158386
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+34.60656799414767 48.78231095732682
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+35.19801944463344 48.982323438077884
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+35.17769555411027 51.03651751050235
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+36.422973428511355 51.64570563653783
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+13.134180637838686 32.15262229997009
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+38.55658602555873 54.55793924233466
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+33.82813494850892 52.26216203123571
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+39.219405171964105 54.50901850192528
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+41.937290708431895 55.09700558351624
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+45.266639351440446 54.344703914959716
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+45.905070742304765 53.47549400704564
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+45.273438954370675 52.29846721167809
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+42.64604769430799 52.857293989100626
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+42.25093180752118 52.21800470099639
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+40.44343341537352 52.098622759862856
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.43826100547459 34.708232013230194
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+42.5323358337834 52.53508644045342
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+43.82894543149466 52.75865570193199
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+44.69795904131815 52.79605951891837
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+46.277256899046584 49.845237352869624
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+45.70568673673212 48.32698022394475
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.851032740641294 35.06424018421703
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+43.580366128174845 48.727348074921146
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+45.02222163048989 48.81784389307286
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+46.02206586857943 49.5614443298717
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+45.50179394419091 49.03401169163296
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.672431004076476 42.61687239163522
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+43.75599156283395 48.31490713833616
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+42.405338655553194 47.4338884317682
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.712424380088578 37.46786906172869
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+39.3713115995098 46.426792869073566
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+42.431396992321375 46.27968954886702
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+44.453559424229226 46.84556844189966
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+44.64568024158796 46.70119727174193
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+45.381697599472055 46.670370983167984
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+45.24913979322616 46.53192500527902
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.563264484618795 37.35100159105499
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+43.84327336623959 46.422473217814854
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+41.441548707124966 45.61650230810277
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+41.58081555796259 45.36398046683098
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+44.776226522152605 48.292632137748726
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+43.09101969634665 49.833615435554655
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.47508126162593 29.587664072317157
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+14.933595599941432 22.590403913249197
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.38491260291408 24.398887912703728
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.955914376142836 28.68350630908519
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.723541050655417 27.80744136022176
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.77562996159342 29.875256626958553
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.3543282755578 30.05227939917555
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.26353283190816 29.97319720758551
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.422956402044385 30.109823123515486
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.338247562678198 29.92858948993921
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.44917786097902 29.809334538600947
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.34159950707905 29.84389313245584
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.26846664513794 29.74631025502093
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.989825538886432 29.855225512720775
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.131226380162467 29.822831576368692
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.909595615606513 29.67661596722018
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.65153813889485 29.810876920357973
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.580512698204434 29.72665244789495
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.69605473309011 29.563684397676887
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.8274385387283 29.700285707637534
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.793554949688765 29.566629044495546
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.797967297745362 30.347523672073457
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.896670498272744 30.473038687203736
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.62630775951459 30.452916813478257
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.50500588651108 30.491382682550274
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.313500500178026 30.413518059645828
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.901955995316044 30.230660845049634
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.37972844012666 30.18964083847809
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.392623865511023 30.033760156727958
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.072842786299145 30.35676757599428
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.447057280431903 30.077571369744227
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.456022756215987 30.14179025300762
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.529106878208406 29.9479003768178
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.621769695676655 29.82538503163179
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.560564441691223 29.969189481644474
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.423857832374374 29.939079477723098
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.511546006297714 29.831403746253947
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.77395061463251 30.032637931926246
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.886324682097033 29.956782728159524
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.576173398745787 29.774166832449424
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.911264019751794 29.542003817230178
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.2698913779952 30.68213599719628
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.360889451921448 32.211477546758616
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.678080141489094 32.578798433468435
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+30.0914969978812 32.607435770926905
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+33.66829441527882 33.84710567336409
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+33.90681261885347 33.999746161922104
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+33.343474183908164 33.72521179585535
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+30.82672882089079 31.267716318668892
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+30.489413161783474 30.829698315301513
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+30.130282959934146 30.40119560470594
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+21.089497381211665 22.01177031523838
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+20.780785892176475 22.16965823850377
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+20.371896515634887 21.48479201381586
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+20.24535043002912 21.555306628351325
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.928348878715695 21.460869964482775
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.84763373165242 21.373253350038397
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.67738207124712 21.45600722640801
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+21.00832511144376 22.600693764475384
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.433428451831446 25.32131974117127
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.681586413786526 26.017078768937136
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.19815890974708 26.214046391169965
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.158890513920145 26.397626609892107
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.780836787801114 26.47253389992606
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.904474422786837 26.793450688756685
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.105255729867356 26.994760438295607
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.357894700617923 27.250331398017146
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.444092800547484 27.68719125948026
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.73397081185756 27.909338971278558
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.706117426424605 27.809651884466355
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.683981446859825 28.01245811956685
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.45739998575938 28.55147042075955
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.167693249446664 30.34426739731903
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.944425127245463 30.513667671441368
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.340500544059186 30.093213669474043
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.089752741166564 30.524331909210552
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.227314787241333 30.660933279433
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.10770110777675 30.452108750950707
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.942151781093077 29.32823348910836
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.73687864261955 30.383931414434382
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.80175953248585 30.98347576440273
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.885345792879942 30.651099606098914
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+30.401873906180082 31.188596021171428
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+36.476798480684806 39.32020202323254
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+36.141133832128396 39.82389283293458
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+36.09179986244871 41.210121170611366
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+36.20277063259791 42.51497676334784
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+38.64301453510029 43.94738957819304
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+55.514963435764614 59.325825592805245
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+67.70920467741801 72.24127997839692
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+72.48080035299712 74.11033841844683
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+74.00190624556201 74.83619051723984
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+78.68927710012012 80.72584298878633
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+83.54798127572948 85.4036270853556
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+84.28593044263796 87.08143420666235
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+104.17186298559733 108.57557504817682
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+112.77283225700893 114.80145440619955
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+112.42492819979122 113.46177318606735
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+124.1438191702857 126.46900087835883
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+137.4507093689618 140.3101738635168
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+140.64958685809913 144.11633039361246
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+141.8689266865197 144.35440169970926
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+30.07188433034487 35.86753772240072
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.883437043595187 35.02113825040277
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+30.904853123961882 35.75019390780566
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+31.610911144709185 36.62759579469905
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+30.674054027499242 35.763476599612794
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.99940156276137 35.14578634843326
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.705035840105126 36.09883027044125
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+30.3012082016138 35.610011054622156
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.60337898046104 36.754399631686255
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.94689555609448 36.00767324748897
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.514524167359543 36.13886015854032
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.523490830455376 35.78779767199335
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+76.7971957946889 82.16776035087412
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+73.25188040976782 73.71521453510331
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+65.97296675866833 70.50648448776312
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+61.50408032532755 66.8697156880297
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+57.88989134348255 62.30404663127017
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+41.73889496111314 45.5068899600489
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+14.744247856575099 27.716319985904438
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+51.39406618947929 53.90093652383639
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+31.02290282441687 39.1972919053646
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+52.8372626095256 54.40639963901833
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+52.973579221936774 55.716474236053436
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+50.99240489792248 52.291632196781
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+50.621531546714955 59.17385360148381
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+52.89169121147903 59.10785608407161
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+54.867447945106 56.99383222755976
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+43.93430311240546 47.92500152157038
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+42.550402099349355 46.591959341299514
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+40.68474170542634 45.0566484099915
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+40.687488771129395 43.86619148317218
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+39.859545692851206 42.025145772439345
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+39.388782959541274 41.77990211157823
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+38.49455174026323 41.946646905084776
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+36.163782972724476 39.17973842295705
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+34.76778734003519 37.92942166780068
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+34.20646091197316 37.500997298742774
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+33.60523142238999 37.14367124024566
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+32.41085347202647 35.816960412515854
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+31.16074407974895 35.540955292574594
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+33.394983009194675 35.81693650193713
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+34.045807970400354 35.17677219355107
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.531073010582908 35.37671573316373
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.870665169390826 35.55857921027369
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+33.72937307513396 34.999603733199145
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+33.833792718025265 35.97122722084659
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+34.44524277198025 35.7623573872388
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+34.03009169433916 35.84581173281494
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.08706876596487 36.142238905273786
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+34.6590916184411 35.616924969655706
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+32.87932723522043 34.399037104541364
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+21.812199832402836 32.2337695353572
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.290852707298328 29.345496992481543
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+16.615335205596256 26.929176229510997
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.015544868603868 30.73794608204682
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.15032233608494 29.88437999960985
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.655263544280245 29.238414177924426
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.24634743970948 28.899907772704477
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.757898388085213 28.3676784339595
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.842281007927657 27.176013396060277
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.918413945069204 27.25819755083779
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.29518102692172 27.775019723767457
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.187189813055475 27.319129761546
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.465488972471856 27.387917830490125
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.234347056727334 27.103802907115863
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.647055215121636 27.113467955501353
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.56606039203052 27.360308661126215
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.799817676526928 27.42502043709152
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.130190602734434 27.536939749907468
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.864093805614388 27.591788536053837
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.8787044679941 27.224105230625824
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.908457794789403 27.4491392033731
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.712441944659375 27.326087931207972
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.34209599692554 26.951475030839358
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.21158263948711 26.59409649492007
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.638287943234598 27.293953351430048
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.60408243206287 27.57470479321761
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.468906013433443 27.114435881372003
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.97377778994405 27.29481844105477
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.95616427613659 27.5234923572377
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.94115187112364 27.607008870237472
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.67144652841175 27.244848091444656
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.01802041897499 27.14162437682645
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.20721903135828 26.315374433092643
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.75536973899998 27.456794136101045
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.669639836255353 27.52741104825199
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.783400617293275 27.828926211985056
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.79177502030229 27.81794054293193
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.821414346349748 27.81430474371078
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.65436239449859 27.72398268493241
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.688817646362182 27.81202893778748
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.570660060471152 27.693179868417037
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.771190424030937 27.739371989202084
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.78818938934453 27.83929203110041
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.8220681491982 28.0387715613821
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.679128731447307 28.061059909760537
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.69862880980499 27.810252133616434
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.83614092790573 27.946970733648758
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.65326685678484 28.147539188399236
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.815856700215594 28.025122629165317
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.89948134520817 28.149731559539145
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.79057961500652 28.28663103137378
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.673105032401146 28.50262100406627
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.09371090850631 28.360299094699638
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.04165634268248 28.120128590103846
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.989437079283782 28.050789313400024
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.9610001668663 28.346831112091934
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.698206519518894 28.177574260836153
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.65513225395542 28.038777367984075
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.54826245668183 28.16081776308133
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.345363921683514 28.11698373463102
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.469369937861526 28.28700769691472
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.25187264057052 28.52032215991945
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.280771881581177 28.508063250089066
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.306091663203592 28.044885717322668
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.99342026088288 28.121226594371134
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.99015933696973 28.314420060470432
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.947029496567282 28.419103915906184
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.02240832669802 28.152135055035405
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.106266963737532 28.183322800123367
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.866396001358613 28.461152090678286
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.940525510907122 28.405679074749134
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.78796715690107 28.439430049499233
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.763424562688332 28.331430773424685
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.82985973771569 28.258256397327834
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.736737925303306 28.370364346414704
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.754979803120357 28.345862071255606
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.651059874026828 28.436136064935017
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.87838069327716 28.4093710973755
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.8194848113715 28.224222614307607
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.69344097721828 28.33363062266049
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.50631740905768 28.3895691527263
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.944586860315777 28.501237825835233
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.34251988877384 28.360452748879233
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.240717966526933 28.285080184776263
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.321665349563695 28.62926999186767
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.300270341577423 28.703743451287078
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.512998900053017 28.44469693192278
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.319968229311904 28.821443580907687
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.485038042384556 28.69412509266056
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.52070679186953 28.749864393082696
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.685850379392946 28.751987305756053
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.32393818512487 28.71942046299174
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.555056011724826 28.485582774659655
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.726524878381518 28.87351454431104
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.49267537694493 28.258242646868663
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.423089734282303 28.526382683394047
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.19296995578258 28.733827690526713
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.54213939499555 28.842046543946246
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.061939982506473 27.94619230265263
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.41746054628519 28.88544391038397
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.12286167087263 28.94971185886659
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.74483580243579 29.763077105819438
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.701647258807817 29.149618994283134
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.896771243320376 29.25437928747749
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.671811720848694 29.43994063032853
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.5850223932606 29.37300125035494
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.467028433929613 29.133243367065564
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.67636465992701 29.271744151111047
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.664583867260713 29.59287134446891
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.800331296876937 29.8143205669187
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.782637633877947 29.811800517145606
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.83910123352504 29.721528899613908
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.643590417039622 29.988234109568676
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.768806083383513 29.868368868612116
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.76225468623872 29.74020494297928
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.729263629453314 29.772405732668222
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.686461844581892 29.86920190458477
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.747154018700087 29.775665284819773
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.89081152595591 29.78531357548339
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.698111813943 29.886956709669573
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.706660735271758 29.682529212435437
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.552502782306977 29.623813669934247
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.502424939586046 29.16743120831292
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.98481065393702 29.7017232552804
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.813475678530903 29.86620392300887
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.829488019628343 29.585071876816425
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.024120501938675 30.185436121237856
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.07609681537919 30.22297306914873
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.29565641468337 30.193104841760388
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.134479544400754 30.178824503276633
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.017723334958745 30.158934680610436
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.927655805923635 30.188233008392007
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.186399335337164 30.131018380645845
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.0306098984175 30.128444494395747
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.061860613157183 30.099192657234187
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.97471431524469 29.97784137138732
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.965963997605016 29.660396945177666
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.929821972412974 29.257897926390907
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.222174500750583 28.8178914999142
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.658243714856766 29.418259302197622
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.842731004987854 29.509228423609436
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.36724075128866 29.39219100011562
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.943102508700747 29.219832274939204
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.820761519826867 29.528138409220922
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.977940461639584 30.378651315392847
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.841755728335695 30.304205652500187
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.980693369490222 30.166789178071554
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.773703247327624 30.069556166260337
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.667658319628288 29.90534652970678
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.609679678723438 30.001213594664474
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+15.863534061805517 24.74388471020403
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.81281947141374 29.99216752840518
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.769492575738376 30.10361628344734
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.713192650835826 30.092704889569436
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.550194356860473 30.0196635533764
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.550218653294827 29.211416059226732
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.508367895005595 30.088434601339966
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.521912773224624 29.86848170568714
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.621899238401365 29.94121944450666
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.5383857093683 29.82982814067688
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.56151307533875 30.079909336332623
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.47755094400541 29.6139683699362
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.565167846782835 29.665335296993945
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+18.445101152442643 25.859250055660812
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.200047488423753 29.622999698741918
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.82923451754506 29.66972381058709
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.92314350649696 29.6047787652859
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.976696406618473 29.77319667731963
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.3247586115218 29.700132893262527
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.74500386110234 29.58409294295509
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.04409230113017 29.326847232938096
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.063150930890835 29.11666020139485
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.29835258930617 29.066267483033545
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.454489032525593 29.000577093299118
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.586995505382912 28.46437388440526
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.66823982607776 28.44901747289967
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.22696301829174 28.377065824893126
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.495430663277766 28.304265626545412
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.167024784755547 28.446026893559203
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.837314362323635 28.08176299569941
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.348295466591058 27.467995852028523
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.386564950011863 28.169009569552202
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.522127419119204 28.4868903619156
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.43700918167133 28.345152831588486
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.4930182467138 27.9805844272576
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.445656594960564 27.875571850701366
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.220478114919914 28.012729219179214
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.200625202106426 27.958323171760558
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.245354688024914 27.947462222150843
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.19148535781294 28.065533253364663
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.20816909825165 28.094077868184538
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.260561788066173 27.963231964397842
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.07642457909853 28.067729745016152
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.077703531701186 27.95514549064517
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.060613667735396 28.054070059055178
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.164349246526776 27.888288559422687
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.948174437642543 27.82005314835698
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.966112841156562 27.911377713818815
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.98700366520305 27.783532884290036
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.108594457109792 27.869547669689585
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.06180615448492 27.83731138409709
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.01005467858981 28.028057200842756
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.03251768920117 28.03378468144072
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.19245243763333 27.890766436090995
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.053135066640298 28.053125894920168
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.119458695840294 27.898851150510005
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.067163280506154 27.934874925985284
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.147708587487934 27.795999410907907
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.084178120770275 27.86854419891351
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.056664187740207 27.90301126985765
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.973834692839695 27.84464781047378
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.032976228834055 27.831187744567792
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.89403644324681 27.91938326857146
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.77972636757512 27.807863890022134
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.829478606173193 27.89700185349292
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.85007665844008 27.93161661723639
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.967654651933564 27.832645298819745
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.92503782767753 27.933037283277724
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.852619808040046 27.805111186134923
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.95717311641039 27.87531730682343
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.960034532431212 27.894583275355682
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.902302332883355 27.879626090869674
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.829682800454098 27.95047550406415
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.929081339759435 27.843093135377156
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.874382038109005 27.83073035598727
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.838417461334192 27.728421077023604
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.829984466253524 27.717103010543173
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.816431249495185 27.734800750470576
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.891059353558155 27.71378360764749
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.935870452434205 27.69513813328394
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.72305104285338 27.75249800759169
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.87769731820025 27.823649309965912
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.809834888705257 27.80885650462994
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.95764552946666 27.707974365249413
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.882726488420527 27.710873220259128
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.86920205881267 27.835187592557848
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.953376518979486 27.70098472119533
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.815833741805008 27.699013919360578
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.903258312954662 27.984366021341778
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.184724815560234 27.757389808303213
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.095827339273 27.61582221123911
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.163517138334562 27.89653807875418
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.00822101771497 27.90065508056038
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.005279034523586 28.049483333200833
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.02575011116707 27.80862129553891
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.00997213038269 27.85669627475965
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.041095833534985 27.662601724942036
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.938072252064167 27.798604648758648
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.021741811938025 27.895009070444022
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.871122336168032 27.898001830045477
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.869809133634394 27.88270635673255
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.71071352422426 27.740975973293054
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.893815243901084 27.625511647736154
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.673460040493996 27.893333137357068
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.702793694437947 27.713593247437863
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.74653001306072 27.690051915160925
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.6867364595968 27.621572925092302
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.782704894852802 27.55375194693897
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.587155869311214 27.668675566723373
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.70568078566202 27.63393806570211
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.746451248750777 27.76828895298534
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.68259767630316 27.64242555411774
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.567916534619826 27.715017858887688
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.699025195078796 27.616246556896236
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.62094011494409 27.479485113544087
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.65219828389468 27.679450934823702
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.578541043075536 27.34391543071534
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.74706316815334 27.531728749745117
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.552092456147356 27.263617467633317
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.68528536911287 27.185638724928392
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.685159986721988 27.757084468022864
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.491552860830637 27.533862188348298
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.780139827702858 27.79062753438627
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.819820977365758 27.720869440231716
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.705660432299275 27.770273550971392
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.737753075889383 27.60105832085245
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.695060668454143 27.668880003252497
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.69756819356925 27.61652612869136
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.495423876263263 27.590339474825
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.34029563734024 27.38790516982351
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.58244484747717 27.49765323840515
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.393046263605207 27.250915052506485
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.65727918941548 27.098246687320728
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.31650987475886 26.91328408220721
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.721308943681006 26.866935657331954
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.217591319187747 26.56051142246755
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.059191455961038 27.228946566587712
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.66222679153577 27.095476469123533
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+20.64050967459419 26.55143770701737
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+14.37649127391798 27.742814897472222
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+32.06570382130595 32.56656638835663
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+32.46699230156665 33.1915831969453
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+30.93369380344491 33.53532943098576
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+30.772317695714044 33.56162371299424
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+31.34958541207121 35.58652075325742
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+32.88905229914746 36.58750258644745
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+35.168915691499215 37.28044053842226
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+37.750955862530205 38.85953664746464
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.795533758297534 31.50723858875896
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.971431357268134 29.789287401381653
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.608851001706174 26.75469062025364
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.001351057302433 26.565406938584324
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.8160997743323 26.472930900243707
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.79302954893833 26.511372900330525
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.794052700914964 26.62952267443746
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.0832442537192 26.66044372356363
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.18959030961135 26.606900317446424
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.056130559396944 26.581172465465258
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.337122662717302 26.599219190510812
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.198317455245306 26.785977142654218
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.451511266924193 26.689070781753834
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.383522474056843 26.565276861801557
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.556028596453494 26.729823530976688
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.69334586469183 26.678636160565873
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.459658760903388 26.908675660042082
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.757343292981922 26.78679288784919
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.866713802515665 26.762661699947213
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.06496217258342 26.75636034153074
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.952015466951103 26.826052052211338
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.982553613272437 26.894423872109744
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.999780629943643 26.929160118785543
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.871698212981244 27.055808196741335
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.835280007928258 27.09829343066963
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+13.3319870830822 38.61321228630606
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.788714039487562 26.94489492311505
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.84453685241657 26.995728834052155
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.935840869852704 27.054374375439895
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.777419438302793 27.094710055113936
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.677051345549284 26.865479305960843
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.95007353766716 27.036091878820372
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.884373506504748 27.02368214720283
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.8619128811408 27.044993717029698
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.837951043473815 27.05447230802844
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.909382599668312 26.987608295392057
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.89861350446426 27.066213303753837
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.98148530888466 27.18935890418768
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.943829079743637 27.15769579995767
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.90360352314589 27.08561591186197
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.874371241549817 27.03384783609134
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.974305681180986 27.137097840282113
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.054839252501644 26.90401739497739
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.928955700667622 27.110918677555123
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.88998536416513 27.064303954140282
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.059787551639364 27.211489192687257
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.203902722550435 27.049821696266413
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.183753751267204 27.025839372362814
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.0448511052014 26.929988645577435
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.167173717991787 26.968240438654952
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.905521262698585 27.03458865935057
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.96935330739224 27.139811837665576
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.926738596980467 27.09052768872199
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.022584284779324 26.95355769020419
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.107216116214826 26.99917172021761
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.861301178909482 27.01037452741323
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.943156093629234 27.01005214949443
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.95295981477344 26.95285953246521
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.822405193157053 27.05881983530297
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.67317742036628 26.823178116840232
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.571457857334394 27.222969349422744
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.781999480519794 27.099325338782997
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.71332783450361 26.5356654971355
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.761313130556516 26.880161906534905
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.720852714192564 27.054083427966667
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.606328799862283 26.914101740520948
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.726097395001954 26.80688067417406
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.8228397914104 27.045608529663227
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.650132478807354 26.816387285723444
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.63570009454818 27.05802627870994
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.464873498574352 27.04005956750802
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.62770395041169 26.90487965265531
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.71476551445223 27.008680685646357
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.730203588088145 27.033361861657728
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.627194617745644 27.046410671706
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.65319230339615 27.20531062298187
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.72697255095349 26.995430408041262
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.573576134602106 27.05254764238652
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.56605420699221 26.995244712926812
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.210069743780746 27.167539113264812
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.321664282659636 27.137341864826556
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.375834149989135 27.089154069412192
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.150875494438353 26.994070223938696
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.18353943963016 26.738276037927953
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.205561003652537 27.30615816079481
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.422869631475066 27.07352156581443
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.300796409851554 27.315873074450952
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.00695577308039 27.568750156326345
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.912030615780655 27.444889875683746
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.46358169118246 29.14395524672855
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.18466619179466 30.201636580915263
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.298975287714892 30.723407954067092
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.210132637182273 30.452505713569764
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.355790554775666 29.749805432980118
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.355003362088496 30.18032476646182
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.379656542925492 30.46967347395939
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.339931984017365 30.45276726522966
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.231454930791404 30.386576444047524
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.127058207317774 30.494203422495037
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.149816396503926 30.37227334006317
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.20281024546996 30.37512708162736
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.20827367167583 30.310779422869906
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.10639507226607 30.383057827967562
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.0121218932916 30.33488378310204
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.9360628418984 30.245101190703586
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.943825284174093 30.067880769779794
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.89846831309962 30.029021252836525
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.845543308743114 29.896602966029242
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.705909965114024 29.918617019875725
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.845645373465253 29.619476377727477
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.37578522358807 29.653581759282197
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.482881748721663 29.702989448854797
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.35569996257653 29.08150788883778
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.597321320092362 29.112794497155484
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.820000721650825 29.38473919847474
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.793615214086998 29.95863316229499
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.952936215201564 30.021674617632435
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.882420151089104 29.716243043113668
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.48430911878869 30.36927259307921
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+30.209124708315812 31.152198931872242
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+30.636604701591697 31.655231906747105
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+31.320308854113847 31.855448509796982
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+31.54017741151315 32.137406473887786
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+32.17215719185866 32.969463518350786
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+32.22001342550043 32.72577826359969
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+32.79957504271407 33.425226640527214
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+33.68409856932359 34.516600912631084
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+34.26954064887767 34.678643126608065
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+34.59364954154893 35.97112243803364
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+35.07500316176535 36.30617421028308
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+37.22882445435801 37.82144858018422
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+37.872664797273735 38.21592045245172
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+37.772039774089535 38.46221581589804
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+37.79051900354809 38.66222997476681
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+37.90132098937433 38.69793970498301
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+38.28259434510223 39.10292898775205
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+38.630015460949345 39.22001295961667
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+38.59762266908015 39.5373152718701
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+38.815421034188866 40.28040520775506
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+39.15983806909628 40.53334829102706
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+40.90186754836737 41.678411665776174
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+41.310384213145404 41.80793926744897
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+41.78761639046997 42.49907560355387
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+42.27992623344059 42.99003687732983
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+42.208724976307344 43.1383174623803
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+42.4895929475267 43.49428646109429
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+43.5275639475425 43.99058877313045
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+43.16157711861009 43.92769029426675
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+42.78325603200738 43.12737552773578
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+42.68788099242811 43.73461036918739
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+42.72248012508115 43.044844399463386
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+42.37056740460871 42.73431529345368
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+42.432723215574875 43.19493881545275
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+42.6486470950447 43.55267939496
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+42.3809987069743 43.546606537325154
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+42.13181984833444 43.34614595613663
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+41.95252395326325 43.12054198552992
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+42.22897937272539 42.81935035499279
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+42.154655087317295 42.94807350914461
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+42.287000302562056 42.91166784686501
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.277221046932574 25.9501171699597
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+21.380238404165315 24.408226972238193
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+21.375353340103302 24.270889501141934
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+21.570904811115206 24.526640882999292
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+21.574045961053493 24.231803573502457
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+21.63827663153319 24.311881304639716
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+21.640482728420736 24.189980934535267
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.05142016305713 24.286209679989124
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.45807590956736 24.33060082319374
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.565372197675483 24.233180697903034
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.740832104977407 24.554966750429163
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.84918734550321 24.61599412851644
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.81628129000348 24.85487242355457
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.613562094889435 24.82444750412704
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.413971667979812 25.079584005699274
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+14.532704477414649 34.27056278960916
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.967716568406544 24.228800010087735
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.94859742926531 24.406763506252595
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.746386200842547 24.028385774033236
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.31785677642376 23.705962699762324
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+21.97025825782492 23.871702868904034
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.496201501654575 24.03325699920706
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+15.276357076249658 23.29181990377891
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+15.075857180598058 23.573091811185215
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+20.789533420826817 23.697659555931384
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+22.36230715834472 23.218955516571842
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.355182866595904 24.121007783501398
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.164939905204868 24.32630287528319
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.205172757275022 23.983628218324
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+20.369836224995588 25.942672681788483
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+20.41080392137413 25.476239946255752
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.427583364570477 25.674087414267408
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+21.40370859706308 26.244733897882327
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+20.931934244950828 26.12544124323637
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+20.86675974326858 26.447979190913895
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.371990556137728 26.241386552926826
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+23.918469480058295 26.216713482382378
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.426710945376957 25.85888881039101
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.02616228944979 25.96787968887131
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.2759503624061 26.062354924638203
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.34016979273931 26.196704751674545
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.522375866186458 26.107404524174928
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.386532918454602 25.769046514365133
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.829926838374526 25.603955520788872
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.856602729218988 25.13759992160116
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.498338026868456 25.627843299156986
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.650283534497078 26.218014681103767
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.782804980671592 26.328976817358246
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.768029687120418 26.306390713069774
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.733273587279452 26.231196162336555
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.775400530432353 26.39564665468156
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.908088328672633 26.33069856567242
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.944125628616636 26.23313366408096
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.71450253314428 26.397943126023755
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.68936230539742 26.452297838167926
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.56459083326392 26.54660967054994
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.708069653119303 26.30851347093076
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.623574805223267 26.284930582026202
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.77469203735497 26.240298995456403
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.85916000707863 26.11121886496136
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+32.555136494818775 33.48280128724078
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+30.422155585192908 33.64080377192
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.78042756944297 33.74121404130327
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+30.234638300127706 33.53885207047638
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+33.06046033399799 34.75450488268901
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+32.55946713318693 35.28825285586468
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+32.92912502127446 35.3359874702683
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+34.45226400705047 36.07272529031136
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+32.931623754240064 35.88834812189603
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+33.81420901954017 34.91943375193058
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+33.00760300504463 35.83924363261024
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+33.603331510332254 36.49634108177622
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+33.245085131791434 35.880029045700375
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+33.482337423704166 36.20682383249267
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+32.46197883461914 36.125085717417065
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+32.46010098075635 36.189985753867276
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+31.9160033212239 36.0853132775634
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+31.50151955137577 36.36671874504205
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+33.07309222148769 35.40456929719588
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+34.16452063780553 35.52536566521115
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+34.70894231794869 35.966402903537656
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+33.80305632704818 35.83014781426193
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+33.75206135304281 35.15707352236174
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+36.449187694917086 45.59929175891577
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+24.373673021522002 41.92361429048602
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.39482088106481 34.793915092154876
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+33.587210838049195 34.83837626296556
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.200220865877696 34.31152354903134
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+33.70944942459316 35.6597634452802
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+32.93027812343073 35.65364022767627
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+34.33477284779642 35.685925109251116
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+34.164201727666544 35.52742137633186
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+33.46709656691611 35.98588608570499
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+33.256409689958815 35.79838873338856
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+40.89274191867138 41.17835779880738
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+40.67921988431773 41.19298499536302
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+40.313873499207425 40.597339867998066
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+40.24509003840908 40.5293040229936
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+37.66431447675884 40.77657244984463
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+40.14279016355965 40.96948036777258
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.89006717360539 40.329484114559975
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.39816376500027 35.91882810788536
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.81472002953495 37.67463988918764
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+30.351880195091404 36.64146081547875
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.558313392777173 61.575229685670784
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.17186021786244 61.70438120972288
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.745214485537947 65.532401586649
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.78198822792469 64.70947034719651
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.520451177265073 61.863032918752005
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+14.316347973384866 26.76841609839168
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.404986278714137 64.55332599407302
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.083844876457412 65.0484590111721
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.867896468617367 62.010746439331015
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.585950451191906 64.821856275883
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.85721872146693 66.29884087083124
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+27.250723126244107 62.46194401267943
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.164312683681075 61.76289254584437
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+13.991376261653546 31.667920780451716
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.75040389239784 62.183034530395766
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.739463835104452 66.72648083134361
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+15.926531030300216 25.360397759937502
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+17.240670285484157 26.946896293583027
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+13.76182798958758 30.6720835801197
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.16384609603755 62.29109023407421
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.956663055422506 61.801677332233254
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.169718043043897 61.925854100063
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.615115137979448 62.567931272181255
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.403789135707463 68.11913147340925
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.99994294851614 61.20569702826025
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+28.382310881192215 67.71377827077208
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+26.82260529807224 62.22528613212586
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+29.93556287749193 62.106156758004275
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+37.02136058217396 41.23080212316483
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+21.594239458554885 21.8556124421304
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+20.30946204716557 20.3768048370676
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+20.260021722178312 20.434974720137575
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+20.27408460652432 20.374509449794925
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+20.06584763781777 20.467792796995745
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+20.198654323626922 20.250543438840623
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.971313046830165 20.067548311401566
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+20.041306703806175 20.062239451099547
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+19.263563518124283 19.562353571040735
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.068433383030055 25.134097855330474
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+25.746245716874053 26.094795763255842
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+30.273327600720854 31.551692162325136
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+31.15844106881829 31.9060643684203
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+31.985672020654203 32.45190463200836
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+32.3865881733267 32.669326041530454
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+32.6261003679671 33.0505590142212
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+32.85171015684297 33.75176508096932
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+32.71590961311237 33.75601282682232
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+31.639536807083964 33.5980708227971
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+33.14377608013122 33.41270816132726
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+32.610966393556964 33.05909373345686
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+32.79108593947656 32.927163322086585
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+32.55842856446367 32.973188493010845
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+32.68467559860633 32.962636775210854
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+32.54593698218897 33.11390302850489
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+32.390372172121104 33.20008148938413
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+32.35970547105485 33.19435650254429
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+31.97322823891424 33.277502105675744
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+31.88073861952725 33.24280400057388
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+31.51455851842323 33.3118221459534
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+31.651609794164273 33.19926737716692
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+31.78923553371345 33.129607231523636
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+31.873440798623122 32.91107362265855
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+32.68570815228647 32.98891913717741
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+33.135988933649195 33.34275920089973
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+33.13758340465252 33.4519026584806
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+41.41284450894022 42.04952453090607
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+43.75264381053564 44.24610281503002
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+44.146396137817256 44.82934299906162
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+45.9917134533792 46.12813885737717
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+46.9049164898992 47.41428643245257
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+47.850723056761105 48.509453916912896
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+48.494965025878095 48.94291883378928
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+48.92334913553497 49.858805342203
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+50.22876430871874 51.363698525134524
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+51.0827055116628 52.12106632737956
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+51.769433112329075 52.488532749808655
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+52.26246412055899 53.2859331738171
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+52.67715085497035 53.83274290757165
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+52.86460389258356 53.937740007996254
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+52.90606695407269 53.28954259103747
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+52.93607224858497 54.16441911203686
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+52.52076504258125 53.21000009164868
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+94.44473459823354 101.0699285439895
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+95.24968452910028 101.14711929555627
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+95.49169475593716 101.24848630274107
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+95.98463711160849 100.80637183003
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+98.32512736280597 101.14814751227676
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+95.62141228286266 101.04870813661121
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+95.29814379941277 101.85324706708036
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+15.353788358184561 25.302827337530655
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+274.3815221749649 280.30672987913374
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+267.76934939851157 273.0642885664109
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+263.0646627976944 265.944649607504
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+258.91308454538796 260.53678113905323
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+187.5228123861213 229.89973660103973
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+154.31310155012935 196.73721202713358
+invalid w or h in Geometry module
+0 0
+invalid w or h in ellipse module
+164.03298715418865 192.9595972535381
+invalid w or h in Geometry module
+0 0
