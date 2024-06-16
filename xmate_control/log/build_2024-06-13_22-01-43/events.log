@@ -1,0 +1,263 @@
+[0.000000] (-) TimerEvent: {}
+[0.000179] (pub) JobQueued: {'identifier': 'pub', 'dependencies': OrderedDict()}
+[0.000311] (sub) JobQueued: {'identifier': 'sub', 'dependencies': OrderedDict()}
+[0.001055] (pub) JobStarted: {'identifier': 'pub'}
+[0.010218] (sub) JobStarted: {'identifier': 'sub'}
+[0.099928] (-) TimerEvent: {}
+[0.200424] (-) TimerEvent: {}
+[0.282567] (sub) JobProgress: {'identifier': 'sub', 'progress': 'cmake'}
+[0.283336] (sub) JobProgress: {'identifier': 'sub', 'progress': 'build'}
+[0.284222] (sub) Command: {'cmd': ['/usr/bin/cmake', '--build', '/home/robot/Xmate3/xmate_control/build/sub', '--', '-j12', '-l12'], 'cwd': '/home/robot/Xmate3/xmate_control/build/sub', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('HTTPS_PROXY', 'http://127.0.0.1:7897/'), ('no_proxy', 'localhost,127.0.0.1,192.168.0.0/16,10.0.0.0/8,172.16.0.0/12,::1'), ('USER', 'robot'), ('LC_TIME', 'zh_CN.UTF-8'), ('all_proxy', 'socks://127.0.0.1:7897/'), ('SSH_AGENT_PID', '1656'), ('XDG_SESSION_TYPE', 'x11'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib'), ('HOME', '/home/robot'), ('CONDA_SHLVL', '0'), ('DESKTOP_SESSION', 'ubuntu'), ('NO_PROXY', 'localhost,127.0.0.1,192.168.0.0/16,10.0.0.0/8,172.16.0.0/12,::1'), ('ROS_PYTHON_VERSION', '3'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('GTK_MODULES', 'gail:atk-bridge'), ('LC_MONETARY', 'zh_CN.UTF-8'), ('MANAGERPID', '1567'), ('DBUS_STARTER_BUS_TYPE', 'session'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus,guid=60ef7f44994652ec6f0eefc76667020d'), ('COLORTERM', 'truecolor'), ('_CE_M', ''), ('IM_CONFIG_PHASE', '1'), ('https_proxy', 'http://127.0.0.1:7897/'), ('ROS_DISTRO', 'foxy'), ('LOGNAME', 'robot'), ('ALL_PROXY', 'socks://127.0.0.1:7897/'), ('http_proxy', 'http://127.0.0.1:7897/'), ('JOURNAL_STREAM', '8:41466'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('USERNAME', 'robot'), ('TERM', 'xterm-256color'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('_CE_CONDA', ''), ('ROS_LOCALHOST_ONLY', '0'), ('WINDOWPATH', '2'), ('PATH', '/opt/ros/foxy/bin:/home/robot/miniconda3/condabin:/home/robot/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/robot/opt/pycharm/bin'), ('SESSION_MANAGER', 'local/robot-desktop:@/tmp/.ICE-unix/1685,unix/robot-desktop:/tmp/.ICE-unix/1685'), ('INVOCATION_ID', '0a818c97202b412194812128d4810a19'), ('XDG_MENU_PREFIX', 'gnome-'), ('LC_ADDRESS', 'zh_CN.UTF-8'), ('GNOME_TERMINAL_SCREEN', '/org/gnome/Terminal/screen/1bc92fec_1fd1_4430_863e_96c5136ab801'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('DISPLAY', ':1'), ('LANG', 'en_US.UTF-8'), ('XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('LC_TELEPHONE', 'zh_CN.UTF-8'), ('XMODIFIERS', '@im=ibus'), ('XDG_SESSION_DESKTOP', 'ubuntu'), ('XAUTHORITY', '/run/user/1000/gdm/Xauthority'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('GNOME_TERMINAL_SERVICE', ':1.93'), ('SSH_AUTH_SOCK', '/run/user/1000/keyring/ssh'), ('AMENT_PREFIX_PATH', '/opt/ros/foxy'), ('CONDA_PYTHON_EXE', '/home/robot/miniconda3/bin/python'), ('SHELL', '/bin/bash'), ('LC_NAME', 'zh_CN.UTF-8'), ('QT_ACCESSIBILITY', '1'), ('GDMSESSION', 'ubuntu'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('LC_MEASUREMENT', 'zh_CN.UTF-8'), ('GPG_AGENT_INFO', '/run/user/1000/gnupg/S.gpg-agent:0:1'), ('LC_IDENTIFICATION', 'zh_CN.UTF-8'), ('QT_IM_MODULE', 'ibus'), ('PWD', '/home/robot/Xmate3/xmate_control/build/sub'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('CONDA_EXE', '/home/robot/miniconda3/bin/conda'), ('DBUS_STARTER_ADDRESS', 'unix:path=/run/user/1000/bus,guid=60ef7f44994652ec6f0eefc76667020d'), ('XDG_DATA_DIRS', '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('PYTHONPATH', '/opt/ros/foxy/lib/python3.8/site-packages'), ('HTTP_PROXY', 'http://127.0.0.1:7897/'), ('LC_NUMERIC', 'zh_CN.UTF-8'), ('LC_PAPER', 'zh_CN.UTF-8'), ('COLCON', '1'), ('VTE_VERSION', '6003'), ('CMAKE_PREFIX_PATH', '/opt/ros/foxy')]), 'shell': False}
+[0.300595] (-) TimerEvent: {}
+[0.341814] (sub) StdoutLine: {'line': b'\x1b[35m\x1b[1mScanning dependencies of target control_sub\x1b[0m\n'}
+[0.400694] (-) TimerEvent: {}
+[0.413708] (sub) StdoutLine: {'line': b'[ 50%] \x1b[32mBuilding CXX object CMakeFiles/control_sub.dir/src/control_sub.cpp.o\x1b[0m\n'}
+[0.500820] (-) TimerEvent: {}
+[0.601099] (-) TimerEvent: {}
+[0.701402] (-) TimerEvent: {}
+[0.752176] (pub) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/pub', 'build', '--build-base', '/home/robot/Xmate3/xmate_control/build/pub/build', 'install', '--record', '/home/robot/Xmate3/xmate_control/build/pub/install.log', '--install-scripts', '$base/lib/pub', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/robot/Xmate3/xmate_control/src/pub', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'HTTPS_PROXY': 'http://127.0.0.1:7897/', 'no_proxy': 'localhost,127.0.0.1,192.168.0.0/16,10.0.0.0/8,172.16.0.0/12,::1', 'USER': 'robot', 'LC_TIME': 'zh_CN.UTF-8', 'all_proxy': 'socks://127.0.0.1:7897/', 'SSH_AGENT_PID': '1656', 'XDG_SESSION_TYPE': 'x11', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib', 'HOME': '/home/robot', 'CONDA_SHLVL': '0', 'DESKTOP_SESSION': 'ubuntu', 'NO_PROXY': 'localhost,127.0.0.1,192.168.0.0/16,10.0.0.0/8,172.16.0.0/12,::1', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'LC_MONETARY': 'zh_CN.UTF-8', 'MANAGERPID': '1567', 'DBUS_STARTER_BUS_TYPE': 'session', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus,guid=60ef7f44994652ec6f0eefc76667020d', 'COLORTERM': 'truecolor', '_CE_M': '', 'IM_CONFIG_PHASE': '1', 'https_proxy': 'http://127.0.0.1:7897/', 'ROS_DISTRO': 'foxy', 'LOGNAME': 'robot', 'ALL_PROXY': 'socks://127.0.0.1:7897/', 'http_proxy': 'http://127.0.0.1:7897/', 'JOURNAL_STREAM': '8:41466', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'robot', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', '_CE_CONDA': '', 'ROS_LOCALHOST_ONLY': '0', 'WINDOWPATH': '2', 'PATH': '/opt/ros/foxy/bin:/home/robot/miniconda3/condabin:/home/robot/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/robot/opt/pycharm/bin', 'SESSION_MANAGER': 'local/robot-desktop:@/tmp/.ICE-unix/1685,unix/robot-desktop:/tmp/.ICE-unix/1685', 'INVOCATION_ID': '0a818c97202b412194812128d4810a19', 'XDG_MENU_PREFIX': 'gnome-', 'LC_ADDRESS': 'zh_CN.UTF-8', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/1bc92fec_1fd1_4430_863e_96c5136ab801', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':1', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'LC_TELEPHONE': 'zh_CN.UTF-8', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/gdm/Xauthority', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'GNOME_TERMINAL_SERVICE': ':1.93', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'AMENT_PREFIX_PATH': '/opt/ros/foxy', 'CONDA_PYTHON_EXE': '/home/robot/miniconda3/bin/python', 'SHELL': '/bin/bash', 'LC_NAME': 'zh_CN.UTF-8', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'LC_MEASUREMENT': 'zh_CN.UTF-8', 'GPG_AGENT_INFO': '/run/user/1000/gnupg/S.gpg-agent:0:1', 'LC_IDENTIFICATION': 'zh_CN.UTF-8', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/robot/Xmate3/xmate_control/build/pub', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'CONDA_EXE': '/home/robot/miniconda3/bin/conda', 'DBUS_STARTER_ADDRESS': 'unix:path=/run/user/1000/bus,guid=60ef7f44994652ec6f0eefc76667020d', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/robot/Xmate3/xmate_control/build/pub/prefix_override:/home/robot/Xmate3/xmate_control/install/pub/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages', 'HTTP_PROXY': 'http://127.0.0.1:7897/', 'LC_NUMERIC': 'zh_CN.UTF-8', 'LC_PAPER': 'zh_CN.UTF-8', 'COLCON': '1', 'VTE_VERSION': '6003'}, 'shell': False}
+[0.801534] (-) TimerEvent: {}
+[0.901898] (-) TimerEvent: {}
+[0.994810] (pub) StdoutLine: {'line': b'running egg_info\n'}
+[0.995281] (pub) StdoutLine: {'line': b'writing ../../build/pub/pub.egg-info/PKG-INFO\n'}
+[0.995581] (pub) StdoutLine: {'line': b'writing dependency_links to ../../build/pub/pub.egg-info/dependency_links.txt\n'}
+[0.995764] (pub) StdoutLine: {'line': b'writing entry points to ../../build/pub/pub.egg-info/entry_points.txt\n'}
+[0.995949] (pub) StdoutLine: {'line': b'writing requirements to ../../build/pub/pub.egg-info/requires.txt\n'}
+[0.996079] (pub) StdoutLine: {'line': b'writing top-level names to ../../build/pub/pub.egg-info/top_level.txt\n'}
+[1.001980] (-) TimerEvent: {}
+[1.034872] (pub) StdoutLine: {'line': b"reading manifest file '../../build/pub/pub.egg-info/SOURCES.txt'\n"}
+[1.035725] (pub) StdoutLine: {'line': b"writing manifest file '../../build/pub/pub.egg-info/SOURCES.txt'\n"}
+[1.035926] (pub) StdoutLine: {'line': b'running build\n'}
+[1.036016] (pub) StdoutLine: {'line': b'running build_py\n'}
+[1.036311] (pub) StdoutLine: {'line': b'running install\n'}
+[1.037200] (pub) StdoutLine: {'line': b'running install_lib\n'}
+[1.038751] (pub) StdoutLine: {'line': b'running install_data\n'}
+[1.038986] (pub) StdoutLine: {'line': b'running install_egg_info\n'}
+[1.040486] (pub) StdoutLine: {'line': b"removing '/home/robot/Xmate3/xmate_control/install/pub/lib/python3.8/site-packages/pub-0.0.0-py3.8.egg-info' (and everything under it)\n"}
+[1.040853] (pub) StdoutLine: {'line': b'Copying ../../build/pub/pub.egg-info to /home/robot/Xmate3/xmate_control/install/pub/lib/python3.8/site-packages/pub-0.0.0-py3.8.egg-info\n'}
+[1.041720] (pub) StdoutLine: {'line': b'running install_scripts\n'}
+[1.059806] (pub) StdoutLine: {'line': b'Installing control_pub script to /home/robot/Xmate3/xmate_control/install/pub/lib/pub\n'}
+[1.060254] (pub) StdoutLine: {'line': b"writing list of installed files to '/home/robot/Xmate3/xmate_control/build/pub/install.log'\n"}
+[1.079181] (pub) CommandEnded: {'returncode': 0}
+[1.090263] (pub) JobEnded: {'identifier': 'pub', 'rc': 0}
+[1.102094] (-) TimerEvent: {}
+[1.202407] (-) TimerEvent: {}
+[1.302867] (-) TimerEvent: {}
+[1.403163] (-) TimerEvent: {}
+[1.503460] (-) TimerEvent: {}
+[1.603798] (-) TimerEvent: {}
+[1.704107] (-) TimerEvent: {}
+[1.804384] (-) TimerEvent: {}
+[1.904698] (-) TimerEvent: {}
+[2.004991] (-) TimerEvent: {}
+[2.105287] (-) TimerEvent: {}
+[2.205581] (-) TimerEvent: {}
+[2.305957] (-) TimerEvent: {}
+[2.406417] (-) TimerEvent: {}
+[2.506669] (-) TimerEvent: {}
+[2.607011] (-) TimerEvent: {}
+[2.707311] (-) TimerEvent: {}
+[2.807608] (-) TimerEvent: {}
+[2.907941] (-) TimerEvent: {}
+[2.999052] (sub) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:14\x1b[m\x1b[K:\n'}
+[2.999304] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:\x1b[m\x1b[K In constructor \xe2\x80\x98\x1b[01m\x1b[KIK_solution::IK_solution(const Eigen::Matrix<double, 7, 4>&, const std::vector<double, std::allocator<double> >&, const std::vector<double, std::allocator<double> >&, const Matrix4d&, const Matrix4d&, double)\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[2.999446] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:30:44:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kunused parameter \xe2\x80\x98\x1b[01m\x1b[Klower_bond\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wunused-parameter\x1b[m\x1b[K]\n'}
+[2.999577] (sub) StderrLine: {'line': b'   30 |                 \x1b[01;35m\x1b[Kconst std::vector<double>& lower_bond\x1b[m\x1b[K,\n'}
+[2.999701] (sub) StderrLine: {'line': b'      |                 \x1b[01;35m\x1b[K~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~\x1b[m\x1b[K\n'}
+[2.999823] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:31:44:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kunused parameter \xe2\x80\x98\x1b[01m\x1b[Kupper_bond\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wunused-parameter\x1b[m\x1b[K]\n'}
+[2.999948] (sub) StderrLine: {'line': b'   31 |                 \x1b[01;35m\x1b[Kconst std::vector<double>& upper_bond\x1b[m\x1b[K,\n'}
+[3.000068] (sub) StderrLine: {'line': b'      |                 \x1b[01;35m\x1b[K~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~\x1b[m\x1b[K\n'}
+[3.008099] (-) TimerEvent: {}
+[3.108384] (-) TimerEvent: {}
+[3.208697] (-) TimerEvent: {}
+[3.308988] (-) TimerEvent: {}
+[3.409309] (-) TimerEvent: {}
+[3.441111] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:\x1b[m\x1b[K In member function \xe2\x80\x98\x1b[01m\x1b[KEigen::Vector3d IK_solution::get_eular(const VectorXd&)\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[3.441296] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:308:25:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kvariable \xe2\x80\x98\x1b[01m\x1b[KrotationMatrix\x1b[m\x1b[K\xe2\x80\x99 set but not used [\x1b[01;35m\x1b[K-Wunused-but-set-variable\x1b[m\x1b[K]\n'}
+[3.441387] (sub) StderrLine: {'line': b'  308 |         Eigen::Matrix3d \x1b[01;35m\x1b[KrotationMatrix\x1b[m\x1b[K = m.block<3, 3>(0, 0);\n'}
+[3.441477] (sub) StderrLine: {'line': b'      |                         \x1b[01;35m\x1b[K^~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[3.509444] (-) TimerEvent: {}
+[3.548031] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:\x1b[m\x1b[K In function \xe2\x80\x98\x1b[01m\x1b[Kint main(int, char**)\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[3.548261] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:172:9:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kunused variable \xe2\x80\x98\x1b[01m\x1b[Kcount\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wunused-variable\x1b[m\x1b[K]\n'}
+[3.548441] (sub) StderrLine: {'line': b'  172 |     int \x1b[01;35m\x1b[Kcount\x1b[m\x1b[K = 0;\n'}
+[3.548574] (sub) StderrLine: {'line': b'      |         \x1b[01;35m\x1b[K^~~~~\x1b[m\x1b[K\n'}
+[3.548697] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:173:9:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kunused variable \xe2\x80\x98\x1b[01m\x1b[KM\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wunused-variable\x1b[m\x1b[K]\n'}
+[3.548822] (sub) StderrLine: {'line': b'  173 |     int \x1b[01;35m\x1b[KM\x1b[m\x1b[K = 50; //50ms\xe5\x8f\x96\xe4\xb8\x80\xe4\xb8\xaa\xe6\x8e\xa7\xe5\x88\xb6\xe5\x80\xbc\n'}
+[3.548944] (sub) StderrLine: {'line': b'      |         \x1b[01;35m\x1b[K^\x1b[m\x1b[K\n'}
+[3.609643] (-) TimerEvent: {}
+[3.709984] (-) TimerEvent: {}
+[3.810307] (-) TimerEvent: {}
+[3.910653] (-) TimerEvent: {}
+[4.010968] (-) TimerEvent: {}
+[4.111239] (-) TimerEvent: {}
+[4.211660] (-) TimerEvent: {}
+[4.311951] (-) TimerEvent: {}
+[4.412272] (-) TimerEvent: {}
+[4.512574] (-) TimerEvent: {}
+[4.612859] (-) TimerEvent: {}
+[4.713147] (-) TimerEvent: {}
+[4.813475] (-) TimerEvent: {}
+[4.913806] (-) TimerEvent: {}
+[5.014131] (-) TimerEvent: {}
+[5.114456] (-) TimerEvent: {}
+[5.214795] (-) TimerEvent: {}
+[5.315149] (-) TimerEvent: {}
+[5.415471] (-) TimerEvent: {}
+[5.515773] (-) TimerEvent: {}
+[5.616105] (-) TimerEvent: {}
+[5.716418] (-) TimerEvent: {}
+[5.816802] (-) TimerEvent: {}
+[5.917107] (-) TimerEvent: {}
+[6.017572] (-) TimerEvent: {}
+[6.117882] (-) TimerEvent: {}
+[6.218266] (-) TimerEvent: {}
+[6.318563] (-) TimerEvent: {}
+[6.418905] (-) TimerEvent: {}
+[6.519245] (-) TimerEvent: {}
+[6.619595] (-) TimerEvent: {}
+[6.719939] (-) TimerEvent: {}
+[6.820291] (-) TimerEvent: {}
+[6.920626] (-) TimerEvent: {}
+[7.020945] (-) TimerEvent: {}
+[7.121241] (-) TimerEvent: {}
+[7.221566] (-) TimerEvent: {}
+[7.321906] (-) TimerEvent: {}
+[7.422222] (-) TimerEvent: {}
+[7.522552] (-) TimerEvent: {}
+[7.622894] (-) TimerEvent: {}
+[7.723224] (-) TimerEvent: {}
+[7.823562] (-) TimerEvent: {}
+[7.923865] (-) TimerEvent: {}
+[8.024196] (-) TimerEvent: {}
+[8.124491] (-) TimerEvent: {}
+[8.224775] (-) TimerEvent: {}
+[8.325055] (-) TimerEvent: {}
+[8.425372] (-) TimerEvent: {}
+[8.525683] (-) TimerEvent: {}
+[8.626012] (-) TimerEvent: {}
+[8.726277] (-) TimerEvent: {}
+[8.826567] (-) TimerEvent: {}
+[8.926870] (-) TimerEvent: {}
+[9.027176] (-) TimerEvent: {}
+[9.127471] (-) TimerEvent: {}
+[9.227779] (-) TimerEvent: {}
+[9.328066] (-) TimerEvent: {}
+[9.428420] (-) TimerEvent: {}
+[9.528713] (-) TimerEvent: {}
+[9.628994] (-) TimerEvent: {}
+[9.729344] (-) TimerEvent: {}
+[9.829646] (-) TimerEvent: {}
+[9.929975] (-) TimerEvent: {}
+[10.030303] (-) TimerEvent: {}
+[10.130628] (-) TimerEvent: {}
+[10.230957] (-) TimerEvent: {}
+[10.331280] (-) TimerEvent: {}
+[10.431564] (-) TimerEvent: {}
+[10.531867] (-) TimerEvent: {}
+[10.632251] (-) TimerEvent: {}
+[10.732551] (-) TimerEvent: {}
+[10.832899] (-) TimerEvent: {}
+[10.933183] (-) TimerEvent: {}
+[11.033498] (-) TimerEvent: {}
+[11.133840] (-) TimerEvent: {}
+[11.234130] (-) TimerEvent: {}
+[11.334447] (-) TimerEvent: {}
+[11.434779] (-) TimerEvent: {}
+[11.535037] (-) TimerEvent: {}
+[11.635344] (-) TimerEvent: {}
+[11.735678] (-) TimerEvent: {}
+[11.835998] (-) TimerEvent: {}
+[11.936356] (-) TimerEvent: {}
+[12.036727] (-) TimerEvent: {}
+[12.137010] (-) TimerEvent: {}
+[12.237378] (-) TimerEvent: {}
+[12.337685] (-) TimerEvent: {}
+[12.438046] (-) TimerEvent: {}
+[12.538367] (-) TimerEvent: {}
+[12.638691] (-) TimerEvent: {}
+[12.738983] (-) TimerEvent: {}
+[12.839339] (-) TimerEvent: {}
+[12.939661] (-) TimerEvent: {}
+[13.039996] (-) TimerEvent: {}
+[13.140313] (-) TimerEvent: {}
+[13.240618] (-) TimerEvent: {}
+[13.340899] (-) TimerEvent: {}
+[13.441235] (-) TimerEvent: {}
+[13.541524] (-) TimerEvent: {}
+[13.641855] (-) TimerEvent: {}
+[13.742173] (-) TimerEvent: {}
+[13.842466] (-) TimerEvent: {}
+[13.942755] (-) TimerEvent: {}
+[14.043077] (-) TimerEvent: {}
+[14.143364] (-) TimerEvent: {}
+[14.243682] (-) TimerEvent: {}
+[14.344004] (-) TimerEvent: {}
+[14.444325] (-) TimerEvent: {}
+[14.544615] (-) TimerEvent: {}
+[14.644944] (-) TimerEvent: {}
+[14.745227] (-) TimerEvent: {}
+[14.845507] (-) TimerEvent: {}
+[14.945781] (-) TimerEvent: {}
+[15.046313] (-) TimerEvent: {}
+[15.146682] (-) TimerEvent: {}
+[15.247177] (-) TimerEvent: {}
+[15.347567] (-) TimerEvent: {}
+[15.448491] (-) TimerEvent: {}
+[15.548777] (-) TimerEvent: {}
+[15.649683] (-) TimerEvent: {}
+[15.749993] (-) TimerEvent: {}
+[15.850470] (-) TimerEvent: {}
+[15.950833] (-) TimerEvent: {}
+[16.051295] (-) TimerEvent: {}
+[16.151663] (-) TimerEvent: {}
+[16.252009] (-) TimerEvent: {}
+[16.352410] (-) TimerEvent: {}
+[16.452691] (-) TimerEvent: {}
+[16.552982] (-) TimerEvent: {}
+[16.653275] (-) TimerEvent: {}
+[16.753579] (-) TimerEvent: {}
+[16.853884] (-) TimerEvent: {}
+[16.954229] (-) TimerEvent: {}
+[17.054614] (-) TimerEvent: {}
+[17.154966] (-) TimerEvent: {}
+[17.255342] (-) TimerEvent: {}
+[17.355784] (-) TimerEvent: {}
+[17.456164] (-) TimerEvent: {}
+[17.556513] (-) TimerEvent: {}
+[17.656804] (-) TimerEvent: {}
+[17.757114] (-) TimerEvent: {}
+[17.857704] (-) TimerEvent: {}
+[17.958058] (-) TimerEvent: {}
+[18.044080] (sub) StdoutLine: {'line': b'[100%] \x1b[32m\x1b[1mLinking CXX executable control_sub\x1b[0m\n'}
+[18.058230] (-) TimerEvent: {}
+[18.158554] (-) TimerEvent: {}
+[18.258904] (-) TimerEvent: {}
+[18.359442] (-) TimerEvent: {}
+[18.459864] (-) TimerEvent: {}
+[18.553147] (sub) StdoutLine: {'line': b'[100%] Built target control_sub\n'}
+[18.560007] (-) TimerEvent: {}
+[18.568518] (sub) CommandEnded: {'returncode': 0}
+[18.606488] (sub) JobProgress: {'identifier': 'sub', 'progress': 'install'}
+[18.623228] (sub) Command: {'cmd': ['/usr/bin/cmake', '--install', '/home/robot/Xmate3/xmate_control/build/sub'], 'cwd': '/home/robot/Xmate3/xmate_control/build/sub', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('HTTPS_PROXY', 'http://127.0.0.1:7897/'), ('no_proxy', 'localhost,127.0.0.1,192.168.0.0/16,10.0.0.0/8,172.16.0.0/12,::1'), ('USER', 'robot'), ('LC_TIME', 'zh_CN.UTF-8'), ('all_proxy', 'socks://127.0.0.1:7897/'), ('SSH_AGENT_PID', '1656'), ('XDG_SESSION_TYPE', 'x11'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib'), ('HOME', '/home/robot'), ('CONDA_SHLVL', '0'), ('DESKTOP_SESSION', 'ubuntu'), ('NO_PROXY', 'localhost,127.0.0.1,192.168.0.0/16,10.0.0.0/8,172.16.0.0/12,::1'), ('ROS_PYTHON_VERSION', '3'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('GTK_MODULES', 'gail:atk-bridge'), ('LC_MONETARY', 'zh_CN.UTF-8'), ('MANAGERPID', '1567'), ('DBUS_STARTER_BUS_TYPE', 'session'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus,guid=60ef7f44994652ec6f0eefc76667020d'), ('COLORTERM', 'truecolor'), ('_CE_M', ''), ('IM_CONFIG_PHASE', '1'), ('https_proxy', 'http://127.0.0.1:7897/'), ('ROS_DISTRO', 'foxy'), ('LOGNAME', 'robot'), ('ALL_PROXY', 'socks://127.0.0.1:7897/'), ('http_proxy', 'http://127.0.0.1:7897/'), ('JOURNAL_STREAM', '8:41466'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('USERNAME', 'robot'), ('TERM', 'xterm-256color'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('_CE_CONDA', ''), ('ROS_LOCALHOST_ONLY', '0'), ('WINDOWPATH', '2'), ('PATH', '/opt/ros/foxy/bin:/home/robot/miniconda3/condabin:/home/robot/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/robot/opt/pycharm/bin'), ('SESSION_MANAGER', 'local/robot-desktop:@/tmp/.ICE-unix/1685,unix/robot-desktop:/tmp/.ICE-unix/1685'), ('INVOCATION_ID', '0a818c97202b412194812128d4810a19'), ('XDG_MENU_PREFIX', 'gnome-'), ('LC_ADDRESS', 'zh_CN.UTF-8'), ('GNOME_TERMINAL_SCREEN', '/org/gnome/Terminal/screen/1bc92fec_1fd1_4430_863e_96c5136ab801'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('DISPLAY', ':1'), ('LANG', 'en_US.UTF-8'), ('XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('LC_TELEPHONE', 'zh_CN.UTF-8'), ('XMODIFIERS', '@im=ibus'), ('XDG_SESSION_DESKTOP', 'ubuntu'), ('XAUTHORITY', '/run/user/1000/gdm/Xauthority'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('GNOME_TERMINAL_SERVICE', ':1.93'), ('SSH_AUTH_SOCK', '/run/user/1000/keyring/ssh'), ('AMENT_PREFIX_PATH', '/opt/ros/foxy'), ('CONDA_PYTHON_EXE', '/home/robot/miniconda3/bin/python'), ('SHELL', '/bin/bash'), ('LC_NAME', 'zh_CN.UTF-8'), ('QT_ACCESSIBILITY', '1'), ('GDMSESSION', 'ubuntu'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('LC_MEASUREMENT', 'zh_CN.UTF-8'), ('GPG_AGENT_INFO', '/run/user/1000/gnupg/S.gpg-agent:0:1'), ('LC_IDENTIFICATION', 'zh_CN.UTF-8'), ('QT_IM_MODULE', 'ibus'), ('PWD', '/home/robot/Xmate3/xmate_control/build/sub'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('CONDA_EXE', '/home/robot/miniconda3/bin/conda'), ('DBUS_STARTER_ADDRESS', 'unix:path=/run/user/1000/bus,guid=60ef7f44994652ec6f0eefc76667020d'), ('XDG_DATA_DIRS', '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('PYTHONPATH', '/opt/ros/foxy/lib/python3.8/site-packages'), ('HTTP_PROXY', 'http://127.0.0.1:7897/'), ('LC_NUMERIC', 'zh_CN.UTF-8'), ('LC_PAPER', 'zh_CN.UTF-8'), ('COLCON', '1'), ('VTE_VERSION', '6003'), ('CMAKE_PREFIX_PATH', '/opt/ros/foxy')]), 'shell': False}
+[18.632471] (sub) StdoutLine: {'line': b'-- Install configuration: ""\n'}
+[18.632775] (sub) StdoutLine: {'line': b'-- Installing: /home/robot/Xmate3/xmate_control/install/sub/lib/sub/control_sub\n'}
+[18.640160] (sub) StdoutLine: {'line': b'-- Set runtime path of "/home/robot/Xmate3/xmate_control/install/sub/lib/sub/control_sub" to ""\n'}
+[18.640427] (sub) StdoutLine: {'line': b'-- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/ament_index/resource_index/package_run_dependencies/sub\n'}
+[18.640866] (sub) StdoutLine: {'line': b'-- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/ament_index/resource_index/parent_prefix_path/sub\n'}
+[18.640963] (sub) StdoutLine: {'line': b'-- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/sub/environment/ament_prefix_path.sh\n'}
+[18.641087] (sub) StdoutLine: {'line': b'-- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/sub/environment/ament_prefix_path.dsv\n'}
+[18.641205] (sub) StdoutLine: {'line': b'-- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/sub/environment/path.sh\n'}
+[18.641293] (sub) StdoutLine: {'line': b'-- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/sub/environment/path.dsv\n'}
+[18.641402] (sub) StdoutLine: {'line': b'-- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/sub/local_setup.bash\n'}
+[18.641482] (sub) StdoutLine: {'line': b'-- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/sub/local_setup.sh\n'}
+[18.641559] (sub) StdoutLine: {'line': b'-- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/sub/local_setup.zsh\n'}
+[18.641649] (sub) StdoutLine: {'line': b'-- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/sub/local_setup.dsv\n'}
+[18.641728] (sub) StdoutLine: {'line': b'-- Installing: /home/robot/Xmate3/xmate_control/install/sub/share/sub/package.dsv\n'}
+[18.641806] (sub) StdoutLine: {'line': b'-- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/ament_index/resource_index/packages/sub\n'}
+[18.641884] (sub) StdoutLine: {'line': b'-- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/sub/cmake/subConfig.cmake\n'}
+[18.641963] (sub) StdoutLine: {'line': b'-- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/sub/cmake/subConfig-version.cmake\n'}
+[18.642048] (sub) StdoutLine: {'line': b'-- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/sub/package.xml\n'}
+[18.643026] (sub) CommandEnded: {'returncode': 0}
+[18.660258] (-) TimerEvent: {}
+[18.684777] (sub) JobEnded: {'identifier': 'sub', 'rc': 0}
+[18.685630] (-) EventReactorShutdown: {}

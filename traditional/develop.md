@@ -127,6 +127,11 @@ tensorflow版本
 跑Pytorch版  
 这个一定要有CUDA，因为用了`cuda()`    
 `nvcc --version`无  
+但是有`nvidia-smi`  
+试试这个  
+
+装pytorch  
+https://github.com/pytorch/pytorch#from-source  
 
 **Eyestalker**  
 https://github.com/tbrouns/eyestalker  
@@ -136,8 +141,64 @@ https://github.com/tbrouns/eyestalker
 这个挺好的，就是有点小延迟  
 
 
-**deepVOG**
+**deepVOG**  
+
 这也要nvida  
+docker 安装 https://www.runoob.com/docker/ubuntu-docker-install.html  
+跑个脚本  
+
+docker报错
+```
+sudo docker run --runtime=nvidia -it --rm yyhhoi/deepvog:v1.1.4 bash
+docker: Error response from daemon: unknown or invalid runtime name: nvidia.
+See 'docker run --help'.
+```  
+`sudo systemctl restart docker`没用  
+```
+sudo apt-get install -y nvidia-container-toolkit
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+E: Unable to locate package nvidia-container-toolkit
+```
+
+按菜鸟的来安装  
+https://www.runoob.com/docker/ubuntu-docker-install.html  
+跑出hello world，但是报错一样  
+估计是没安装nivida-docker  
+参考  https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html  
+
+确保能用的指令  
+参考  https://blog.csdn.net/submarineas/article/details/108477031  
+```
+sudo systemctl status docker
+
+nvidia-docker --version
+nvcc --version 没有找到 -> 一下指令安装  
+sudo apt install nvidia-cuda-toolkit  超过3个G
+control c掉
+```
+这指令一大堆，还不知道在干啥，算了别自己跳坑  
+算了还是按官方
+
+```
+sudo nvidia-ctk runtime configure --runtime=docker
+sudo systemctl restart docker
+```
+
+可以，报错消失
+```shell
+$ sudo docker run --runtime=nvidia -it --rm yyhhoi/deepvog:v1.1.4 bash
+```  
+这个怎么要下这么久  
+打开了，然后怎么搞  
+
+```
+sudo docker run -v `pwd`/demo/:/notebooks/ --runtime=nvidia -it --rm yyhhoi/deepvog:v1.1.4 bash
+python -m deepvog --fit ./demo.mp4 ./eyeball_model.json
+python -m deepvog --infer ./demo.mp4 ./eyeball_model.json ./results.csv
+```
+这个鬼东西就是不画出来  
 
 **GazeHub**  
 https://phi-ai.buaa.edu.cn/Gazehub/3D-method/  
@@ -181,7 +242,7 @@ Eyetab用的也是虹膜大小，ok了
 
   - [ ] 现在感觉不怎么鲁棒，为什么之前跑感觉又没啥问题
 
-- [ ] realsense 打开默认是IR
+- [x] realsense 打开默认是IR
 查看官方使用手册：https://www.intelrealsense.com/developers/  
 https://dev.intelrealsense.com/docs/compiling-librealsense-for-linux-ubuntu-guide  
 先换回默认源，反正有clash  
@@ -228,8 +289,9 @@ ok了
   - [ ] locator远的时候，虹膜小，也识别不到
   面积调小一点？但这样眉毛可能被圈到  
   话说现在realsense用1920 * 1080的话，这么大，不改面积是不是也能更远？  
+  现在这个倒确实，但是，realsense之后感觉效果还不如，感觉很容易被干扰，然后圈人眼圈的很差，假眼还好点      
 
-  - [ ] 无效数据
+  - [x] 无效数据
     Nan点  
     矩阵无逆
     防止除数为0  
@@ -242,6 +304,9 @@ ssh不行，那ftp和filezila应该也同理不行吧
 直接用github来搞了，不过这种是不是弄成私有比较好？用实验室的git  
 服务器有个磁盘  
 
+### 视觉优化  
+
+
 ## TODO
 - [ ] 跑代码
   - [ ] 跑deepVOG  
@@ -250,6 +315,6 @@ ssh不行，那ftp和filezila应该也同理不行吧
 - [ ] 初版
   - [ ] locator + nystagmus
   - [x] nystagmus
-  - [ ] realsense导出数据
+  - [x] realsense导出数据
   - [x] 虹膜和瞳孔有点区别的，如果圈的是瞳孔，那要改一下6mm的预设
 - [ ] Python ROS代码

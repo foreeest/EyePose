@@ -1,0 +1,268 @@
+-- The C compiler identification is GNU 9.4.0
+-- The CXX compiler identification is GNU 9.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.71.0/BoostConfig.cmake (found version "1.71.0")  
+-- Boost found:
+-- Boost include directory: /usr/include
+-- Reset Boost include directory to: /home/robot/opt/boost_1_84_0/
+-- Boost library directory: 
+-- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+-- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+-- Found FastRTPS: /opt/ros/foxy/include  
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+-- Looking for pthread_create in pthreads
+-- Looking for pthread_create in pthreads - not found
+-- Looking for pthread_create in pthread
+-- Looking for pthread_create in pthread - found
+-- Found Threads: TRUE  
+-- PROJECT_SOURCE_DIR: /home/robot/Xmate3/xmate_control/src/sub
+-- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+-- Added test 'cppcheck' to perform static code analysis on C / C++ code
+-- Configured cppcheck include dirs: /home/robot/Xmate3/xmate_control/src/sub/inc;/home/robot/Xmate3/xmate_control/src/sub/inc/include
+-- Configured cppcheck exclude dirs and/or files: 
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'uncrustify' to check C / C++ code style
+-- Configured uncrustify additional arguments: 
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/robot/Xmate3/xmate_control/build/sub
+[35m[1mScanning dependencies of target control_sub[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/control_sub.dir/src/control_sub.cpp.o[0m
+In file included from [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:14[m[K:
+[01m[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:[m[K In constructor ‘[01m[KIK_solution::IK_solution(const Eigen::Matrix<double, 7, 4>&, const std::vector<double, std::allocator<double> >&, const std::vector<double, std::allocator<double> >&, const Matrix4d&, const Matrix4d&, double)[m[K’:
+[01m[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:30:44:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Klower_bond[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   30 |                 [01;35m[Kconst std::vector<double>& lower_bond[m[K,
+      |                 [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~[m[K
+[01m[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:31:44:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kupper_bond[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   31 |                 [01;35m[Kconst std::vector<double>& upper_bond[m[K,
+      |                 [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~[m[K
+[01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:136:68:[m[K [01;31m[Kerror: [m[Kconversion from ‘[01m[Kvector<array<[...],[01;32m[K6[m[K>>[m[K’ to non-scalar type ‘[01m[Kvector<array<[...],[01;32m[K7[m[K>>[m[K’ requested
+  136 | d::vector<std::array<double,7>>result_mat = [01;31m[Kinterpolator.Step(joint_pos)[m[K;//创建初始插值
+      |                                             [01;31m[K~~~~~~~~~~~~~~~~~^~~~~~~~~~~[m[K
+
+[01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:156:37:[m[K [01;31m[Kerror: [m[K‘[01m[Kclass IK_solution[m[K’ has no member named ‘[01m[Kget_postion[m[K’; did you mean ‘[01m[Kget_position[m[K’?
+  156 |     Eigen::Vector3d target_pos = IK.[01;31m[Kget_postion[m[K(joints_angle);
+      |                                     [01;31m[K^~~~~~~~~~~[m[K
+      |                                     [32m[Kget_position[m[K
+[01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:159:38:[m[K [01;31m[Kerror: [m[K‘[01m[Kclass IK_solution[m[K’ has no member named ‘[01m[Kget_postion[m[K’; did you mean ‘[01m[Kget_position[m[K’?
+  159 |     Eigen::Vector3d current_pos = IK.[01;31m[Kget_postion[m[K(joints_angle);
+      |                                      [01;31m[K^~~~~~~~~~~[m[K
+      |                                      [32m[Kget_position[m[K
+[01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:[m[K In lambda function:
+[01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:173:24:[m[K [01;35m[Kwarning: [m[Ksuggest parentheses around assignment used as truth value [[01;35m[K-Wparentheses[m[K]
+  173 |             for(int i;[01;35m[Ki=0[m[K;++i){
+      |                       [01;35m[K~^~[m[K
+[01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:176:30:[m[K [01;31m[Kerror: [m[K‘[01m[Kclass IK_solution[m[K’ has no member named ‘[01m[Kget_postion[m[K’; did you mean ‘[01m[Kget_position[m[K’?
+  176 |             current_pos = IK.[01;31m[Kget_postion[m[K(joints_angle);
+      |                              [01;31m[K^~~~~~~~~~~[m[K
+      |                              [32m[Kget_position[m[K
+[01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:187:59:[m[K [01;31m[Kerror: [m[K‘[01m[Ktarget_euler[m[K’ was not declared in this scope; did you mean ‘[01m[Ktarget_eular[m[K’?
+  187 |             action = IK.IK_solver(joints_angle,target_pos,[01;31m[Ktarget_euler[m[K);//算反向运动学
+      |                                                           [01;31m[K^~~~~~~~~~~~[m[K
+      |                                                           [32m[Ktarget_eular[m[K
+[01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:146:9:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[KM[m[K’ [[01;35m[K-Wunused-variable[m[K]
+  146 |     int [01;35m[KM[m[K = 50; //50ms取一个控制值
+      |         [01;35m[K^[m[K
+[01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:147:12:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kmax_tran[m[K’ [[01;35m[K-Wunused-variable[m[K]
+  147 |     double [01;35m[Kmax_tran[m[K = 0.01; //最大距离差和角度差，高于这个不接收新位置 0.01m=1cm
+      |            [01;35m[K^~~~~~~~[m[K
+[01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:148:12:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kmax_rota[m[K’ [[01;35m[K-Wunused-variable[m[K]
+  148 |     double [01;35m[Kmax_rota[m[K = M_PI/36; //大概5度？
+      |            [01;35m[K^~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:458[m[K,
+                 from [01m[K/usr/include/eigen3/Eigen/Geometry:11[m[K,
+                 from [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:5[m[K,
+                 from [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:14[m[K:
+/usr/include/eigen3/Eigen/src/Core/Matrix.h: In instantiation of ‘[01m[KEigen::Matrix<_Scalar, _Rows, _Cols, _Options, _MaxRows, _MaxCols>::Matrix(const T&) [with T = std::array<double, 7>; _Scalar = double; int _Rows = -1; int _Cols = 1; int _Options = 0; int _MaxRows = -1; int _MaxCols = 1][m[K’:
+[01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:155:40:[m[K   required from here
+[01m[K/usr/include/eigen3/Eigen/src/Core/Matrix.h:294:31:[m[K [01;31m[Kerror: [m[Kno matching function for call to ‘[01m[KEigen::Matrix<double, -1, 1>::_init1<std::array<double, 7> >(const std::array<double, 7>&)[m[K’
+  294 |       [01;31m[KBase::template _init1<T>(x)[m[K;
+      |       [01;31m[K~~~~~~~~~~~~~~~~~~~~~~~~^~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:457[m[K,
+                 from [01m[K/usr/include/eigen3/Eigen/Geometry:11[m[K,
+                 from [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:5[m[K,
+                 from [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:14[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:772:30:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Kvoid Eigen::PlainObjectBase<Derived>::_init1(Eigen::Index, typename Eigen::internal::enable_if<(((typename Eigen::internal::dense_xpr_base<Derived>::type::SizeAtCompileTime != 1) || (! Eigen::internal::is_convertible<T, typename Eigen::internal::traits<T>::Scalar>::value)) && ((! Eigen::internal::is_same<typename Eigen::internal::traits<T>::XprKind, Eigen::ArrayXpr>::value) || (typename Eigen::internal::dense_xpr_base<Derived>::type::SizeAtCompileTime == Eigen::Dynamic))), T>::type*) [with T = std::array<double, 7>; Derived = Eigen::Matrix<double, -1, 1>; Eigen::Index = long int; typename Eigen::internal::enable_if<(((typename Eigen::internal::dense_xpr_base<Derived>::type::SizeAtCompileTime != 1) || (! Eigen::internal::is_convertible<T, typename Eigen::internal::traits<T>::Scalar>::value)) && ((! Eigen::internal::is_same<typename Eigen::internal::traits<T>::XprKind, Eigen::ArrayXpr>::value) || (typename Eigen::internal::dense_xpr_base<Derived>::type::SizeAtCompileTime == Eigen::Dynamic))), T>::type = std::array<double, 7>][m[K’
+  772 |     EIGEN_STRONG_INLINE void [01;36m[K_init1[m[K(Index size, typename internal::enable_if<    (Base::SizeAtCompileTime!=1 || !internal::is_convertible<T, Scalar>::value)
+      |                              [01;36m[K^~~~~~[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:772:43:[m[K [01;36m[Knote: [m[K  no known conversion for argument 1 from ‘[01m[Kconst std::array<double, 7>[m[K’ to ‘[01m[KEigen::Index[m[K’ {aka ‘[01m[Klong int[m[K’}
+  772 |     EIGEN_STRONG_INLINE void _init1([01;36m[KIndex size[m[K, typename internal::enable_if<    (Base::SizeAtCompileTime!=1 || !internal::is_convertible<T, Scalar>::value)
+      |                                     [01;36m[K~~~~~~^~~~[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:786:30:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Ktemplate<class T> void Eigen::PlainObjectBase<Derived>::_init1(const Scalar&, typename Eigen::internal::enable_if<((typename Eigen::internal::dense_xpr_base<Derived>::type::SizeAtCompileTime == 1) && Eigen::internal::is_convertible<T, typename Eigen::internal::traits<T>::Scalar>::value), T>::type*) [with T = T; Derived = Eigen::Matrix<double, -1, 1>][m[K’
+  786 |     EIGEN_STRONG_INLINE void [01;36m[K_init1[m[K(const Scalar& val0, typename internal::enable_if<Base::SizeAtCompileTime==1 && internal::is_convertible<T, Scalar>::value,T>::type* = 0)
+      |                              [01;36m[K^~~~~~[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:786:30:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h: In substitution of ‘[01m[Ktemplate<class T> void Eigen::PlainObjectBase<Eigen::Matrix<double, -1, 1> >::_init1<T>(const Scalar&, typename Eigen::internal::enable_if<((Eigen::MatrixBase<Eigen::Matrix<double, -1, 1> >::SizeAtCompileTime == 1) && Eigen::internal::is_convertible<T, double>::value), T>::type*) [with T = std::array<double, 7>][m[K’:
+[01m[K/usr/include/eigen3/Eigen/src/Core/Matrix.h:294:31:[m[K   required from ‘[01m[KEigen::Matrix<_Scalar, _Rows, _Cols, _Options, _MaxRows, _MaxCols>::Matrix(const T&) [with T = std::array<double, 7>; _Scalar = double; int _Rows = -1; int _Cols = 1; int _Options = 0; int _MaxRows = -1; int _MaxCols = 1][m[K’
+[01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:155:40:[m[K   required from here
+[01m[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:786:30:[m[K [01;31m[Kerror: [m[Kinvalid use of incomplete type ‘[01m[Kstruct Eigen::internal::enable_if<false, std::array<double, 7> >[m[K’
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:364[m[K,
+                 from [01m[K/usr/include/eigen3/Eigen/Geometry:11[m[K,
+                 from [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:5[m[K,
+                 from [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:14[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Meta.h:184:50:[m[K [01;36m[Knote: [m[Kdeclaration of ‘[01m[Kstruct Eigen::internal::enable_if<false, std::array<double, 7> >[m[K’
+  184 | template<bool Condition, typename T=void> struct [01;36m[Kenable_if[m[K;
+      |                                                  [01;36m[K^~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:457[m[K,
+                 from [01m[K/usr/include/eigen3/Eigen/Geometry:11[m[K,
+                 from [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:5[m[K,
+                 from [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:14[m[K:
+/usr/include/eigen3/Eigen/src/Core/Matrix.h: In instantiation of ‘[01m[KEigen::Matrix<_Scalar, _Rows, _Cols, _Options, _MaxRows, _MaxCols>::Matrix(const T&) [with T = std::array<double, 7>; _Scalar = double; int _Rows = -1; int _Cols = 1; int _Options = 0; int _MaxRows = -1; int _MaxCols = 1][m[K’:
+[01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:155:40:[m[K   required from here
+[01m[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:795:30:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Ktemplate<class T> void Eigen::PlainObjectBase<Derived>::_init1(const Index&, typename Eigen::internal::enable_if<((((! Eigen::internal::is_same<long int, typename Eigen::internal::traits<T>::Scalar>::value) && Eigen::internal::is_same<long int, T>::value) && (typename Eigen::internal::dense_xpr_base<Derived>::type::SizeAtCompileTime == 1)) && Eigen::internal::is_convertible<T, typename Eigen::internal::traits<T>::Scalar>::value), T*>::type*) [with T = T; Derived = Eigen::Matrix<double, -1, 1>][m[K’
+  795 |     EIGEN_STRONG_INLINE void [01;36m[K_init1[m[K(const Index& val0,
+      |                              [01;36m[K^~~~~~[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:795:30:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h: In substitution of ‘[01m[Ktemplate<class T> void Eigen::PlainObjectBase<Eigen::Matrix<double, -1, 1> >::_init1<T>(const Index&, typename Eigen::internal::enable_if<((((! Eigen::internal::is_same<long int, double>::value) && Eigen::internal::is_same<long int, T>::value) && (Eigen::MatrixBase<Eigen::Matrix<double, -1, 1> >::SizeAtCompileTime == 1)) && Eigen::internal::is_convertible<T, double>::value), T*>::type*) [with T = std::array<double, 7>][m[K’:
+[01m[K/usr/include/eigen3/Eigen/src/Core/Matrix.h:294:31:[m[K   required from ‘[01m[KEigen::Matrix<_Scalar, _Rows, _Cols, _Options, _MaxRows, _MaxCols>::Matrix(const T&) [with T = std::array<double, 7>; _Scalar = double; int _Rows = -1; int _Cols = 1; int _Options = 0; int _MaxRows = -1; int _MaxCols = 1][m[K’
+[01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:155:40:[m[K   required from here
+[01m[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:795:30:[m[K [01;31m[Kerror: [m[Kinvalid use of incomplete type ‘[01m[Kstruct Eigen::internal::enable_if<false, std::array<double, 7>*>[m[K’
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:364[m[K,
+                 from [01m[K/usr/include/eigen3/Eigen/Geometry:11[m[K,
+                 from [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:5[m[K,
+                 from [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:14[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Meta.h:184:50:[m[K [01;36m[Knote: [m[Kdeclaration of ‘[01m[Kstruct Eigen::internal::enable_if<false, std::array<double, 7>*>[m[K’
+  184 | template<bool Condition, typename T=void> struct [01;36m[Kenable_if[m[K;
+      |                                                  [01;36m[K^~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:457[m[K,
+                 from [01m[K/usr/include/eigen3/Eigen/Geometry:11[m[K,
+                 from [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:5[m[K,
+                 from [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:14[m[K:
+/usr/include/eigen3/Eigen/src/Core/Matrix.h: In instantiation of ‘[01m[KEigen::Matrix<_Scalar, _Rows, _Cols, _Options, _MaxRows, _MaxCols>::Matrix(const T&) [with T = std::array<double, 7>; _Scalar = double; int _Rows = -1; int _Cols = 1; int _Options = 0; int _MaxRows = -1; int _MaxCols = 1][m[K’:
+[01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:155:40:[m[K   required from here
+[01m[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:808:30:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Kvoid Eigen::PlainObjectBase<Derived>::_init1(const Scalar*) [with T = std::array<double, 7>; Derived = Eigen::Matrix<double, -1, 1>; Eigen::PlainObjectBase<Derived>::Scalar = double][m[K’
+  808 |     EIGEN_STRONG_INLINE void [01;36m[K_init1[m[K(const Scalar* data){
+      |                              [01;36m[K^~~~~~[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:808:51:[m[K [01;36m[Knote: [m[K  no known conversion for argument 1 from ‘[01m[Kconst std::array<double, 7>[m[K’ to ‘[01m[Kconst Scalar*[m[K’ {aka ‘[01m[Kconst double*[m[K’}
+  808 |     EIGEN_STRONG_INLINE void _init1([01;36m[Kconst Scalar* data[m[K){
+      |                                     [01;36m[K~~~~~~~~~~~~~~^~~~[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:815:30:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Ktemplate<class T, class OtherDerived> void Eigen::PlainObjectBase<Derived>::_init1(const Eigen::DenseBase<ElseDerived>&) [with T = T; OtherDerived = OtherDerived; Derived = Eigen::Matrix<double, -1, 1>][m[K’
+  815 |     EIGEN_STRONG_INLINE void [01;36m[K_init1[m[K(const DenseBase<OtherDerived>& other){
+      |                              [01;36m[K^~~~~~[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:815:30:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:458[m[K,
+                 from [01m[K/usr/include/eigen3/Eigen/Geometry:11[m[K,
+                 from [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:5[m[K,
+                 from [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:14[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/Matrix.h:294:31:[m[K [01;36m[Knote: [m[K  ‘[01m[Kconst std::array<double, 7>[m[K’ is not derived from ‘[01m[Kconst Eigen::DenseBase<Derived>[m[K’
+  294 |       [01;36m[KBase::template _init1<T>(x)[m[K;
+      |       [01;36m[K~~~~~~~~~~~~~~~~~~~~~~~~^~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:457[m[K,
+                 from [01m[K/usr/include/eigen3/Eigen/Geometry:11[m[K,
+                 from [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:5[m[K,
+                 from [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:14[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:822:30:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Kvoid Eigen::PlainObjectBase<Derived>::_init1(const Derived&) [with T = std::array<double, 7>; Derived = Eigen::Matrix<double, -1, 1>][m[K’
+  822 |     EIGEN_STRONG_INLINE void [01;36m[K_init1[m[K(const Derived& other){
+      |                              [01;36m[K^~~~~~[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:822:52:[m[K [01;36m[Knote: [m[K  no known conversion for argument 1 from ‘[01m[Kconst std::array<double, 7>[m[K’ to ‘[01m[Kconst Eigen::Matrix<double, -1, 1>&[m[K’
+  822 |     EIGEN_STRONG_INLINE void _init1([01;36m[Kconst Derived& other[m[K){
+      |                                     [01;36m[K~~~~~~~~~~~~~~~^~~~~[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:829:30:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Ktemplate<class T, class OtherDerived> void Eigen::PlainObjectBase<Derived>::_init1(const Eigen::EigenBase<OtherDerived>&) [with T = T; OtherDerived = OtherDerived; Derived = Eigen::Matrix<double, -1, 1>][m[K’
+  829 |     EIGEN_STRONG_INLINE void [01;36m[K_init1[m[K(const EigenBase<OtherDerived>& other){
+      |                              [01;36m[K^~~~~~[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:829:30:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:458[m[K,
+                 from [01m[K/usr/include/eigen3/Eigen/Geometry:11[m[K,
+                 from [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:5[m[K,
+                 from [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:14[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/Matrix.h:294:31:[m[K [01;36m[Knote: [m[K  ‘[01m[Kconst std::array<double, 7>[m[K’ is not derived from ‘[01m[Kconst Eigen::EigenBase<OtherDerived>[m[K’
+  294 |       [01;36m[KBase::template _init1<T>(x)[m[K;
+      |       [01;36m[K~~~~~~~~~~~~~~~~~~~~~~~~^~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:457[m[K,
+                 from [01m[K/usr/include/eigen3/Eigen/Geometry:11[m[K,
+                 from [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:5[m[K,
+                 from [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:14[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:835:30:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Ktemplate<class T, class OtherDerived> void Eigen::PlainObjectBase<Derived>::_init1(const Eigen::ReturnByValue<OtherDerived>&) [with T = T; OtherDerived = OtherDerived; Derived = Eigen::Matrix<double, -1, 1>][m[K’
+  835 |     EIGEN_STRONG_INLINE void [01;36m[K_init1[m[K(const ReturnByValue<OtherDerived>& other)
+      |                              [01;36m[K^~~~~~[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:835:30:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:458[m[K,
+                 from [01m[K/usr/include/eigen3/Eigen/Geometry:11[m[K,
+                 from [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:5[m[K,
+                 from [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:14[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/Matrix.h:294:31:[m[K [01;36m[Knote: [m[K  ‘[01m[Kconst std::array<double, 7>[m[K’ is not derived from ‘[01m[Kconst Eigen::ReturnByValue<OtherDerived>[m[K’
+  294 |       [01;36m[KBase::template _init1<T>(x)[m[K;
+      |       [01;36m[K~~~~~~~~~~~~~~~~~~~~~~~~^~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:457[m[K,
+                 from [01m[K/usr/include/eigen3/Eigen/Geometry:11[m[K,
+                 from [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:5[m[K,
+                 from [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:14[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:843:30:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Ktemplate<class T, class OtherDerived, int ColsAtCompileTime> void Eigen::PlainObjectBase<Derived>::_init1(const Eigen::RotationBase<OtherDerived, ColsAtCompileTime>&) [with T = T; OtherDerived = OtherDerived; int ColsAtCompileTime = ColsAtCompileTime; Derived = Eigen::Matrix<double, -1, 1>][m[K’
+  843 |     EIGEN_STRONG_INLINE void [01;36m[K_init1[m[K(const RotationBase<OtherDerived,ColsAtCompileTime>& r)
+      |                              [01;36m[K^~~~~~[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:843:30:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:458[m[K,
+                 from [01m[K/usr/include/eigen3/Eigen/Geometry:11[m[K,
+                 from [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:5[m[K,
+                 from [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:14[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/Matrix.h:294:31:[m[K [01;36m[Knote: [m[K  ‘[01m[Kconst std::array<double, 7>[m[K’ is not derived from ‘[01m[Kconst Eigen::RotationBase<OtherDerived, ColsAtCompileTime>[m[K’
+  294 |       [01;36m[KBase::template _init1<T>(x)[m[K;
+      |       [01;36m[K~~~~~~~~~~~~~~~~~~~~~~~~^~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:457[m[K,
+                 from [01m[K/usr/include/eigen3/Eigen/Geometry:11[m[K,
+                 from [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:5[m[K,
+                 from [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:14[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:851:30:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Ktemplate<class T> void Eigen::PlainObjectBase<Derived>::_init1(const Scalar&, typename Eigen::internal::enable_if<((((typename Eigen::internal::dense_xpr_base<Derived>::type::SizeAtCompileTime != Eigen::Dynamic) && (typename Eigen::internal::dense_xpr_base<Derived>::type::SizeAtCompileTime != 1)) && Eigen::internal::is_convertible<T, typename Eigen::internal::traits<T>::Scalar>::value) && Eigen::internal::is_same<typename Eigen::internal::traits<T>::XprKind, Eigen::ArrayXpr>::value), T>::type*) [with T = T; Derived = Eigen::Matrix<double, -1, 1>][m[K’
+  851 |     EIGEN_STRONG_INLINE void [01;36m[K_init1[m[K(const Scalar& val0,
+      |                              [01;36m[K^~~~~~[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:851:30:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h: In substitution of ‘[01m[Ktemplate<class T> void Eigen::PlainObjectBase<Eigen::Matrix<double, -1, 1> >::_init1<T>(const Scalar&, typename Eigen::internal::enable_if<((((Eigen::MatrixBase<Eigen::Matrix<double, -1, 1> >::SizeAtCompileTime != Eigen::Dynamic) && (Eigen::MatrixBase<Eigen::Matrix<double, -1, 1> >::SizeAtCompileTime != 1)) && Eigen::internal::is_convertible<T, double>::value) && Eigen::internal::is_same<Eigen::MatrixXpr, Eigen::ArrayXpr>::value), T>::type*) [with T = std::array<double, 7>][m[K’:
+[01m[K/usr/include/eigen3/Eigen/src/Core/Matrix.h:294:31:[m[K   required from ‘[01m[KEigen::Matrix<_Scalar, _Rows, _Cols, _Options, _MaxRows, _MaxCols>::Matrix(const T&) [with T = std::array<double, 7>; _Scalar = double; int _Rows = -1; int _Cols = 1; int _Options = 0; int _MaxRows = -1; int _MaxCols = 1][m[K’
+[01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:155:40:[m[K   required from here
+[01m[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:851:30:[m[K [01;31m[Kerror: [m[Kinvalid use of incomplete type ‘[01m[Kstruct Eigen::internal::enable_if<false, std::array<double, 7> >[m[K’
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:364[m[K,
+                 from [01m[K/usr/include/eigen3/Eigen/Geometry:11[m[K,
+                 from [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:5[m[K,
+                 from [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:14[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Meta.h:184:50:[m[K [01;36m[Knote: [m[Kdeclaration of ‘[01m[Kstruct Eigen::internal::enable_if<false, std::array<double, 7> >[m[K’
+  184 | template<bool Condition, typename T=void> struct [01;36m[Kenable_if[m[K;
+      |                                                  [01;36m[K^~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:457[m[K,
+                 from [01m[K/usr/include/eigen3/Eigen/Geometry:11[m[K,
+                 from [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:5[m[K,
+                 from [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:14[m[K:
+/usr/include/eigen3/Eigen/src/Core/Matrix.h: In instantiation of ‘[01m[KEigen::Matrix<_Scalar, _Rows, _Cols, _Options, _MaxRows, _MaxCols>::Matrix(const T&) [with T = std::array<double, 7>; _Scalar = double; int _Rows = -1; int _Cols = 1; int _Options = 0; int _MaxRows = -1; int _MaxCols = 1][m[K’:
+[01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:155:40:[m[K   required from here
+[01m[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:863:30:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Ktemplate<class T> void Eigen::PlainObjectBase<Derived>::_init1(const Index&, typename Eigen::internal::enable_if<((((((! Eigen::internal::is_same<long int, typename Eigen::internal::traits<T>::Scalar>::value) && Eigen::internal::is_same<long int, T>::value) && (typename Eigen::internal::dense_xpr_base<Derived>::type::SizeAtCompileTime != Eigen::Dynamic)) && (typename Eigen::internal::dense_xpr_base<Derived>::type::SizeAtCompileTime != 1)) && Eigen::internal::is_convertible<T, typename Eigen::internal::traits<T>::Scalar>::value) && Eigen::internal::is_same<typename Eigen::internal::traits<T>::XprKind, Eigen::ArrayXpr>::value), T*>::type*) [with T = T; Derived = Eigen::Matrix<double, -1, 1>][m[K’
+  863 |     EIGEN_STRONG_INLINE void [01;36m[K_init1[m[K(const Index& val0,
+      |                              [01;36m[K^~~~~~[m[K
+[01m[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:863:30:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h: In substitution of ‘[01m[Ktemplate<class T> void Eigen::PlainObjectBase<Eigen::Matrix<double, -1, 1> >::_init1<T>(const Index&, typename Eigen::internal::enable_if<((((((! Eigen::internal::is_same<long int, double>::value) && Eigen::internal::is_same<long int, T>::value) && (Eigen::MatrixBase<Eigen::Matrix<double, -1, 1> >::SizeAtCompileTime != Eigen::Dynamic)) && (Eigen::MatrixBase<Eigen::Matrix<double, -1, 1> >::SizeAtCompileTime != 1)) && Eigen::internal::is_convertible<T, double>::value) && Eigen::internal::is_same<Eigen::MatrixXpr, Eigen::ArrayXpr>::value), T*>::type*) [with T = std::array<double, 7>][m[K’:
+[01m[K/usr/include/eigen3/Eigen/src/Core/Matrix.h:294:31:[m[K   required from ‘[01m[KEigen::Matrix<_Scalar, _Rows, _Cols, _Options, _MaxRows, _MaxCols>::Matrix(const T&) [with T = std::array<double, 7>; _Scalar = double; int _Rows = -1; int _Cols = 1; int _Options = 0; int _MaxRows = -1; int _MaxCols = 1][m[K’
+[01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:155:40:[m[K   required from here
+[01m[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:863:30:[m[K [01;31m[Kerror: [m[Kinvalid use of incomplete type ‘[01m[Kstruct Eigen::internal::enable_if<false, std::array<double, 7>*>[m[K’
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:364[m[K,
+                 from [01m[K/usr/include/eigen3/Eigen/Geometry:11[m[K,
+                 from [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:5[m[K,
+                 from [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:14[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Meta.h:184:50:[m[K [01;36m[Knote: [m[Kdeclaration of ‘[01m[Kstruct Eigen::internal::enable_if<false, std::array<double, 7>*>[m[K’
+  184 | template<bool Condition, typename T=void> struct [01;36m[Kenable_if[m[K;
+      |                                                  [01;36m[K^~~~~~~~~[m[K
+make[2]: *** [CMakeFiles/control_sub.dir/build.make:63: CMakeFiles/control_sub.dir/src/control_sub.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:78: CMakeFiles/control_sub.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

@@ -1,0 +1,191 @@
+[0.221s] DEBUG:colcon:Command line arguments: ['/usr/bin/colcon', 'build', '--cmake-args', '-DPYTHON_EXECUTABLE=/usr/bin/python3']
+[0.221s] DEBUG:colcon:Parsed command line arguments: Namespace(allow_overriding=[], ament_cmake_args=None, base_paths=['.'], build_base='build', catkin_cmake_args=None, catkin_skip_building_tests=False, cmake_args=['-DPYTHON_EXECUTABLE=/usr/bin/python3'], cmake_clean_cache=False, cmake_clean_first=False, cmake_force_configure=False, cmake_target=None, cmake_target_skip_unavailable=False, continue_on_error=False, event_handlers=None, executor='parallel', ignore_user_meta=False, install_base='install', log_base=None, log_level=None, main=<bound method BuildVerb.main of <colcon_core.verb.build.BuildVerb object at 0x7faa754ae9d0>>, merge_install=False, metas=['./colcon.meta'], packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_end=None, packages_ignore=None, packages_ignore_regex=None, packages_select=None, packages_select_build_failed=False, packages_select_by_dep=None, packages_select_regex=None, packages_select_test_failures=False, packages_skip=None, packages_skip_build_finished=False, packages_skip_by_dep=None, packages_skip_regex=None, packages_skip_test_passed=False, packages_skip_up_to=None, packages_start=None, packages_up_to=None, packages_up_to_regex=None, parallel_workers=12, paths=None, symlink_install=False, test_result_base=None, verb_extension=<colcon_core.verb.build.BuildVerb object at 0x7faa754ae9d0>, verb_name='build', verb_parser=<colcon_defaults.argument_parser.defaults.DefaultArgumentsDecorator object at 0x7faa75351700>)
+[0.397s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) check parameters
+[0.397s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) check parameters
+[0.397s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) check parameters
+[0.397s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) check parameters
+[0.397s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) discover
+[0.398s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) discover
+[0.398s] INFO:colcon.colcon_core.package_discovery:Crawling recursively for packages in '/home/robot/Xmate3/xmate_control'
+[0.398s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ignore', 'ignore_ament_install']
+[0.398s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore'
+[0.398s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore_ament_install'
+[0.398s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_pkg']
+[0.398s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_pkg'
+[0.398s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_meta']
+[0.398s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_meta'
+[0.398s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ros']
+[0.398s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ros'
+[0.411s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['cmake', 'python']
+[0.411s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'cmake'
+[0.411s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python'
+[0.411s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['python_setup_py']
+[0.411s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python_setup_py'
+[0.411s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extensions ['ignore', 'ignore_ament_install']
+[0.411s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extension 'ignore'
+[0.411s] Level 1:colcon.colcon_core.package_identification:_identify(build) ignored
+[0.411s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extensions ['ignore', 'ignore_ament_install']
+[0.411s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extension 'ignore'
+[0.412s] Level 1:colcon.colcon_core.package_identification:_identify(install) ignored
+[0.412s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extensions ['ignore', 'ignore_ament_install']
+[0.412s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extension 'ignore'
+[0.412s] Level 1:colcon.colcon_core.package_identification:_identify(log) ignored
+[0.412s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['ignore', 'ignore_ament_install']
+[0.412s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ignore'
+[0.412s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ignore_ament_install'
+[0.412s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['colcon_pkg']
+[0.412s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'colcon_pkg'
+[0.412s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['colcon_meta']
+[0.412s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'colcon_meta'
+[0.412s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['ros']
+[0.412s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ros'
+[0.413s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['cmake', 'python']
+[0.413s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'cmake'
+[0.413s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'python'
+[0.413s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['python_setup_py']
+[0.413s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'python_setup_py'
+[0.413s] Level 1:colcon.colcon_core.package_identification:_identify(src/pub) by extensions ['ignore', 'ignore_ament_install']
+[0.413s] Level 1:colcon.colcon_core.package_identification:_identify(src/pub) by extension 'ignore'
+[0.413s] Level 1:colcon.colcon_core.package_identification:_identify(src/pub) by extension 'ignore_ament_install'
+[0.413s] Level 1:colcon.colcon_core.package_identification:_identify(src/pub) by extensions ['colcon_pkg']
+[0.413s] Level 1:colcon.colcon_core.package_identification:_identify(src/pub) by extension 'colcon_pkg'
+[0.413s] Level 1:colcon.colcon_core.package_identification:_identify(src/pub) by extensions ['colcon_meta']
+[0.413s] Level 1:colcon.colcon_core.package_identification:_identify(src/pub) by extension 'colcon_meta'
+[0.413s] Level 1:colcon.colcon_core.package_identification:_identify(src/pub) by extensions ['ros']
+[0.413s] Level 1:colcon.colcon_core.package_identification:_identify(src/pub) by extension 'ros'
+[0.416s] DEBUG:colcon.colcon_core.package_identification:Package 'src/pub' with type 'ros.ament_python' and name 'pub'
+[0.416s] Level 1:colcon.colcon_core.package_identification:_identify(src/sub) by extensions ['ignore', 'ignore_ament_install']
+[0.416s] Level 1:colcon.colcon_core.package_identification:_identify(src/sub) by extension 'ignore'
+[0.416s] Level 1:colcon.colcon_core.package_identification:_identify(src/sub) by extension 'ignore_ament_install'
+[0.416s] Level 1:colcon.colcon_core.package_identification:_identify(src/sub) by extensions ['colcon_pkg']
+[0.416s] Level 1:colcon.colcon_core.package_identification:_identify(src/sub) by extension 'colcon_pkg'
+[0.416s] Level 1:colcon.colcon_core.package_identification:_identify(src/sub) by extensions ['colcon_meta']
+[0.416s] Level 1:colcon.colcon_core.package_identification:_identify(src/sub) by extension 'colcon_meta'
+[0.416s] Level 1:colcon.colcon_core.package_identification:_identify(src/sub) by extensions ['ros']
+[0.416s] Level 1:colcon.colcon_core.package_identification:_identify(src/sub) by extension 'ros'
+[0.417s] DEBUG:colcon.colcon_core.package_identification:Package 'src/sub' with type 'ros.ament_cmake' and name 'sub'
+[0.417s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) using defaults
+[0.417s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) discover
+[0.417s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) using defaults
+[0.417s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) discover
+[0.417s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) using defaults
+[0.434s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) check parameters
+[0.434s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) discover
+[0.436s] DEBUG:colcon.colcon_installed_package_information.package_discovery:Found 2 installed packages in /home/robot/Xmate3/xmate_control/install
+[0.438s] DEBUG:colcon.colcon_installed_package_information.package_discovery:Found 256 installed packages in /opt/ros/foxy
+[0.439s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) using defaults
+[0.517s] Level 5:colcon.colcon_core.verb:set package 'pub' build argument 'cmake_args' from command line to '['-DPYTHON_EXECUTABLE=/usr/bin/python3']'
+[0.517s] Level 5:colcon.colcon_core.verb:set package 'pub' build argument 'cmake_target' from command line to 'None'
+[0.517s] Level 5:colcon.colcon_core.verb:set package 'pub' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[0.517s] Level 5:colcon.colcon_core.verb:set package 'pub' build argument 'cmake_clean_cache' from command line to 'False'
+[0.517s] Level 5:colcon.colcon_core.verb:set package 'pub' build argument 'cmake_clean_first' from command line to 'False'
+[0.517s] Level 5:colcon.colcon_core.verb:set package 'pub' build argument 'cmake_force_configure' from command line to 'False'
+[0.517s] Level 5:colcon.colcon_core.verb:set package 'pub' build argument 'ament_cmake_args' from command line to 'None'
+[0.517s] Level 5:colcon.colcon_core.verb:set package 'pub' build argument 'catkin_cmake_args' from command line to 'None'
+[0.517s] Level 5:colcon.colcon_core.verb:set package 'pub' build argument 'catkin_skip_building_tests' from command line to 'False'
+[0.518s] DEBUG:colcon.colcon_core.verb:Building package 'pub' with the following arguments: {'ament_cmake_args': None, 'build_base': '/home/robot/Xmate3/xmate_control/build/pub', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': ['-DPYTHON_EXECUTABLE=/usr/bin/python3'], 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/home/robot/Xmate3/xmate_control/install/pub', 'merge_install': False, 'path': '/home/robot/Xmate3/xmate_control/src/pub', 'symlink_install': False, 'test_result_base': None}
+[0.518s] Level 5:colcon.colcon_core.verb:set package 'sub' build argument 'cmake_args' from command line to '['-DPYTHON_EXECUTABLE=/usr/bin/python3']'
+[0.518s] Level 5:colcon.colcon_core.verb:set package 'sub' build argument 'cmake_target' from command line to 'None'
+[0.518s] Level 5:colcon.colcon_core.verb:set package 'sub' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[0.518s] Level 5:colcon.colcon_core.verb:set package 'sub' build argument 'cmake_clean_cache' from command line to 'False'
+[0.518s] Level 5:colcon.colcon_core.verb:set package 'sub' build argument 'cmake_clean_first' from command line to 'False'
+[0.518s] Level 5:colcon.colcon_core.verb:set package 'sub' build argument 'cmake_force_configure' from command line to 'False'
+[0.519s] Level 5:colcon.colcon_core.verb:set package 'sub' build argument 'ament_cmake_args' from command line to 'None'
+[0.519s] Level 5:colcon.colcon_core.verb:set package 'sub' build argument 'catkin_cmake_args' from command line to 'None'
+[0.519s] Level 5:colcon.colcon_core.verb:set package 'sub' build argument 'catkin_skip_building_tests' from command line to 'False'
+[0.519s] DEBUG:colcon.colcon_core.verb:Building package 'sub' with the following arguments: {'ament_cmake_args': None, 'build_base': '/home/robot/Xmate3/xmate_control/build/sub', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': ['-DPYTHON_EXECUTABLE=/usr/bin/python3'], 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/home/robot/Xmate3/xmate_control/install/sub', 'merge_install': False, 'path': '/home/robot/Xmate3/xmate_control/src/sub', 'symlink_install': False, 'test_result_base': None}
+[0.519s] INFO:colcon.colcon_core.executor:Executing jobs using 'parallel' executor
+[0.520s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete
+[0.520s] INFO:colcon.colcon_ros.task.ament_python.build:Building ROS package in '/home/robot/Xmate3/xmate_control/src/pub' with build type 'ament_python'
+[0.521s] Level 1:colcon.colcon_core.shell:create_environment_hook('pub', 'ament_prefix_path')
+[0.523s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_core.shell.bat': Not used on non-Windows systems
+[0.523s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/robot/Xmate3/xmate_control/install/pub/share/pub/hook/ament_prefix_path.ps1'
+[0.523s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/robot/Xmate3/xmate_control/install/pub/share/pub/hook/ament_prefix_path.dsv'
+[0.524s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/robot/Xmate3/xmate_control/install/pub/share/pub/hook/ament_prefix_path.sh'
+[0.525s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[0.525s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[0.530s] INFO:colcon.colcon_ros.task.ament_cmake.build:Building ROS package in '/home/robot/Xmate3/xmate_control/src/sub' with build type 'ament_cmake'
+[0.530s] INFO:colcon.colcon_cmake.task.cmake.build:Building CMake package in '/home/robot/Xmate3/xmate_control/src/sub'
+[0.530s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[0.531s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[0.785s] INFO:colcon.colcon_core.task.python.build:Building Python package in '/home/robot/Xmate3/xmate_control/src/pub'
+[0.785s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[0.785s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[0.797s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/robot/Xmate3/xmate_control/build/sub': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/Xmate3/xmate_control/install/pub:/opt/ros/foxy /usr/bin/cmake --build /home/robot/Xmate3/xmate_control/build/sub -- -j12 -l12
+[0.907s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/robot/Xmate3/xmate_control/build/sub' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/Xmate3/xmate_control/install/pub:/opt/ros/foxy /usr/bin/cmake --build /home/robot/Xmate3/xmate_control/build/sub -- -j12 -l12
+[0.949s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/robot/Xmate3/xmate_control/build/sub': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/Xmate3/xmate_control/install/pub:/opt/ros/foxy /usr/bin/cmake --install /home/robot/Xmate3/xmate_control/build/sub
+[0.962s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(sub)
+[0.963s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/robot/Xmate3/xmate_control/build/sub' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/Xmate3/xmate_control/install/pub:/opt/ros/foxy /usr/bin/cmake --install /home/robot/Xmate3/xmate_control/build/sub
+[0.967s] Level 1:colcon.colcon_core.environment:checking '/home/robot/Xmate3/xmate_control/install/sub' for CMake module files
+[0.968s] Level 1:colcon.colcon_core.environment:checking '/home/robot/Xmate3/xmate_control/install/sub' for CMake config files
+[0.969s] Level 1:colcon.colcon_core.shell:create_environment_hook('sub', 'cmake_prefix_path')
+[0.969s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/robot/Xmate3/xmate_control/install/sub/share/sub/hook/cmake_prefix_path.ps1'
+[0.970s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/robot/Xmate3/xmate_control/install/sub/share/sub/hook/cmake_prefix_path.dsv'
+[0.971s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/robot/Xmate3/xmate_control/install/sub/share/sub/hook/cmake_prefix_path.sh'
+[0.972s] Level 1:colcon.colcon_core.environment:checking '/home/robot/Xmate3/xmate_control/install/sub/lib'
+[0.972s] Level 1:colcon.colcon_core.environment:checking '/home/robot/Xmate3/xmate_control/install/sub/bin'
+[0.972s] Level 1:colcon.colcon_core.environment:checking '/home/robot/Xmate3/xmate_control/install/sub/lib/pkgconfig/sub.pc'
+[0.972s] Level 1:colcon.colcon_core.environment:checking '/home/robot/Xmate3/xmate_control/install/sub/lib/python3.8/site-packages'
+[0.973s] Level 1:colcon.colcon_core.environment:checking '/home/robot/Xmate3/xmate_control/install/sub/bin'
+[0.973s] INFO:colcon.colcon_core.shell:Creating package script '/home/robot/Xmate3/xmate_control/install/sub/share/sub/package.ps1'
+[0.975s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/robot/Xmate3/xmate_control/install/sub/share/sub/package.dsv'
+[0.976s] INFO:colcon.colcon_core.shell:Creating package script '/home/robot/Xmate3/xmate_control/install/sub/share/sub/package.sh'
+[0.977s] INFO:colcon.colcon_core.shell:Creating package script '/home/robot/Xmate3/xmate_control/install/sub/share/sub/package.bash'
+[0.978s] INFO:colcon.colcon_core.shell:Creating package script '/home/robot/Xmate3/xmate_control/install/sub/share/sub/package.zsh'
+[0.979s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/robot/Xmate3/xmate_control/install/sub/share/colcon-core/packages/sub)
+[1.005s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(sub)
+[1.005s] Level 1:colcon.colcon_core.environment:checking '/home/robot/Xmate3/xmate_control/install/sub' for CMake module files
+[1.006s] Level 1:colcon.colcon_core.environment:checking '/home/robot/Xmate3/xmate_control/install/sub' for CMake config files
+[1.007s] Level 1:colcon.colcon_core.shell:create_environment_hook('sub', 'cmake_prefix_path')
+[1.007s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/robot/Xmate3/xmate_control/install/sub/share/sub/hook/cmake_prefix_path.ps1'
+[1.008s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/robot/Xmate3/xmate_control/install/sub/share/sub/hook/cmake_prefix_path.dsv'
+[1.008s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/robot/Xmate3/xmate_control/install/sub/share/sub/hook/cmake_prefix_path.sh'
+[1.009s] Level 1:colcon.colcon_core.environment:checking '/home/robot/Xmate3/xmate_control/install/sub/lib'
+[1.009s] Level 1:colcon.colcon_core.environment:checking '/home/robot/Xmate3/xmate_control/install/sub/bin'
+[1.009s] Level 1:colcon.colcon_core.environment:checking '/home/robot/Xmate3/xmate_control/install/sub/lib/pkgconfig/sub.pc'
+[1.010s] Level 1:colcon.colcon_core.environment:checking '/home/robot/Xmate3/xmate_control/install/sub/lib/python3.8/site-packages'
+[1.010s] Level 1:colcon.colcon_core.environment:checking '/home/robot/Xmate3/xmate_control/install/sub/bin'
+[1.011s] INFO:colcon.colcon_core.shell:Creating package script '/home/robot/Xmate3/xmate_control/install/sub/share/sub/package.ps1'
+[1.012s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/robot/Xmate3/xmate_control/install/sub/share/sub/package.dsv'
+[1.012s] INFO:colcon.colcon_core.shell:Creating package script '/home/robot/Xmate3/xmate_control/install/sub/share/sub/package.sh'
+[1.013s] INFO:colcon.colcon_core.shell:Creating package script '/home/robot/Xmate3/xmate_control/install/sub/share/sub/package.bash'
+[1.014s] INFO:colcon.colcon_core.shell:Creating package script '/home/robot/Xmate3/xmate_control/install/sub/share/sub/package.zsh'
+[1.014s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/robot/Xmate3/xmate_control/install/sub/share/colcon-core/packages/sub)
+[1.300s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/robot/Xmate3/xmate_control/src/pub': PYTHONPATH=/home/robot/Xmate3/xmate_control/build/pub/prefix_override:/home/robot/Xmate3/xmate_control/install/pub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/pub build --build-base /home/robot/Xmate3/xmate_control/build/pub/build install --record /home/robot/Xmate3/xmate_control/build/pub/install.log --install-scripts $base/lib/pub --single-version-externally-managed install_data
+[1.678s] Level 1:colcon.colcon_core.environment:checking '/home/robot/Xmate3/xmate_control/install/pub' for CMake module files
+[1.679s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/robot/Xmate3/xmate_control/src/pub' returned '0': PYTHONPATH=/home/robot/Xmate3/xmate_control/build/pub/prefix_override:/home/robot/Xmate3/xmate_control/install/pub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/pub build --build-base /home/robot/Xmate3/xmate_control/build/pub/build install --record /home/robot/Xmate3/xmate_control/build/pub/install.log --install-scripts $base/lib/pub --single-version-externally-managed install_data
+[1.679s] Level 1:colcon.colcon_core.environment:checking '/home/robot/Xmate3/xmate_control/install/pub' for CMake config files
+[1.680s] Level 1:colcon.colcon_core.environment:checking '/home/robot/Xmate3/xmate_control/install/pub/lib'
+[1.680s] Level 1:colcon.colcon_core.environment:checking '/home/robot/Xmate3/xmate_control/install/pub/bin'
+[1.680s] Level 1:colcon.colcon_core.environment:checking '/home/robot/Xmate3/xmate_control/install/pub/lib/pkgconfig/pub.pc'
+[1.680s] Level 1:colcon.colcon_core.environment:checking '/home/robot/Xmate3/xmate_control/install/pub/lib/python3.8/site-packages'
+[1.681s] Level 1:colcon.colcon_core.shell:create_environment_hook('pub', 'pythonpath')
+[1.681s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/robot/Xmate3/xmate_control/install/pub/share/pub/hook/pythonpath.ps1'
+[1.681s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/robot/Xmate3/xmate_control/install/pub/share/pub/hook/pythonpath.dsv'
+[1.682s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/robot/Xmate3/xmate_control/install/pub/share/pub/hook/pythonpath.sh'
+[1.682s] Level 1:colcon.colcon_core.environment:checking '/home/robot/Xmate3/xmate_control/install/pub/bin'
+[1.682s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(pub)
+[1.683s] INFO:colcon.colcon_core.shell:Creating package script '/home/robot/Xmate3/xmate_control/install/pub/share/pub/package.ps1'
+[1.683s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/robot/Xmate3/xmate_control/install/pub/share/pub/package.dsv'
+[1.684s] INFO:colcon.colcon_core.shell:Creating package script '/home/robot/Xmate3/xmate_control/install/pub/share/pub/package.sh'
+[1.685s] INFO:colcon.colcon_core.shell:Creating package script '/home/robot/Xmate3/xmate_control/install/pub/share/pub/package.bash'
+[1.686s] INFO:colcon.colcon_core.shell:Creating package script '/home/robot/Xmate3/xmate_control/install/pub/share/pub/package.zsh'
+[1.686s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/robot/Xmate3/xmate_control/install/pub/share/colcon-core/packages/pub)
+[1.687s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:closing loop
+[1.688s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:loop closed
+[1.688s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete finished with '0'
+[1.688s] DEBUG:colcon.colcon_core.event_reactor:joining thread
+[1.694s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.terminal_notifier': Not used on non-Darwin systems
+[1.694s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.win32': Not used on non-Windows systems
+[1.694s] INFO:colcon.colcon_notification.desktop_notification:Sending desktop notification using 'notify2'
+[1.715s] DEBUG:colcon.colcon_core.event_reactor:joined thread
+[1.715s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/robot/Xmate3/xmate_control/install/local_setup.ps1'
+[1.716s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/robot/Xmate3/xmate_control/install/_local_setup_util_ps1.py'
+[1.717s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/robot/Xmate3/xmate_control/install/setup.ps1'
+[1.718s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/robot/Xmate3/xmate_control/install/local_setup.sh'
+[1.719s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/robot/Xmate3/xmate_control/install/_local_setup_util_sh.py'
+[1.720s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/robot/Xmate3/xmate_control/install/setup.sh'
+[1.722s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/robot/Xmate3/xmate_control/install/local_setup.bash'
+[1.723s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/robot/Xmate3/xmate_control/install/setup.bash'
+[1.724s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/robot/Xmate3/xmate_control/install/local_setup.zsh'
+[1.725s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/robot/Xmate3/xmate_control/install/setup.zsh'

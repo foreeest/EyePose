@@ -1,0 +1,2 @@
+Invoking command in '/home/robot/Xmate3/xmate_control/build/sub': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/Xmate3/xmate_control/install/pub:/opt/ros/foxy /usr/bin/cmake --build /home/robot/Xmate3/xmate_control/build/sub -- -j12 -l12
+Invoked command in '/home/robot/Xmate3/xmate_control/build/sub' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/Xmate3/xmate_control/install/pub:/opt/ros/foxy /usr/bin/cmake --build /home/robot/Xmate3/xmate_control/build/sub -- -j12 -l12

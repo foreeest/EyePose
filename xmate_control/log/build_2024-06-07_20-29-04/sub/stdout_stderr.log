@@ -1,0 +1,30 @@
+[35m[1mScanning dependencies of target control_sub[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/control_sub.dir/src/control_sub.cpp.o[0m
+In file included from [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:14[m[K:
+[01m[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:[m[K In constructor ‘[01m[KIK_solution::IK_solution(const Eigen::Matrix<double, 7, 4>&, const std::vector<double, std::allocator<double> >&, const std::vector<double, std::allocator<double> >&, const Matrix4d&, const Matrix4d&, double)[m[K’:
+[01m[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:30:44:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Klower_bond[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   30 |                 [01;35m[Kconst std::vector<double>& lower_bond[m[K,
+      |                 [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~[m[K
+[01m[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:31:44:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kupper_bond[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   31 |                 [01;35m[Kconst std::vector<double>& upper_bond[m[K,
+      |                 [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~[m[K
+[100%] [32m[1mLinking CXX executable control_sub[0m
+[100%] Built target control_sub
+-- Install configuration: ""
+-- Installing: /home/robot/Xmate3/xmate_control/install/sub/lib/sub/control_sub
+-- Set runtime path of "/home/robot/Xmate3/xmate_control/install/sub/lib/sub/control_sub" to ""
+-- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/ament_index/resource_index/package_run_dependencies/sub
+-- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/ament_index/resource_index/parent_prefix_path/sub
+-- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/sub/environment/ament_prefix_path.sh
+-- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/sub/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/sub/environment/path.sh
+-- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/sub/environment/path.dsv
+-- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/sub/local_setup.bash
+-- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/sub/local_setup.sh
+-- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/sub/local_setup.zsh
+-- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/sub/local_setup.dsv
+-- Installing: /home/robot/Xmate3/xmate_control/install/sub/share/sub/package.dsv
+-- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/ament_index/resource_index/packages/sub
+-- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/sub/cmake/subConfig.cmake
+-- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/sub/cmake/subConfig-version.cmake
+-- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/sub/package.xml

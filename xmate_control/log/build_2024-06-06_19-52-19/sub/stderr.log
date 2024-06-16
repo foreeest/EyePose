@@ -1,0 +1,15 @@
+In file included from [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:14[m[K:
+[01m[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:[m[K In constructor ‘[01m[KIK_solution::IK_solution(const Eigen::Matrix<double, 7, 4>&, const std::vector<double, std::allocator<double> >&, const std::vector<double, std::allocator<double> >&, const Matrix4d&, const Matrix4d&, double)[m[K’:
+[01m[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:30:44:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Klower_bond[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   30 |                 [01;35m[Kconst std::vector<double>& lower_bond[m[K,
+      |                 [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~[m[K
+[01m[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:31:44:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kupper_bond[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   31 |                 [01;35m[Kconst std::vector<double>& upper_bond[m[K,
+      |                 [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~[m[K
+[01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:147:9:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kcount[m[K’ [[01;35m[K-Wunused-variable[m[K]
+  147 |     int [01;35m[Kcount[m[K = 0;
+      |         [01;35m[K^~~~~[m[K
+[01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:148:9:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[KM[m[K’ [[01;35m[K-Wunused-variable[m[K]
+  148 |     int [01;35m[KM[m[K = 50; //50ms取一个控制值
+      |         [01;35m[K^[m[K

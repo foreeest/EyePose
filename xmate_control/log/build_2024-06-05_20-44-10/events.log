@@ -1,0 +1,342 @@
+[0.000000] (-) TimerEvent: {}
+[0.001003] (pub) JobQueued: {'identifier': 'pub', 'dependencies': OrderedDict()}
+[0.001086] (sub) JobQueued: {'identifier': 'sub', 'dependencies': OrderedDict()}
+[0.001131] (pub) JobStarted: {'identifier': 'pub'}
+[0.009170] (sub) JobStarted: {'identifier': 'sub'}
+[0.100135] (-) TimerEvent: {}
+[0.200516] (-) TimerEvent: {}
+[0.298585] (sub) JobProgress: {'identifier': 'sub', 'progress': 'cmake'}
+[0.300345] (sub) JobProgress: {'identifier': 'sub', 'progress': 'build'}
+[0.300398] (sub) Command: {'cmd': ['/usr/bin/cmake', '--build', '/home/robot/Xmate3/xmate_control/build/sub', '--', '-j12', '-l12'], 'cwd': '/home/robot/Xmate3/xmate_control/build/sub', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('HTTPS_PROXY', 'http://127.0.0.1:7897/'), ('no_proxy', 'localhost,127.0.0.1,192.168.0.0/16,10.0.0.0/8,172.16.0.0/12,::1'), ('USER', 'robot'), ('LC_TIME', 'zh_CN.UTF-8'), ('all_proxy', 'socks://127.0.0.1:7897/'), ('SSH_AGENT_PID', '1556'), ('XDG_SESSION_TYPE', 'x11'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib'), ('HOME', '/home/robot'), ('CONDA_SHLVL', '0'), ('DESKTOP_SESSION', 'ubuntu'), ('NO_PROXY', 'localhost,127.0.0.1,192.168.0.0/16,10.0.0.0/8,172.16.0.0/12,::1'), ('ROS_PYTHON_VERSION', '3'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('GTK_MODULES', 'gail:atk-bridge'), ('LC_MONETARY', 'zh_CN.UTF-8'), ('MANAGERPID', '1469'), ('DBUS_STARTER_BUS_TYPE', 'session'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus,guid=aee3444e1c8ed0bdc043f311665d7987'), ('COLORTERM', 'truecolor'), ('_CE_M', ''), ('IM_CONFIG_PHASE', '1'), ('https_proxy', 'http://127.0.0.1:7897/'), ('ROS_DISTRO', 'foxy'), ('LOGNAME', 'robot'), ('ALL_PROXY', 'socks://127.0.0.1:7897/'), ('http_proxy', 'http://127.0.0.1:7897/'), ('JOURNAL_STREAM', '8:44302'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('USERNAME', 'robot'), ('TERM', 'xterm-256color'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('_CE_CONDA', ''), ('ROS_LOCALHOST_ONLY', '0'), ('WINDOWPATH', '2'), ('PATH', '/opt/ros/foxy/bin:/home/robot/miniconda3/condabin:/home/robot/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/robot/opt/pycharm/bin'), ('SESSION_MANAGER', 'local/robot-desktop:@/tmp/.ICE-unix/1585,unix/robot-desktop:/tmp/.ICE-unix/1585'), ('INVOCATION_ID', 'ac39046ab3fb4691a3adce292f3eb08b'), ('XDG_MENU_PREFIX', 'gnome-'), ('LC_ADDRESS', 'zh_CN.UTF-8'), ('GNOME_TERMINAL_SCREEN', '/org/gnome/Terminal/screen/71845630_6718_4224_b6e4_64c6a1b6be48'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('DISPLAY', ':1'), ('LANG', 'en_US.UTF-8'), ('XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('LC_TELEPHONE', 'zh_CN.UTF-8'), ('XMODIFIERS', '@im=ibus'), ('XDG_SESSION_DESKTOP', 'ubuntu'), ('XAUTHORITY', '/run/user/1000/gdm/Xauthority'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('GNOME_TERMINAL_SERVICE', ':1.80'), ('SSH_AUTH_SOCK', '/run/user/1000/keyring/ssh'), ('AMENT_PREFIX_PATH', '/opt/ros/foxy'), ('CONDA_PYTHON_EXE', '/home/robot/miniconda3/bin/python'), ('SHELL', '/bin/bash'), ('LC_NAME', 'zh_CN.UTF-8'), ('QT_ACCESSIBILITY', '1'), ('GDMSESSION', 'ubuntu'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('LC_MEASUREMENT', 'zh_CN.UTF-8'), ('GPG_AGENT_INFO', '/run/user/1000/gnupg/S.gpg-agent:0:1'), ('LC_IDENTIFICATION', 'zh_CN.UTF-8'), ('QT_IM_MODULE', 'ibus'), ('PWD', '/home/robot/Xmate3/xmate_control/build/sub'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('CONDA_EXE', '/home/robot/miniconda3/bin/conda'), ('DBUS_STARTER_ADDRESS', 'unix:path=/run/user/1000/bus,guid=aee3444e1c8ed0bdc043f311665d7987'), ('XDG_DATA_DIRS', '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('PYTHONPATH', '/opt/ros/foxy/lib/python3.8/site-packages'), ('HTTP_PROXY', 'http://127.0.0.1:7897/'), ('LC_NUMERIC', 'zh_CN.UTF-8'), ('LC_PAPER', 'zh_CN.UTF-8'), ('COLCON', '1'), ('VTE_VERSION', '6003'), ('CMAKE_PREFIX_PATH', '/opt/ros/foxy')]), 'shell': False}
+[0.303776] (-) TimerEvent: {}
+[0.356335] (sub) StdoutLine: {'line': b'\x1b[35m\x1b[1mScanning dependencies of target control_sub\x1b[0m\n'}
+[0.403905] (-) TimerEvent: {}
+[0.419467] (sub) StdoutLine: {'line': b'[ 50%] \x1b[32mBuilding CXX object CMakeFiles/control_sub.dir/src/control_sub.cpp.o\x1b[0m\n'}
+[0.504050] (-) TimerEvent: {}
+[0.604316] (-) TimerEvent: {}
+[0.704591] (-) TimerEvent: {}
+[0.762040] (pub) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/pub', 'build', '--build-base', '/home/robot/Xmate3/xmate_control/build/pub/build', 'install', '--record', '/home/robot/Xmate3/xmate_control/build/pub/install.log', '--install-scripts', '$base/lib/pub', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/robot/Xmate3/xmate_control/src/pub', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'HTTPS_PROXY': 'http://127.0.0.1:7897/', 'no_proxy': 'localhost,127.0.0.1,192.168.0.0/16,10.0.0.0/8,172.16.0.0/12,::1', 'USER': 'robot', 'LC_TIME': 'zh_CN.UTF-8', 'all_proxy': 'socks://127.0.0.1:7897/', 'SSH_AGENT_PID': '1556', 'XDG_SESSION_TYPE': 'x11', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib', 'HOME': '/home/robot', 'CONDA_SHLVL': '0', 'DESKTOP_SESSION': 'ubuntu', 'NO_PROXY': 'localhost,127.0.0.1,192.168.0.0/16,10.0.0.0/8,172.16.0.0/12,::1', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'LC_MONETARY': 'zh_CN.UTF-8', 'MANAGERPID': '1469', 'DBUS_STARTER_BUS_TYPE': 'session', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus,guid=aee3444e1c8ed0bdc043f311665d7987', 'COLORTERM': 'truecolor', '_CE_M': '', 'IM_CONFIG_PHASE': '1', 'https_proxy': 'http://127.0.0.1:7897/', 'ROS_DISTRO': 'foxy', 'LOGNAME': 'robot', 'ALL_PROXY': 'socks://127.0.0.1:7897/', 'http_proxy': 'http://127.0.0.1:7897/', 'JOURNAL_STREAM': '8:44302', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'robot', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', '_CE_CONDA': '', 'ROS_LOCALHOST_ONLY': '0', 'WINDOWPATH': '2', 'PATH': '/opt/ros/foxy/bin:/home/robot/miniconda3/condabin:/home/robot/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/robot/opt/pycharm/bin', 'SESSION_MANAGER': 'local/robot-desktop:@/tmp/.ICE-unix/1585,unix/robot-desktop:/tmp/.ICE-unix/1585', 'INVOCATION_ID': 'ac39046ab3fb4691a3adce292f3eb08b', 'XDG_MENU_PREFIX': 'gnome-', 'LC_ADDRESS': 'zh_CN.UTF-8', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/71845630_6718_4224_b6e4_64c6a1b6be48', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':1', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'LC_TELEPHONE': 'zh_CN.UTF-8', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/gdm/Xauthority', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'GNOME_TERMINAL_SERVICE': ':1.80', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'AMENT_PREFIX_PATH': '/opt/ros/foxy', 'CONDA_PYTHON_EXE': '/home/robot/miniconda3/bin/python', 'SHELL': '/bin/bash', 'LC_NAME': 'zh_CN.UTF-8', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'LC_MEASUREMENT': 'zh_CN.UTF-8', 'GPG_AGENT_INFO': '/run/user/1000/gnupg/S.gpg-agent:0:1', 'LC_IDENTIFICATION': 'zh_CN.UTF-8', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/robot/Xmate3/xmate_control/build/pub', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'CONDA_EXE': '/home/robot/miniconda3/bin/conda', 'DBUS_STARTER_ADDRESS': 'unix:path=/run/user/1000/bus,guid=aee3444e1c8ed0bdc043f311665d7987', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/robot/Xmate3/xmate_control/build/pub/prefix_override:/home/robot/Xmate3/xmate_control/install/pub/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages', 'HTTP_PROXY': 'http://127.0.0.1:7897/', 'LC_NUMERIC': 'zh_CN.UTF-8', 'LC_PAPER': 'zh_CN.UTF-8', 'COLCON': '1', 'VTE_VERSION': '6003'}, 'shell': False}
+[0.804743] (-) TimerEvent: {}
+[0.905052] (-) TimerEvent: {}
+[0.996657] (pub) StdoutLine: {'line': b'running egg_info\n'}
+[0.997175] (pub) StdoutLine: {'line': b'writing ../../build/pub/pub.egg-info/PKG-INFO\n'}
+[0.997402] (pub) StdoutLine: {'line': b'writing dependency_links to ../../build/pub/pub.egg-info/dependency_links.txt\n'}
+[0.997582] (pub) StdoutLine: {'line': b'writing entry points to ../../build/pub/pub.egg-info/entry_points.txt\n'}
+[0.997816] (pub) StdoutLine: {'line': b'writing requirements to ../../build/pub/pub.egg-info/requires.txt\n'}
+[0.997910] (pub) StdoutLine: {'line': b'writing top-level names to ../../build/pub/pub.egg-info/top_level.txt\n'}
+[1.005145] (-) TimerEvent: {}
+[1.036385] (pub) StdoutLine: {'line': b"reading manifest file '../../build/pub/pub.egg-info/SOURCES.txt'\n"}
+[1.037213] (pub) StdoutLine: {'line': b"writing manifest file '../../build/pub/pub.egg-info/SOURCES.txt'\n"}
+[1.037362] (pub) StdoutLine: {'line': b'running build\n'}
+[1.037449] (pub) StdoutLine: {'line': b'running build_py\n'}
+[1.037626] (pub) StdoutLine: {'line': b'running install\n'}
+[1.038389] (pub) StdoutLine: {'line': b'running install_lib\n'}
+[1.039783] (pub) StdoutLine: {'line': b'running install_data\n'}
+[1.039929] (pub) StdoutLine: {'line': b'running install_egg_info\n'}
+[1.041493] (pub) StdoutLine: {'line': b"removing '/home/robot/Xmate3/xmate_control/install/pub/lib/python3.8/site-packages/pub-0.0.0-py3.8.egg-info' (and everything under it)\n"}
+[1.041775] (pub) StdoutLine: {'line': b'Copying ../../build/pub/pub.egg-info to /home/robot/Xmate3/xmate_control/install/pub/lib/python3.8/site-packages/pub-0.0.0-py3.8.egg-info\n'}
+[1.042618] (pub) StdoutLine: {'line': b'running install_scripts\n'}
+[1.060568] (pub) StdoutLine: {'line': b'Installing control_pub script to /home/robot/Xmate3/xmate_control/install/pub/lib/pub\n'}
+[1.060916] (pub) StdoutLine: {'line': b"writing list of installed files to '/home/robot/Xmate3/xmate_control/build/pub/install.log'\n"}
+[1.079819] (pub) CommandEnded: {'returncode': 0}
+[1.090578] (pub) JobEnded: {'identifier': 'pub', 'rc': 0}
+[1.105305] (-) TimerEvent: {}
+[1.205709] (-) TimerEvent: {}
+[1.306037] (-) TimerEvent: {}
+[1.406364] (-) TimerEvent: {}
+[1.506688] (-) TimerEvent: {}
+[1.607010] (-) TimerEvent: {}
+[1.707337] (-) TimerEvent: {}
+[1.807622] (-) TimerEvent: {}
+[1.907952] (-) TimerEvent: {}
+[2.008270] (-) TimerEvent: {}
+[2.108591] (-) TimerEvent: {}
+[2.208912] (-) TimerEvent: {}
+[2.309232] (-) TimerEvent: {}
+[2.409548] (-) TimerEvent: {}
+[2.509870] (-) TimerEvent: {}
+[2.610192] (-) TimerEvent: {}
+[2.710482] (-) TimerEvent: {}
+[2.810802] (-) TimerEvent: {}
+[2.881069] (sub) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:14\x1b[m\x1b[K:\n'}
+[2.881261] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:\x1b[m\x1b[K In constructor \xe2\x80\x98\x1b[01m\x1b[KIK_solution::IK_solution(const Eigen::Matrix<double, 7, 4>&, const std::vector<double, std::allocator<double> >&, const std::vector<double, std::allocator<double> >&, const Matrix4d&, const Matrix4d&, double)\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[2.881354] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:30:44:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kunused parameter \xe2\x80\x98\x1b[01m\x1b[Klower_bond\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wunused-parameter\x1b[m\x1b[K]\n'}
+[2.881434] (sub) StderrLine: {'line': b'   30 |                 \x1b[01;35m\x1b[Kconst std::vector<double>& lower_bond\x1b[m\x1b[K,\n'}
+[2.881508] (sub) StderrLine: {'line': b'      |                 \x1b[01;35m\x1b[K~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~\x1b[m\x1b[K\n'}
+[2.881581] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:31:44:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kunused parameter \xe2\x80\x98\x1b[01m\x1b[Kupper_bond\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wunused-parameter\x1b[m\x1b[K]\n'}
+[2.881655] (sub) StderrLine: {'line': b'   31 |                 \x1b[01;35m\x1b[Kconst std::vector<double>& upper_bond\x1b[m\x1b[K,\n'}
+[2.881725] (sub) StderrLine: {'line': b'      |                 \x1b[01;35m\x1b[K~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~\x1b[m\x1b[K\n'}
+[2.910956] (-) TimerEvent: {}
+[3.011253] (-) TimerEvent: {}
+[3.111572] (-) TimerEvent: {}
+[3.211903] (-) TimerEvent: {}
+[3.312240] (-) TimerEvent: {}
+[3.378768] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:\x1b[m\x1b[K In function \xe2\x80\x98\x1b[01m\x1b[Kint main(int, char**)\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[3.378941] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:136:68:\x1b[m\x1b[K \x1b[01;31m\x1b[Kerror: \x1b[m\x1b[Kconversion from \xe2\x80\x98\x1b[01m\x1b[Kvector<array<[...],\x1b[01;32m\x1b[K6\x1b[m\x1b[K>>\x1b[m\x1b[K\xe2\x80\x99 to non-scalar type \xe2\x80\x98\x1b[01m\x1b[Kvector<array<[...],\x1b[01;32m\x1b[K7\x1b[m\x1b[K>>\x1b[m\x1b[K\xe2\x80\x99 requested\n'}
+[3.379041] (sub) StderrLine: {'line': b'  136 | d::vector<std::array<double,7>>result_mat = \x1b[01;31m\x1b[Kinterpolator.Step(joint_pos)\x1b[m\x1b[K;//\xe5\x88\x9b\xe5\xbb\xba\xe5\x88\x9d\xe5\xa7\x8b\xe6\x8f\x92\xe5\x80\xbc\n'}
+[3.379159] (sub) StderrLine: {'line': b'      |                                             \x1b[01;31m\x1b[K~~~~~~~~~~~~~~~~~^~~~~~~~~~~\x1b[m\x1b[K\n'}
+[3.379235] (sub) StderrLine: {'line': b'\n'}
+[3.379592] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:\x1b[m\x1b[K In lambda function:\n'}
+[3.379810] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:173:24:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Ksuggest parentheses around assignment used as truth value [\x1b[01;35m\x1b[K-Wparentheses\x1b[m\x1b[K]\n'}
+[3.379902] (sub) StderrLine: {'line': b'  173 |             for(int i;\x1b[01;35m\x1b[Ki=0\x1b[m\x1b[K;++i){\n'}
+[3.379979] (sub) StderrLine: {'line': b'      |                       \x1b[01;35m\x1b[K~^~\x1b[m\x1b[K\n'}
+[3.380052] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:176:30:\x1b[m\x1b[K \x1b[01;31m\x1b[Kerror: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[Kclass IK_solution\x1b[m\x1b[K\xe2\x80\x99 has no member named \xe2\x80\x98\x1b[01m\x1b[Kget_postion\x1b[m\x1b[K\xe2\x80\x99; did you mean \xe2\x80\x98\x1b[01m\x1b[Kget_position\x1b[m\x1b[K\xe2\x80\x99?\n'}
+[3.380128] (sub) StderrLine: {'line': b'  176 |             current_pos = IK.\x1b[01;31m\x1b[Kget_postion\x1b[m\x1b[K(joints_angle);\n'}
+[3.380199] (sub) StderrLine: {'line': b'      |                              \x1b[01;31m\x1b[K^~~~~~~~~~~\x1b[m\x1b[K\n'}
+[3.380268] (sub) StderrLine: {'line': b'      |                              \x1b[32m\x1b[Kget_position\x1b[m\x1b[K\n'}
+[3.382754] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:187:59:\x1b[m\x1b[K \x1b[01;31m\x1b[Kerror: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[Ktarget_euler\x1b[m\x1b[K\xe2\x80\x99 was not declared in this scope; did you mean \xe2\x80\x98\x1b[01m\x1b[Ktarget_eular\x1b[m\x1b[K\xe2\x80\x99?\n'}
+[3.382873] (sub) StderrLine: {'line': b'  187 |             action = IK.IK_solver(joints_angle,target_pos,\x1b[01;31m\x1b[Ktarget_euler\x1b[m\x1b[K);//\xe7\xae\x97\xe5\x8f\x8d\xe5\x90\x91\xe8\xbf\x90\xe5\x8a\xa8\xe5\xad\xa6\n'}
+[3.382955] (sub) StderrLine: {'line': b'      |                                                           \x1b[01;31m\x1b[K^~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[3.383029] (sub) StderrLine: {'line': b'      |                                                           \x1b[32m\x1b[Ktarget_eular\x1b[m\x1b[K\n'}
+[3.385959] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:\x1b[m\x1b[K In function \xe2\x80\x98\x1b[01m\x1b[Kint main(int, char**)\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[3.386082] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:146:9:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kunused variable \xe2\x80\x98\x1b[01m\x1b[KM\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wunused-variable\x1b[m\x1b[K]\n'}
+[3.386166] (sub) StderrLine: {'line': b'  146 |     int \x1b[01;35m\x1b[KM\x1b[m\x1b[K = 50; //50ms\xe5\x8f\x96\xe4\xb8\x80\xe4\xb8\xaa\xe6\x8e\xa7\xe5\x88\xb6\xe5\x80\xbc\n'}
+[3.386252] (sub) StderrLine: {'line': b'      |         \x1b[01;35m\x1b[K^\x1b[m\x1b[K\n'}
+[3.386326] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:147:12:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kunused variable \xe2\x80\x98\x1b[01m\x1b[Kmax_tran\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wunused-variable\x1b[m\x1b[K]\n'}
+[3.386398] (sub) StderrLine: {'line': b'  147 |     double \x1b[01;35m\x1b[Kmax_tran\x1b[m\x1b[K = 0.01; //\xe6\x9c\x80\xe5\xa4\xa7\xe8\xb7\x9d\xe7\xa6\xbb\xe5\xb7\xae\xe5\x92\x8c\xe8\xa7\x92\xe5\xba\xa6\xe5\xb7\xae\xef\xbc\x8c\xe9\xab\x98\xe4\xba\x8e\xe8\xbf\x99\xe4\xb8\xaa\xe4\xb8\x8d\xe6\x8e\xa5\xe6\x94\xb6\xe6\x96\xb0\xe4\xbd\x8d\xe7\xbd\xae 0.01m=1cm\n'}
+[3.386475] (sub) StderrLine: {'line': b'      |            \x1b[01;35m\x1b[K^~~~~~~~\x1b[m\x1b[K\n'}
+[3.386544] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:148:12:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kunused variable \xe2\x80\x98\x1b[01m\x1b[Kmax_rota\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wunused-variable\x1b[m\x1b[K]\n'}
+[3.386623] (sub) StderrLine: {'line': b'  148 |     double \x1b[01;35m\x1b[Kmax_rota\x1b[m\x1b[K = M_PI/36; //\xe5\xa4\xa7\xe6\xa6\x825\xe5\xba\xa6\xef\xbc\x9f\n'}
+[3.386692] (sub) StderrLine: {'line': b'      |            \x1b[01;35m\x1b[K^~~~~~~~\x1b[m\x1b[K\n'}
+[3.412383] (-) TimerEvent: {}
+[3.512684] (-) TimerEvent: {}
+[3.558619] (sub) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Core:458\x1b[m\x1b[K,\n'}
+[3.558899] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Geometry:11\x1b[m\x1b[K,\n'}
+[3.559210] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:5\x1b[m\x1b[K,\n'}
+[3.571193] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:14\x1b[m\x1b[K:\n'}
+[3.571290] (sub) StderrLine: {'line': b'/usr/include/eigen3/Eigen/src/Core/Matrix.h: In instantiation of \xe2\x80\x98\x1b[01m\x1b[KEigen::Matrix<_Scalar, _Rows, _Cols, _Options, _MaxRows, _MaxCols>::Matrix(const T&) [with T = std::array<double, 7>; _Scalar = double; int _Rows = -1; int _Cols = 1; int _Options = 0; int _MaxRows = -1; int _MaxCols = 1]\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[3.571375] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:155:40:\x1b[m\x1b[K   required from here\n'}
+[3.571450] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/Matrix.h:294:31:\x1b[m\x1b[K \x1b[01;31m\x1b[Kerror: \x1b[m\x1b[Kno matching function for call to \xe2\x80\x98\x1b[01m\x1b[KEigen::Matrix<double, -1, 1>::_init1<std::array<double, 7> >(const std::array<double, 7>&)\x1b[m\x1b[K\xe2\x80\x99\n'}
+[3.571523] (sub) StderrLine: {'line': b'  294 |       \x1b[01;31m\x1b[KBase::template _init1<T>(x)\x1b[m\x1b[K;\n'}
+[3.571594] (sub) StderrLine: {'line': b'      |       \x1b[01;31m\x1b[K~~~~~~~~~~~~~~~~~~~~~~~~^~~\x1b[m\x1b[K\n'}
+[3.571665] (sub) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Core:457\x1b[m\x1b[K,\n'}
+[3.571735] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Geometry:11\x1b[m\x1b[K,\n'}
+[3.571805] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:5\x1b[m\x1b[K,\n'}
+[3.571874] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:14\x1b[m\x1b[K:\n'}
+[3.571943] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:772:30:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[Kcandidate: \xe2\x80\x98\x1b[01m\x1b[Kvoid Eigen::PlainObjectBase<Derived>::_init1(Eigen::Index, typename Eigen::internal::enable_if<(((typename Eigen::internal::dense_xpr_base<Derived>::type::SizeAtCompileTime != 1) || (! Eigen::internal::is_convertible<T, typename Eigen::internal::traits<T>::Scalar>::value)) && ((! Eigen::internal::is_same<typename Eigen::internal::traits<T>::XprKind, Eigen::ArrayXpr>::value) || (typename Eigen::internal::dense_xpr_base<Derived>::type::SizeAtCompileTime == Eigen::Dynamic))), T>::type*) [with T = std::array<double, 7>; Derived = Eigen::Matrix<double, -1, 1>; Eigen::Index = long int; typename Eigen::internal::enable_if<(((typename Eigen::internal::dense_xpr_base<Derived>::type::SizeAtCompileTime != 1) || (! Eigen::internal::is_convertible<T, typename Eigen::internal::traits<T>::Scalar>::value)) && ((! Eigen::internal::is_same<typename Eigen::internal::traits<T>::XprKind, Eigen::ArrayXpr>::value) || (typename Eigen::internal::dense_xpr_base<Derived>::type::SizeAtCompileTime == Eigen::Dynamic))), T>::type = std::array<double, 7>]\x1b[m\x1b[K\xe2\x80\x99\n'}
+[3.572033] (sub) StderrLine: {'line': b'  772 |     EIGEN_STRONG_INLINE void \x1b[01;36m\x1b[K_init1\x1b[m\x1b[K(Index size, typename internal::enable_if<    (Base::SizeAtCompileTime!=1 || !internal::is_convertible<T, Scalar>::value)\n'}
+[3.572103] (sub) StderrLine: {'line': b'      |                              \x1b[01;36m\x1b[K^~~~~~\x1b[m\x1b[K\n'}
+[3.572171] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:772:43:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[K  no known conversion for argument 1 from \xe2\x80\x98\x1b[01m\x1b[Kconst std::array<double, 7>\x1b[m\x1b[K\xe2\x80\x99 to \xe2\x80\x98\x1b[01m\x1b[KEigen::Index\x1b[m\x1b[K\xe2\x80\x99 {aka \xe2\x80\x98\x1b[01m\x1b[Klong int\x1b[m\x1b[K\xe2\x80\x99}\n'}
+[3.572243] (sub) StderrLine: {'line': b'  772 |     EIGEN_STRONG_INLINE void _init1(\x1b[01;36m\x1b[KIndex size\x1b[m\x1b[K, typename internal::enable_if<    (Base::SizeAtCompileTime!=1 || !internal::is_convertible<T, Scalar>::value)\n'}
+[3.572318] (sub) StderrLine: {'line': b'      |                                     \x1b[01;36m\x1b[K~~~~~~^~~~\x1b[m\x1b[K\n'}
+[3.572387] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:786:30:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[Kcandidate: \xe2\x80\x98\x1b[01m\x1b[Ktemplate<class T> void Eigen::PlainObjectBase<Derived>::_init1(const Scalar&, typename Eigen::internal::enable_if<((typename Eigen::internal::dense_xpr_base<Derived>::type::SizeAtCompileTime == 1) && Eigen::internal::is_convertible<T, typename Eigen::internal::traits<T>::Scalar>::value), T>::type*) [with T = T; Derived = Eigen::Matrix<double, -1, 1>]\x1b[m\x1b[K\xe2\x80\x99\n'}
+[3.572466] (sub) StderrLine: {'line': b'  786 |     EIGEN_STRONG_INLINE void \x1b[01;36m\x1b[K_init1\x1b[m\x1b[K(const Scalar& val0, typename internal::enable_if<Base::SizeAtCompileTime==1 && internal::is_convertible<T, Scalar>::value,T>::type* = 0)\n'}
+[3.572541] (sub) StderrLine: {'line': b'      |                              \x1b[01;36m\x1b[K^~~~~~\x1b[m\x1b[K\n'}
+[3.572608] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:786:30:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[K  template argument deduction/substitution failed:\n'}
+[3.572677] (sub) StderrLine: {'line': b'/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h: In substitution of \xe2\x80\x98\x1b[01m\x1b[Ktemplate<class T> void Eigen::PlainObjectBase<Eigen::Matrix<double, -1, 1> >::_init1<T>(const Scalar&, typename Eigen::internal::enable_if<((Eigen::MatrixBase<Eigen::Matrix<double, -1, 1> >::SizeAtCompileTime == 1) && Eigen::internal::is_convertible<T, double>::value), T>::type*) [with T = std::array<double, 7>]\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[3.572750] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/Matrix.h:294:31:\x1b[m\x1b[K   required from \xe2\x80\x98\x1b[01m\x1b[KEigen::Matrix<_Scalar, _Rows, _Cols, _Options, _MaxRows, _MaxCols>::Matrix(const T&) [with T = std::array<double, 7>; _Scalar = double; int _Rows = -1; int _Cols = 1; int _Options = 0; int _MaxRows = -1; int _MaxCols = 1]\x1b[m\x1b[K\xe2\x80\x99\n'}
+[3.572821] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:155:40:\x1b[m\x1b[K   required from here\n'}
+[3.572889] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:786:30:\x1b[m\x1b[K \x1b[01;31m\x1b[Kerror: \x1b[m\x1b[Kinvalid use of incomplete type \xe2\x80\x98\x1b[01m\x1b[Kstruct Eigen::internal::enable_if<false, std::array<double, 7> >\x1b[m\x1b[K\xe2\x80\x99\n'}
+[3.572959] (sub) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Core:364\x1b[m\x1b[K,\n'}
+[3.573027] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Geometry:11\x1b[m\x1b[K,\n'}
+[3.573104] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:5\x1b[m\x1b[K,\n'}
+[3.573172] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:14\x1b[m\x1b[K:\n'}
+[3.573240] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/util/Meta.h:184:50:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[Kdeclaration of \xe2\x80\x98\x1b[01m\x1b[Kstruct Eigen::internal::enable_if<false, std::array<double, 7> >\x1b[m\x1b[K\xe2\x80\x99\n'}
+[3.573309] (sub) StderrLine: {'line': b'  184 | template<bool Condition, typename T=void> struct \x1b[01;36m\x1b[Kenable_if\x1b[m\x1b[K;\n'}
+[3.573377] (sub) StderrLine: {'line': b'      |                                                  \x1b[01;36m\x1b[K^~~~~~~~~\x1b[m\x1b[K\n'}
+[3.573444] (sub) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Core:457\x1b[m\x1b[K,\n'}
+[3.573511] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Geometry:11\x1b[m\x1b[K,\n'}
+[3.573578] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:5\x1b[m\x1b[K,\n'}
+[3.573645] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:14\x1b[m\x1b[K:\n'}
+[3.573714] (sub) StderrLine: {'line': b'/usr/include/eigen3/Eigen/src/Core/Matrix.h: In instantiation of \xe2\x80\x98\x1b[01m\x1b[KEigen::Matrix<_Scalar, _Rows, _Cols, _Options, _MaxRows, _MaxCols>::Matrix(const T&) [with T = std::array<double, 7>; _Scalar = double; int _Rows = -1; int _Cols = 1; int _Options = 0; int _MaxRows = -1; int _MaxCols = 1]\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[3.573785] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:155:40:\x1b[m\x1b[K   required from here\n'}
+[3.573852] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:795:30:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[Kcandidate: \xe2\x80\x98\x1b[01m\x1b[Ktemplate<class T> void Eigen::PlainObjectBase<Derived>::_init1(const Index&, typename Eigen::internal::enable_if<((((! Eigen::internal::is_same<long int, typename Eigen::internal::traits<T>::Scalar>::value) && Eigen::internal::is_same<long int, T>::value) && (typename Eigen::internal::dense_xpr_base<Derived>::type::SizeAtCompileTime == 1)) && Eigen::internal::is_convertible<T, typename Eigen::internal::traits<T>::Scalar>::value), T*>::type*) [with T = T; Derived = Eigen::Matrix<double, -1, 1>]\x1b[m\x1b[K\xe2\x80\x99\n'}
+[3.573930] (sub) StderrLine: {'line': b'  795 |     EIGEN_STRONG_INLINE void \x1b[01;36m\x1b[K_init1\x1b[m\x1b[K(const Index& val0,\n'}
+[3.574000] (sub) StderrLine: {'line': b'      |                              \x1b[01;36m\x1b[K^~~~~~\x1b[m\x1b[K\n'}
+[3.574069] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:795:30:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[K  template argument deduction/substitution failed:\n'}
+[3.574139] (sub) StderrLine: {'line': b'/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h: In substitution of \xe2\x80\x98\x1b[01m\x1b[Ktemplate<class T> void Eigen::PlainObjectBase<Eigen::Matrix<double, -1, 1> >::_init1<T>(const Index&, typename Eigen::internal::enable_if<((((! Eigen::internal::is_same<long int, double>::value) && Eigen::internal::is_same<long int, T>::value) && (Eigen::MatrixBase<Eigen::Matrix<double, -1, 1> >::SizeAtCompileTime == 1)) && Eigen::internal::is_convertible<T, double>::value), T*>::type*) [with T = std::array<double, 7>]\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[3.574221] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/Matrix.h:294:31:\x1b[m\x1b[K   required from \xe2\x80\x98\x1b[01m\x1b[KEigen::Matrix<_Scalar, _Rows, _Cols, _Options, _MaxRows, _MaxCols>::Matrix(const T&) [with T = std::array<double, 7>; _Scalar = double; int _Rows = -1; int _Cols = 1; int _Options = 0; int _MaxRows = -1; int _MaxCols = 1]\x1b[m\x1b[K\xe2\x80\x99\n'}
+[3.574298] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:155:40:\x1b[m\x1b[K   required from here\n'}
+[3.574367] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:795:30:\x1b[m\x1b[K \x1b[01;31m\x1b[Kerror: \x1b[m\x1b[Kinvalid use of incomplete type \xe2\x80\x98\x1b[01m\x1b[Kstruct Eigen::internal::enable_if<false, std::array<double, 7>*>\x1b[m\x1b[K\xe2\x80\x99\n'}
+[3.574436] (sub) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Core:364\x1b[m\x1b[K,\n'}
+[3.574504] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Geometry:11\x1b[m\x1b[K,\n'}
+[3.574571] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:5\x1b[m\x1b[K,\n'}
+[3.574639] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:14\x1b[m\x1b[K:\n'}
+[3.574707] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/util/Meta.h:184:50:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[Kdeclaration of \xe2\x80\x98\x1b[01m\x1b[Kstruct Eigen::internal::enable_if<false, std::array<double, 7>*>\x1b[m\x1b[K\xe2\x80\x99\n'}
+[3.574776] (sub) StderrLine: {'line': b'  184 | template<bool Condition, typename T=void> struct \x1b[01;36m\x1b[Kenable_if\x1b[m\x1b[K;\n'}
+[3.574844] (sub) StderrLine: {'line': b'      |                                                  \x1b[01;36m\x1b[K^~~~~~~~~\x1b[m\x1b[K\n'}
+[3.574913] (sub) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Core:457\x1b[m\x1b[K,\n'}
+[3.574981] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Geometry:11\x1b[m\x1b[K,\n'}
+[3.575049] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:5\x1b[m\x1b[K,\n'}
+[3.575177] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:14\x1b[m\x1b[K:\n'}
+[3.575250] (sub) StderrLine: {'line': b'/usr/include/eigen3/Eigen/src/Core/Matrix.h: In instantiation of \xe2\x80\x98\x1b[01m\x1b[KEigen::Matrix<_Scalar, _Rows, _Cols, _Options, _MaxRows, _MaxCols>::Matrix(const T&) [with T = std::array<double, 7>; _Scalar = double; int _Rows = -1; int _Cols = 1; int _Options = 0; int _MaxRows = -1; int _MaxCols = 1]\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[3.575324] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:155:40:\x1b[m\x1b[K   required from here\n'}
+[3.575392] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:808:30:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[Kcandidate: \xe2\x80\x98\x1b[01m\x1b[Kvoid Eigen::PlainObjectBase<Derived>::_init1(const Scalar*) [with T = std::array<double, 7>; Derived = Eigen::Matrix<double, -1, 1>; Eigen::PlainObjectBase<Derived>::Scalar = double]\x1b[m\x1b[K\xe2\x80\x99\n'}
+[3.575464] (sub) StderrLine: {'line': b'  808 |     EIGEN_STRONG_INLINE void \x1b[01;36m\x1b[K_init1\x1b[m\x1b[K(const Scalar* data){\n'}
+[3.575532] (sub) StderrLine: {'line': b'      |                              \x1b[01;36m\x1b[K^~~~~~\x1b[m\x1b[K\n'}
+[3.575600] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:808:51:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[K  no known conversion for argument 1 from \xe2\x80\x98\x1b[01m\x1b[Kconst std::array<double, 7>\x1b[m\x1b[K\xe2\x80\x99 to \xe2\x80\x98\x1b[01m\x1b[Kconst Scalar*\x1b[m\x1b[K\xe2\x80\x99 {aka \xe2\x80\x98\x1b[01m\x1b[Kconst double*\x1b[m\x1b[K\xe2\x80\x99}\n'}
+[3.575681] (sub) StderrLine: {'line': b'  808 |     EIGEN_STRONG_INLINE void _init1(\x1b[01;36m\x1b[Kconst Scalar* data\x1b[m\x1b[K){\n'}
+[3.575755] (sub) StderrLine: {'line': b'      |                                     \x1b[01;36m\x1b[K~~~~~~~~~~~~~~^~~~\x1b[m\x1b[K\n'}
+[3.575824] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:815:30:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[Kcandidate: \xe2\x80\x98\x1b[01m\x1b[Ktemplate<class T, class OtherDerived> void Eigen::PlainObjectBase<Derived>::_init1(const Eigen::DenseBase<ElseDerived>&) [with T = T; OtherDerived = OtherDerived; Derived = Eigen::Matrix<double, -1, 1>]\x1b[m\x1b[K\xe2\x80\x99\n'}
+[3.575896] (sub) StderrLine: {'line': b'  815 |     EIGEN_STRONG_INLINE void \x1b[01;36m\x1b[K_init1\x1b[m\x1b[K(const DenseBase<OtherDerived>& other){\n'}
+[3.575966] (sub) StderrLine: {'line': b'      |                              \x1b[01;36m\x1b[K^~~~~~\x1b[m\x1b[K\n'}
+[3.576035] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:815:30:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[K  template argument deduction/substitution failed:\n'}
+[3.576104] (sub) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Core:458\x1b[m\x1b[K,\n'}
+[3.576173] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Geometry:11\x1b[m\x1b[K,\n'}
+[3.576242] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:5\x1b[m\x1b[K,\n'}
+[3.576318] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:14\x1b[m\x1b[K:\n'}
+[3.576392] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/Matrix.h:294:31:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[K  \xe2\x80\x98\x1b[01m\x1b[Kconst std::array<double, 7>\x1b[m\x1b[K\xe2\x80\x99 is not derived from \xe2\x80\x98\x1b[01m\x1b[Kconst Eigen::DenseBase<Derived>\x1b[m\x1b[K\xe2\x80\x99\n'}
+[3.576462] (sub) StderrLine: {'line': b'  294 |       \x1b[01;36m\x1b[KBase::template _init1<T>(x)\x1b[m\x1b[K;\n'}
+[3.576530] (sub) StderrLine: {'line': b'      |       \x1b[01;36m\x1b[K~~~~~~~~~~~~~~~~~~~~~~~~^~~\x1b[m\x1b[K\n'}
+[3.576597] (sub) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Core:457\x1b[m\x1b[K,\n'}
+[3.576664] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Geometry:11\x1b[m\x1b[K,\n'}
+[3.576732] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:5\x1b[m\x1b[K,\n'}
+[3.576799] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:14\x1b[m\x1b[K:\n'}
+[3.576867] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:822:30:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[Kcandidate: \xe2\x80\x98\x1b[01m\x1b[Kvoid Eigen::PlainObjectBase<Derived>::_init1(const Derived&) [with T = std::array<double, 7>; Derived = Eigen::Matrix<double, -1, 1>]\x1b[m\x1b[K\xe2\x80\x99\n'}
+[3.576938] (sub) StderrLine: {'line': b'  822 |     EIGEN_STRONG_INLINE void \x1b[01;36m\x1b[K_init1\x1b[m\x1b[K(const Derived& other){\n'}
+[3.577007] (sub) StderrLine: {'line': b'      |                              \x1b[01;36m\x1b[K^~~~~~\x1b[m\x1b[K\n'}
+[3.577075] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:822:52:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[K  no known conversion for argument 1 from \xe2\x80\x98\x1b[01m\x1b[Kconst std::array<double, 7>\x1b[m\x1b[K\xe2\x80\x99 to \xe2\x80\x98\x1b[01m\x1b[Kconst Eigen::Matrix<double, -1, 1>&\x1b[m\x1b[K\xe2\x80\x99\n'}
+[3.577146] (sub) StderrLine: {'line': b'  822 |     EIGEN_STRONG_INLINE void _init1(\x1b[01;36m\x1b[Kconst Derived& other\x1b[m\x1b[K){\n'}
+[3.577214] (sub) StderrLine: {'line': b'      |                                     \x1b[01;36m\x1b[K~~~~~~~~~~~~~~~^~~~~\x1b[m\x1b[K\n'}
+[3.577283] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:829:30:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[Kcandidate: \xe2\x80\x98\x1b[01m\x1b[Ktemplate<class T, class OtherDerived> void Eigen::PlainObjectBase<Derived>::_init1(const Eigen::EigenBase<OtherDerived>&) [with T = T; OtherDerived = OtherDerived; Derived = Eigen::Matrix<double, -1, 1>]\x1b[m\x1b[K\xe2\x80\x99\n'}
+[3.577362] (sub) StderrLine: {'line': b'  829 |     EIGEN_STRONG_INLINE void \x1b[01;36m\x1b[K_init1\x1b[m\x1b[K(const EigenBase<OtherDerived>& other){\n'}
+[3.577431] (sub) StderrLine: {'line': b'      |                              \x1b[01;36m\x1b[K^~~~~~\x1b[m\x1b[K\n'}
+[3.577499] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:829:30:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[K  template argument deduction/substitution failed:\n'}
+[3.577567] (sub) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Core:458\x1b[m\x1b[K,\n'}
+[3.577635] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Geometry:11\x1b[m\x1b[K,\n'}
+[3.577701] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:5\x1b[m\x1b[K,\n'}
+[3.577767] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:14\x1b[m\x1b[K:\n'}
+[3.577834] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/Matrix.h:294:31:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[K  \xe2\x80\x98\x1b[01m\x1b[Kconst std::array<double, 7>\x1b[m\x1b[K\xe2\x80\x99 is not derived from \xe2\x80\x98\x1b[01m\x1b[Kconst Eigen::EigenBase<OtherDerived>\x1b[m\x1b[K\xe2\x80\x99\n'}
+[3.577907] (sub) StderrLine: {'line': b'  294 |       \x1b[01;36m\x1b[KBase::template _init1<T>(x)\x1b[m\x1b[K;\n'}
+[3.577975] (sub) StderrLine: {'line': b'      |       \x1b[01;36m\x1b[K~~~~~~~~~~~~~~~~~~~~~~~~^~~\x1b[m\x1b[K\n'}
+[3.578042] (sub) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Core:457\x1b[m\x1b[K,\n'}
+[3.578110] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Geometry:11\x1b[m\x1b[K,\n'}
+[3.578177] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:5\x1b[m\x1b[K,\n'}
+[3.578244] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:14\x1b[m\x1b[K:\n'}
+[3.578312] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:835:30:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[Kcandidate: \xe2\x80\x98\x1b[01m\x1b[Ktemplate<class T, class OtherDerived> void Eigen::PlainObjectBase<Derived>::_init1(const Eigen::ReturnByValue<OtherDerived>&) [with T = T; OtherDerived = OtherDerived; Derived = Eigen::Matrix<double, -1, 1>]\x1b[m\x1b[K\xe2\x80\x99\n'}
+[3.578384] (sub) StderrLine: {'line': b'  835 |     EIGEN_STRONG_INLINE void \x1b[01;36m\x1b[K_init1\x1b[m\x1b[K(const ReturnByValue<OtherDerived>& other)\n'}
+[3.578453] (sub) StderrLine: {'line': b'      |                              \x1b[01;36m\x1b[K^~~~~~\x1b[m\x1b[K\n'}
+[3.578521] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:835:30:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[K  template argument deduction/substitution failed:\n'}
+[3.578589] (sub) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Core:458\x1b[m\x1b[K,\n'}
+[3.578655] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Geometry:11\x1b[m\x1b[K,\n'}
+[3.578728] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:5\x1b[m\x1b[K,\n'}
+[3.578800] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:14\x1b[m\x1b[K:\n'}
+[3.578872] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/Matrix.h:294:31:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[K  \xe2\x80\x98\x1b[01m\x1b[Kconst std::array<double, 7>\x1b[m\x1b[K\xe2\x80\x99 is not derived from \xe2\x80\x98\x1b[01m\x1b[Kconst Eigen::ReturnByValue<OtherDerived>\x1b[m\x1b[K\xe2\x80\x99\n'}
+[3.578940] (sub) StderrLine: {'line': b'  294 |       \x1b[01;36m\x1b[KBase::template _init1<T>(x)\x1b[m\x1b[K;\n'}
+[3.579006] (sub) StderrLine: {'line': b'      |       \x1b[01;36m\x1b[K~~~~~~~~~~~~~~~~~~~~~~~~^~~\x1b[m\x1b[K\n'}
+[3.579090] (sub) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Core:457\x1b[m\x1b[K,\n'}
+[3.579161] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Geometry:11\x1b[m\x1b[K,\n'}
+[3.579228] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:5\x1b[m\x1b[K,\n'}
+[3.579295] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:14\x1b[m\x1b[K:\n'}
+[3.579362] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:843:30:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[Kcandidate: \xe2\x80\x98\x1b[01m\x1b[Ktemplate<class T, class OtherDerived, int ColsAtCompileTime> void Eigen::PlainObjectBase<Derived>::_init1(const Eigen::RotationBase<OtherDerived, ColsAtCompileTime>&) [with T = T; OtherDerived = OtherDerived; int ColsAtCompileTime = ColsAtCompileTime; Derived = Eigen::Matrix<double, -1, 1>]\x1b[m\x1b[K\xe2\x80\x99\n'}
+[3.579435] (sub) StderrLine: {'line': b'  843 |     EIGEN_STRONG_INLINE void \x1b[01;36m\x1b[K_init1\x1b[m\x1b[K(const RotationBase<OtherDerived,ColsAtCompileTime>& r)\n'}
+[3.579504] (sub) StderrLine: {'line': b'      |                              \x1b[01;36m\x1b[K^~~~~~\x1b[m\x1b[K\n'}
+[3.579571] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:843:30:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[K  template argument deduction/substitution failed:\n'}
+[3.579640] (sub) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Core:458\x1b[m\x1b[K,\n'}
+[3.579708] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Geometry:11\x1b[m\x1b[K,\n'}
+[3.579776] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:5\x1b[m\x1b[K,\n'}
+[3.579842] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:14\x1b[m\x1b[K:\n'}
+[3.579909] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/Matrix.h:294:31:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[K  \xe2\x80\x98\x1b[01m\x1b[Kconst std::array<double, 7>\x1b[m\x1b[K\xe2\x80\x99 is not derived from \xe2\x80\x98\x1b[01m\x1b[Kconst Eigen::RotationBase<OtherDerived, ColsAtCompileTime>\x1b[m\x1b[K\xe2\x80\x99\n'}
+[3.579978] (sub) StderrLine: {'line': b'  294 |       \x1b[01;36m\x1b[KBase::template _init1<T>(x)\x1b[m\x1b[K;\n'}
+[3.580044] (sub) StderrLine: {'line': b'      |       \x1b[01;36m\x1b[K~~~~~~~~~~~~~~~~~~~~~~~~^~~\x1b[m\x1b[K\n'}
+[3.580110] (sub) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Core:457\x1b[m\x1b[K,\n'}
+[3.580182] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Geometry:11\x1b[m\x1b[K,\n'}
+[3.580249] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:5\x1b[m\x1b[K,\n'}
+[3.580316] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:14\x1b[m\x1b[K:\n'}
+[3.580383] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:851:30:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[Kcandidate: \xe2\x80\x98\x1b[01m\x1b[Ktemplate<class T> void Eigen::PlainObjectBase<Derived>::_init1(const Scalar&, typename Eigen::internal::enable_if<((((typename Eigen::internal::dense_xpr_base<Derived>::type::SizeAtCompileTime != Eigen::Dynamic) && (typename Eigen::internal::dense_xpr_base<Derived>::type::SizeAtCompileTime != 1)) && Eigen::internal::is_convertible<T, typename Eigen::internal::traits<T>::Scalar>::value) && Eigen::internal::is_same<typename Eigen::internal::traits<T>::XprKind, Eigen::ArrayXpr>::value), T>::type*) [with T = T; Derived = Eigen::Matrix<double, -1, 1>]\x1b[m\x1b[K\xe2\x80\x99\n'}
+[3.580468] (sub) StderrLine: {'line': b'  851 |     EIGEN_STRONG_INLINE void \x1b[01;36m\x1b[K_init1\x1b[m\x1b[K(const Scalar& val0,\n'}
+[3.580536] (sub) StderrLine: {'line': b'      |                              \x1b[01;36m\x1b[K^~~~~~\x1b[m\x1b[K\n'}
+[3.580604] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:851:30:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[K  template argument deduction/substitution failed:\n'}
+[3.580672] (sub) StderrLine: {'line': b'/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h: In substitution of \xe2\x80\x98\x1b[01m\x1b[Ktemplate<class T> void Eigen::PlainObjectBase<Eigen::Matrix<double, -1, 1> >::_init1<T>(const Scalar&, typename Eigen::internal::enable_if<((((Eigen::MatrixBase<Eigen::Matrix<double, -1, 1> >::SizeAtCompileTime != Eigen::Dynamic) && (Eigen::MatrixBase<Eigen::Matrix<double, -1, 1> >::SizeAtCompileTime != 1)) && Eigen::internal::is_convertible<T, double>::value) && Eigen::internal::is_same<Eigen::MatrixXpr, Eigen::ArrayXpr>::value), T>::type*) [with T = std::array<double, 7>]\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[3.580755] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/Matrix.h:294:31:\x1b[m\x1b[K   required from \xe2\x80\x98\x1b[01m\x1b[KEigen::Matrix<_Scalar, _Rows, _Cols, _Options, _MaxRows, _MaxCols>::Matrix(const T&) [with T = std::array<double, 7>; _Scalar = double; int _Rows = -1; int _Cols = 1; int _Options = 0; int _MaxRows = -1; int _MaxCols = 1]\x1b[m\x1b[K\xe2\x80\x99\n'}
+[3.580830] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:155:40:\x1b[m\x1b[K   required from here\n'}
+[3.580900] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:851:30:\x1b[m\x1b[K \x1b[01;31m\x1b[Kerror: \x1b[m\x1b[Kinvalid use of incomplete type \xe2\x80\x98\x1b[01m\x1b[Kstruct Eigen::internal::enable_if<false, std::array<double, 7> >\x1b[m\x1b[K\xe2\x80\x99\n'}
+[3.580971] (sub) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Core:364\x1b[m\x1b[K,\n'}
+[3.581039] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Geometry:11\x1b[m\x1b[K,\n'}
+[3.581107] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:5\x1b[m\x1b[K,\n'}
+[3.581175] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:14\x1b[m\x1b[K:\n'}
+[3.581243] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/util/Meta.h:184:50:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[Kdeclaration of \xe2\x80\x98\x1b[01m\x1b[Kstruct Eigen::internal::enable_if<false, std::array<double, 7> >\x1b[m\x1b[K\xe2\x80\x99\n'}
+[3.581312] (sub) StderrLine: {'line': b'  184 | template<bool Condition, typename T=void> struct \x1b[01;36m\x1b[Kenable_if\x1b[m\x1b[K;\n'}
+[3.581380] (sub) StderrLine: {'line': b'      |                                                  \x1b[01;36m\x1b[K^~~~~~~~~\x1b[m\x1b[K\n'}
+[3.581448] (sub) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Core:457\x1b[m\x1b[K,\n'}
+[3.581516] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Geometry:11\x1b[m\x1b[K,\n'}
+[3.581584] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:5\x1b[m\x1b[K,\n'}
+[3.581659] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:14\x1b[m\x1b[K:\n'}
+[3.581728] (sub) StderrLine: {'line': b'/usr/include/eigen3/Eigen/src/Core/Matrix.h: In instantiation of \xe2\x80\x98\x1b[01m\x1b[KEigen::Matrix<_Scalar, _Rows, _Cols, _Options, _MaxRows, _MaxCols>::Matrix(const T&) [with T = std::array<double, 7>; _Scalar = double; int _Rows = -1; int _Cols = 1; int _Options = 0; int _MaxRows = -1; int _MaxCols = 1]\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[3.581804] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:155:40:\x1b[m\x1b[K   required from here\n'}
+[3.581874] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:863:30:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[Kcandidate: \xe2\x80\x98\x1b[01m\x1b[Ktemplate<class T> void Eigen::PlainObjectBase<Derived>::_init1(const Index&, typename Eigen::internal::enable_if<((((((! Eigen::internal::is_same<long int, typename Eigen::internal::traits<T>::Scalar>::value) && Eigen::internal::is_same<long int, T>::value) && (typename Eigen::internal::dense_xpr_base<Derived>::type::SizeAtCompileTime != Eigen::Dynamic)) && (typename Eigen::internal::dense_xpr_base<Derived>::type::SizeAtCompileTime != 1)) && Eigen::internal::is_convertible<T, typename Eigen::internal::traits<T>::Scalar>::value) && Eigen::internal::is_same<typename Eigen::internal::traits<T>::XprKind, Eigen::ArrayXpr>::value), T*>::type*) [with T = T; Derived = Eigen::Matrix<double, -1, 1>]\x1b[m\x1b[K\xe2\x80\x99\n'}
+[3.581950] (sub) StderrLine: {'line': b'  863 |     EIGEN_STRONG_INLINE void \x1b[01;36m\x1b[K_init1\x1b[m\x1b[K(const Index& val0,\n'}
+[3.582018] (sub) StderrLine: {'line': b'      |                              \x1b[01;36m\x1b[K^~~~~~\x1b[m\x1b[K\n'}
+[3.582086] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:863:30:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[K  template argument deduction/substitution failed:\n'}
+[3.582154] (sub) StderrLine: {'line': b'/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h: In substitution of \xe2\x80\x98\x1b[01m\x1b[Ktemplate<class T> void Eigen::PlainObjectBase<Eigen::Matrix<double, -1, 1> >::_init1<T>(const Index&, typename Eigen::internal::enable_if<((((((! Eigen::internal::is_same<long int, double>::value) && Eigen::internal::is_same<long int, T>::value) && (Eigen::MatrixBase<Eigen::Matrix<double, -1, 1> >::SizeAtCompileTime != Eigen::Dynamic)) && (Eigen::MatrixBase<Eigen::Matrix<double, -1, 1> >::SizeAtCompileTime != 1)) && Eigen::internal::is_convertible<T, double>::value) && Eigen::internal::is_same<Eigen::MatrixXpr, Eigen::ArrayXpr>::value), T*>::type*) [with T = std::array<double, 7>]\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[3.582235] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/Matrix.h:294:31:\x1b[m\x1b[K   required from \xe2\x80\x98\x1b[01m\x1b[KEigen::Matrix<_Scalar, _Rows, _Cols, _Options, _MaxRows, _MaxCols>::Matrix(const T&) [with T = std::array<double, 7>; _Scalar = double; int _Rows = -1; int _Cols = 1; int _Options = 0; int _MaxRows = -1; int _MaxCols = 1]\x1b[m\x1b[K\xe2\x80\x99\n'}
+[3.582311] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:155:40:\x1b[m\x1b[K   required from here\n'}
+[3.582379] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:863:30:\x1b[m\x1b[K \x1b[01;31m\x1b[Kerror: \x1b[m\x1b[Kinvalid use of incomplete type \xe2\x80\x98\x1b[01m\x1b[Kstruct Eigen::internal::enable_if<false, std::array<double, 7>*>\x1b[m\x1b[K\xe2\x80\x99\n'}
+[3.582449] (sub) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Core:364\x1b[m\x1b[K,\n'}
+[3.582517] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/usr/include/eigen3/Eigen/Geometry:11\x1b[m\x1b[K,\n'}
+[3.582584] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:5\x1b[m\x1b[K,\n'}
+[3.582659] (sub) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:14\x1b[m\x1b[K:\n'}
+[3.582727] (sub) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/eigen3/Eigen/src/Core/util/Meta.h:184:50:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[Kdeclaration of \xe2\x80\x98\x1b[01m\x1b[Kstruct Eigen::internal::enable_if<false, std::array<double, 7>*>\x1b[m\x1b[K\xe2\x80\x99\n'}
+[3.582797] (sub) StderrLine: {'line': b'  184 | template<bool Condition, typename T=void> struct \x1b[01;36m\x1b[Kenable_if\x1b[m\x1b[K;\n'}
+[3.582865] (sub) StderrLine: {'line': b'      |                                                  \x1b[01;36m\x1b[K^~~~~~~~~\x1b[m\x1b[K\n'}
+[3.612844] (-) TimerEvent: {}
+[3.713158] (-) TimerEvent: {}
+[3.813491] (-) TimerEvent: {}
+[3.913819] (-) TimerEvent: {}
+[4.014139] (-) TimerEvent: {}
+[4.114465] (-) TimerEvent: {}
+[4.214793] (-) TimerEvent: {}
+[4.315125] (-) TimerEvent: {}
+[4.415452] (-) TimerEvent: {}
+[4.515778] (-) TimerEvent: {}
+[4.616101] (-) TimerEvent: {}
+[4.716431] (-) TimerEvent: {}
+[4.816772] (-) TimerEvent: {}
+[4.917106] (-) TimerEvent: {}
+[5.017425] (-) TimerEvent: {}
+[5.117753] (-) TimerEvent: {}
+[5.218080] (-) TimerEvent: {}
+[5.318408] (-) TimerEvent: {}
+[5.418736] (-) TimerEvent: {}
+[5.519071] (-) TimerEvent: {}
+[5.619397] (-) TimerEvent: {}
+[5.719720] (-) TimerEvent: {}
+[5.820058] (-) TimerEvent: {}
+[5.920376] (-) TimerEvent: {}
+[6.020696] (-) TimerEvent: {}
+[6.121024] (-) TimerEvent: {}
+[6.221353] (-) TimerEvent: {}
+[6.321652] (-) TimerEvent: {}
+[6.421979] (-) TimerEvent: {}
+[6.522273] (-) TimerEvent: {}
+[6.622593] (-) TimerEvent: {}
+[6.722911] (-) TimerEvent: {}
+[6.823219] (-) TimerEvent: {}
+[6.923545] (-) TimerEvent: {}
+[7.023875] (-) TimerEvent: {}
+[7.124198] (-) TimerEvent: {}
+[7.224524] (-) TimerEvent: {}
+[7.324849] (-) TimerEvent: {}
+[7.425141] (-) TimerEvent: {}
+[7.525465] (-) TimerEvent: {}
+[7.625793] (-) TimerEvent: {}
+[7.726118] (-) TimerEvent: {}
+[7.826443] (-) TimerEvent: {}
+[7.926772] (-) TimerEvent: {}
+[8.027116] (-) TimerEvent: {}
+[8.127397] (-) TimerEvent: {}
+[8.227725] (-) TimerEvent: {}
+[8.328007] (-) TimerEvent: {}
+[8.428334] (-) TimerEvent: {}
+[8.528666] (-) TimerEvent: {}
+[8.628958] (-) TimerEvent: {}
+[8.729270] (-) TimerEvent: {}
+[8.829568] (-) TimerEvent: {}
+[8.929885] (-) TimerEvent: {}
+[9.030178] (-) TimerEvent: {}
+[9.130498] (-) TimerEvent: {}
+[9.230823] (-) TimerEvent: {}
+[9.331135] (-) TimerEvent: {}
+[9.431418] (-) TimerEvent: {}
+[9.531699] (-) TimerEvent: {}
+[9.632015] (-) TimerEvent: {}
+[9.732329] (-) TimerEvent: {}
+[9.832648] (-) TimerEvent: {}
+[9.932961] (-) TimerEvent: {}
+[10.021750] (sub) StderrLine: {'line': b'make[2]: *** [CMakeFiles/control_sub.dir/build.make:63: CMakeFiles/control_sub.dir/src/control_sub.cpp.o] Error 1\n'}
+[10.022020] (sub) StderrLine: {'line': b'make[1]: *** [CMakeFiles/Makefile2:78: CMakeFiles/control_sub.dir/all] Error 2\n'}
+[10.022258] (sub) StderrLine: {'line': b'make: *** [Makefile:141: all] Error 2\n'}
+[10.024441] (sub) CommandEnded: {'returncode': 2}
+[10.033129] (-) TimerEvent: {}
+[10.065598] (sub) JobEnded: {'identifier': 'sub', 'rc': 2}
+[10.076626] (-) EventReactorShutdown: {}

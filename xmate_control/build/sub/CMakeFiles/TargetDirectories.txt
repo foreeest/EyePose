@@ -1,0 +1,10 @@
+/home/robot/Xmate3/xmate_control/build/sub/CMakeFiles/install/strip.dir
+/home/robot/Xmate3/xmate_control/build/sub/CMakeFiles/install/local.dir
+/home/robot/Xmate3/xmate_control/build/sub/CMakeFiles/install.dir
+/home/robot/Xmate3/xmate_control/build/sub/CMakeFiles/list_install_components.dir
+/home/robot/Xmate3/xmate_control/build/sub/CMakeFiles/rebuild_cache.dir
+/home/robot/Xmate3/xmate_control/build/sub/CMakeFiles/edit_cache.dir
+/home/robot/Xmate3/xmate_control/build/sub/CMakeFiles/test.dir
+/home/robot/Xmate3/xmate_control/build/sub/CMakeFiles/control_sub.dir
+/home/robot/Xmate3/xmate_control/build/sub/CMakeFiles/sub_uninstall.dir
+/home/robot/Xmate3/xmate_control/build/sub/CMakeFiles/uninstall.dir

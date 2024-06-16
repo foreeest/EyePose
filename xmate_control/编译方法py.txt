@@ -1,0 +1,4 @@
+/usr/bin/python3
+
+colcon build --cmake-args -DPYTHON_EXECUTABLE=/usr/bin/python3
+colcon build --cmake-args -DPYTHON_EXECUTABLE=/home/gamemaster/anaconda3/envs/ros/bin/python3

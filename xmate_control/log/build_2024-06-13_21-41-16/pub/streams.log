@@ -1,0 +1,27 @@
+[0.754s] Invoking command in '/home/robot/Xmate3/xmate_control/src/pub': PYTHONPATH=/home/robot/Xmate3/xmate_control/build/pub/prefix_override:/home/robot/Xmate3/xmate_control/install/pub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/pub build --build-base /home/robot/Xmate3/xmate_control/build/pub/build install --record /home/robot/Xmate3/xmate_control/build/pub/install.log --install-scripts $base/lib/pub --single-version-externally-managed install_data
+[1.048s] running egg_info
+[1.049s] writing ../../build/pub/pub.egg-info/PKG-INFO
+[1.049s] writing dependency_links to ../../build/pub/pub.egg-info/dependency_links.txt
+[1.049s] writing entry points to ../../build/pub/pub.egg-info/entry_points.txt
+[1.049s] writing requirements to ../../build/pub/pub.egg-info/requires.txt
+[1.049s] writing top-level names to ../../build/pub/pub.egg-info/top_level.txt
+[1.090s] reading manifest file '../../build/pub/pub.egg-info/SOURCES.txt'
+[1.091s] writing manifest file '../../build/pub/pub.egg-info/SOURCES.txt'
+[1.091s] running build
+[1.091s] running build_py
+[1.091s] copying pub/control_pub.py -> /home/robot/Xmate3/xmate_control/build/pub/build/lib/pub
+[1.091s] copying pub/utils/geometry.py -> /home/robot/Xmate3/xmate_control/build/pub/build/lib/pub/utils
+[1.091s] running install
+[1.092s] running install_lib
+[1.093s] copying /home/robot/Xmate3/xmate_control/build/pub/build/lib/pub/utils/geometry.py -> /home/robot/Xmate3/xmate_control/install/pub/lib/python3.8/site-packages/pub/utils
+[1.093s] copying /home/robot/Xmate3/xmate_control/build/pub/build/lib/pub/control_pub.py -> /home/robot/Xmate3/xmate_control/install/pub/lib/python3.8/site-packages/pub
+[1.094s] byte-compiling /home/robot/Xmate3/xmate_control/install/pub/lib/python3.8/site-packages/pub/utils/geometry.py to geometry.cpython-38.pyc
+[1.096s] byte-compiling /home/robot/Xmate3/xmate_control/install/pub/lib/python3.8/site-packages/pub/control_pub.py to control_pub.cpython-38.pyc
+[1.098s] running install_data
+[1.098s] running install_egg_info
+[1.100s] removing '/home/robot/Xmate3/xmate_control/install/pub/lib/python3.8/site-packages/pub-0.0.0-py3.8.egg-info' (and everything under it)
+[1.100s] Copying ../../build/pub/pub.egg-info to /home/robot/Xmate3/xmate_control/install/pub/lib/python3.8/site-packages/pub-0.0.0-py3.8.egg-info
+[1.101s] running install_scripts
+[1.121s] Installing control_pub script to /home/robot/Xmate3/xmate_control/install/pub/lib/pub
+[1.121s] writing list of installed files to '/home/robot/Xmate3/xmate_control/build/pub/install.log'
+[1.145s] Invoked command in '/home/robot/Xmate3/xmate_control/src/pub' returned '0': PYTHONPATH=/home/robot/Xmate3/xmate_control/build/pub/prefix_override:/home/robot/Xmate3/xmate_control/install/pub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/pub build --build-base /home/robot/Xmate3/xmate_control/build/pub/build install --record /home/robot/Xmate3/xmate_control/build/pub/install.log --install-scripts $base/lib/pub --single-version-externally-managed install_data

@@ -1,0 +1,21 @@
+[1.109s] Invoking command in '/home/robot/Xmate3/xmate_control/src/pub': PYTHONPATH=/home/robot/Xmate3/xmate_control/build/pub/prefix_override:/home/robot/Xmate3/xmate_control/install/pub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/pub build --build-base /home/robot/Xmate3/xmate_control/build/pub/build install --record /home/robot/Xmate3/xmate_control/build/pub/install.log --install-scripts $base/lib/pub --single-version-externally-managed install_data
+[1.403s] running egg_info
+[1.403s] writing ../../build/pub/pub.egg-info/PKG-INFO
+[1.404s] writing dependency_links to ../../build/pub/pub.egg-info/dependency_links.txt
+[1.405s] writing entry points to ../../build/pub/pub.egg-info/entry_points.txt
+[1.405s] writing requirements to ../../build/pub/pub.egg-info/requires.txt
+[1.405s] writing top-level names to ../../build/pub/pub.egg-info/top_level.txt
+[1.464s] reading manifest file '../../build/pub/pub.egg-info/SOURCES.txt'
+[1.465s] writing manifest file '../../build/pub/pub.egg-info/SOURCES.txt'
+[1.465s] running build
+[1.465s] running build_py
+[1.465s] running install
+[1.466s] running install_lib
+[1.468s] running install_data
+[1.469s] running install_egg_info
+[1.470s] removing '/home/robot/Xmate3/xmate_control/install/pub/lib/python3.8/site-packages/pub-0.0.0-py3.8.egg-info' (and everything under it)
+[1.471s] Copying ../../build/pub/pub.egg-info to /home/robot/Xmate3/xmate_control/install/pub/lib/python3.8/site-packages/pub-0.0.0-py3.8.egg-info
+[1.472s] running install_scripts
+[1.491s] Installing control_pub script to /home/robot/Xmate3/xmate_control/install/pub/lib/pub
+[1.491s] writing list of installed files to '/home/robot/Xmate3/xmate_control/build/pub/install.log'
+[1.511s] Invoked command in '/home/robot/Xmate3/xmate_control/src/pub' returned '0': PYTHONPATH=/home/robot/Xmate3/xmate_control/build/pub/prefix_override:/home/robot/Xmate3/xmate_control/install/pub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/pub build --build-base /home/robot/Xmate3/xmate_control/build/pub/build install --record /home/robot/Xmate3/xmate_control/build/pub/install.log --install-scripts $base/lib/pub --single-version-externally-managed install_data

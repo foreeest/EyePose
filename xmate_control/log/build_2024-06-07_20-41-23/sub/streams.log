@@ -1,0 +1,25 @@
+[0.255s] Invoking command in '/home/robot/Xmate3/xmate_control/build/sub': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/robot/Xmate3/xmate_control/build/sub -- -j12 -l12
+[0.308s] [35m[1mScanning dependencies of target control_sub[0m
+[0.372s] [ 50%] [32mBuilding CXX object CMakeFiles/control_sub.dir/src/control_sub.cpp.o[0m
+[2.907s] In file included from [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:14[m[K:
+[2.907s] [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:[m[K In constructor ‘[01m[KIK_solution::IK_solution(const Eigen::Matrix<double, 7, 4>&, const std::vector<double, std::allocator<double> >&, const std::vector<double, std::allocator<double> >&, const Matrix4d&, const Matrix4d&, double)[m[K’:
+[2.907s] [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:30:44:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Klower_bond[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[2.907s]    30 |                 [01;35m[Kconst std::vector<double>& lower_bond[m[K,
+[2.907s]       |                 [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~[m[K
+[2.907s] [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/IK_solution.cpp:31:44:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kupper_bond[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[2.908s]    31 |                 [01;35m[Kconst std::vector<double>& upper_bond[m[K,
+[2.908s]       |                 [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~[m[K
+[3.433s] [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:[m[K In lambda function:
+[3.433s] [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:198:30:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[Kfor[m[K’
+[3.433s]   198 |             cout<<"joint v= "
+[3.433s]       |                              [01;31m[K^[m[K
+[3.433s]       |                              [32m[K;[m[K
+[3.433s]   199 |             [32m[Kfor[m[K(int i=0;i<NMBD;++i){
+[3.433s]       |             [32m[K~~~[m[K               
+[3.435s] [01m[K/home/robot/Xmate3/xmate_control/src/sub/src/control_sub.cpp:199:25:[m[K [01;31m[Kerror: [m[K‘[01m[Ki[m[K’ was not declared in this scope
+[3.435s]   199 |             for(int i=0;[01;31m[Ki[m[K<NMBD;++i){
+[3.435s]       |                         [01;31m[K^[m[K
+[10.520s] make[2]: *** [CMakeFiles/control_sub.dir/build.make:63: CMakeFiles/control_sub.dir/src/control_sub.cpp.o] Error 1
+[10.521s] make[1]: *** [CMakeFiles/Makefile2:78: CMakeFiles/control_sub.dir/all] Error 2
+[10.521s] make: *** [Makefile:141: all] Error 2
+[10.523s] Invoked command in '/home/robot/Xmate3/xmate_control/build/sub' returned '2': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/robot/Xmate3/xmate_control/build/sub -- -j12 -l12

@@ -1,4 +1,5 @@
 # using realsense l515's rgb camera
+# have debug, 领先于pupil_track和pupil_realsense
 import cv2
 import numpy as np
 from geometry import ellipse_to_limbus
@@ -58,8 +59,12 @@ def fit_rotated_ellipse(data):
     cy = (2*a*e - b*d)/(b**2-4*a*c)
 
     cu = a*cx**2 + b*cx*cy + c*cy**2 -f
-    w= np.sqrt(cu/(a*np.cos(theta)**2 + b* np.cos(theta)*np.sin(theta) + c*np.sin(theta)**2))
-    h= np.sqrt(cu/(a*np.sin(theta)**2 - b* np.cos(theta)*np.sin(theta) + c*np.cos(theta)**2))
+    w2 = cu/(a*np.cos(theta)**2 + b* np.cos(theta)*np.sin(theta) + c*np.sin(theta)**2)
+    h2 = cu/(a*np.sin(theta)**2 - b* np.cos(theta)*np.sin(theta) + c*np.cos(theta)**2)
+    if w2 <= 0 or h2 <= 0: # 防止开根负数
+        return 0, 0, 0, 0, 0
+    w= np.sqrt(w2)
+    h= np.sqrt(h2)
 
     ellipse_model = lambda x,y : a*x**2 + b*x*y + c*y**2 + d*x + e*y + f
 
@@ -146,7 +151,7 @@ def main():
                 if(len(approx) > 10 and area > 1000):
                     cx,cy,w,h,theta = fit_rotated_ellipse_ransac(con.reshape(-1,2))
 
-                    limbus, flag = ellipse_to_limbus(cx, cy, w/2, h/2, theta, True) # 50个点返回一次
+                    limbus, flag = ellipse_to_limbus(cx, cy, w*2, h*2, theta, True) # 50个点返回一次, w和h要输入直径
                     if flag:
                         postion = limbus[0]
                         direction = limbus[1]

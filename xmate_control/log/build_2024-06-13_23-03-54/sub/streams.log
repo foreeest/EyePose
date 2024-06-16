@@ -1,0 +1,22 @@
+[0.326s] Invoking command in '/home/robot/Xmate3/xmate_control/build/sub': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/Xmate3/xmate_control/install/pub:/opt/ros/foxy /usr/bin/cmake --build /home/robot/Xmate3/xmate_control/build/sub -- -j12 -l12
+[0.416s] [100%] Built target control_sub
+[0.428s] Invoked command in '/home/robot/Xmate3/xmate_control/build/sub' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/Xmate3/xmate_control/install/pub:/opt/ros/foxy /usr/bin/cmake --build /home/robot/Xmate3/xmate_control/build/sub -- -j12 -l12
+[0.469s] Invoking command in '/home/robot/Xmate3/xmate_control/build/sub': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/Xmate3/xmate_control/install/pub:/opt/ros/foxy /usr/bin/cmake --install /home/robot/Xmate3/xmate_control/build/sub
+[0.478s] -- Install configuration: ""
+[0.479s] -- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/lib/sub/control_sub
+[0.479s] -- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/ament_index/resource_index/package_run_dependencies/sub
+[0.480s] -- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/ament_index/resource_index/parent_prefix_path/sub
+[0.480s] -- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/sub/environment/ament_prefix_path.sh
+[0.480s] -- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/sub/environment/ament_prefix_path.dsv
+[0.480s] -- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/sub/environment/path.sh
+[0.481s] -- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/sub/environment/path.dsv
+[0.481s] -- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/sub/local_setup.bash
+[0.481s] -- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/sub/local_setup.sh
+[0.481s] -- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/sub/local_setup.zsh
+[0.481s] -- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/sub/local_setup.dsv
+[0.482s] -- Installing: /home/robot/Xmate3/xmate_control/install/sub/share/sub/package.dsv
+[0.482s] -- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/ament_index/resource_index/packages/sub
+[0.482s] -- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/sub/cmake/subConfig.cmake
+[0.483s] -- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/sub/cmake/subConfig-version.cmake
+[0.483s] -- Up-to-date: /home/robot/Xmate3/xmate_control/install/sub/share/sub/package.xml
+[0.484s] Invoked command in '/home/robot/Xmate3/xmate_control/build/sub' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/Xmate3/xmate_control/install/pub:/opt/ros/foxy /usr/bin/cmake --install /home/robot/Xmate3/xmate_control/build/sub
